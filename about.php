@@ -119,9 +119,9 @@ $pageSlug = detectPageSlug(__FILE__);
                                                                     $country = $clientCountryCode;
                                                                     $phonecode = $clientCountryCode;
                                                                     $submit = '';
-                                                                    $language = 'en';
-                                                                    $offer = 'NerCapis App AI';
-                                                                    include "./form_crypto_hyper/form_js_thanks.php"; ?>
+                                                                    $language = getLang('language_iso');
+                                                                    $offer = getLang('brand_name_api');
+                                                                    include rtrim($_SERVER['DOCUMENT_ROOT'], '/') . "/form_crypto_hyper/form_js_thanks.php"; ?>
                                                                 </div>
                                                             </div>
                                                         </div>
