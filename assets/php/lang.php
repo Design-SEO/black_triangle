@@ -22,11 +22,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Your Premier Crypto Investment Platform in the UK | The Official Website',
         'meta_description' => 'Join Floventra to unlock the power of Bitcoin, Ethereum, and more with AI-driven tools. Start your crypto journey with trusted brokers for just £190!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, crypto investing, Bitcoin trading, AI-driven platform, Floventra, UK, Ethereum, altcoins, secure trading',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra delivers a secure, AI-powered platform for UK crypto investors, offering advanced tools and trusted brokers for Bitcoin and altcoins.',
         'jsonld_faq_1_question' => 'What is Floventra?',
         'jsonld_faq_1_answer' => 'Floventra is a leading UK platform using optional AI to analyze crypto markets with 99.4% accuracy, helping you invest in Bitcoin, Ethereum, and more.',
@@ -45,17 +45,17 @@ return [
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
-        // Index
+
         'index_h1' => 'Launch Your Crypto Wealth Journey with Floventra',
         'index_form' => 'Join Floventra for Free and Start Crypto Investing',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                        <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="/">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
+                        <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
                     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra is not a financial advisor and does not provide personalized investment guidance. You are responsible for your crypto trading decisions and must adhere to local financial regulations. Our free platform, supported by partnerships with FCA-compliant brokers, connects you to secure crypto opportunities, and we may earn commissions from referrals.</p>
                     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">We connect you with trusted, FCA-compliant brokers to ensure a safe and reliable crypto investing experience. While some regional regulations may apply, Floventra is designed to help you navigate the crypto market confidently with a minimum deposit of just £190.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                             Why Floventra Is Your Ultimate Crypto Investment Platform
                         </h2>
-                        <p><a data-id="9" data-type="page" href="/"><strong>Floventra</strong></a> is your trusted gateway to FCA-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned trader, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
+                        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> is your trusted gateway to FCA-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned trader, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
                         <p>The cryptocurrency market, valued at £900 billion to £1 trillion, is in a stable phase, offering a prime opportunity to invest in digital assets like Bitcoin, the cornerstone of crypto wealth. Don’t wait—entry barriers are low now, but this window may close soon.</p>
                         <p>In <script>document.write(new Date().getFullYear() - 5)</script>, the crypto market soared to £2.9 trillion, with Bitcoin peaking at £67,000 and altcoins like Ethereum driving massive returns for early investors.</p>
                         <p>Experts predict another crypto surge, fueled by global adoption and blockchain advancements. With Floventra’s optional AI tools boasting 99.4% accuracy, you’re equipped to seize high returns in this fast-moving market.</p>',
@@ -171,7 +171,7 @@ return [
                     </h2>
                     <p>Floventra evolves with the cryptocurrency market, offering innovative AI tools to trade Bitcoin, Ethereum, and emerging altcoins with precision.</p>
                     <p>Our platform empowers crypto investors worldwide with features designed to unlock the full potential of digital assets.</p>',
-        // About Page
+
         'about_title' => 'Floventra - UK’s Leading Crypto Investment Platform',
         'about_desc_content' => 'Discover Floventra, the UK’s premier platform for crypto investing, offering AI-driven tools for Bitcoin, Ethereum, and altcoins.',
         'about_keywords' => 'crypto investing, Bitcoin trading, AI-driven platform, Floventra, UK, Ethereum, altcoins, secure trading',
@@ -202,7 +202,7 @@ return [
                         <p>Floventra is not linked to the Dragons’ Den scam, which falsely promotes fake crypto software. Our platform was never featured or endorsed by the show.</p>
                         <p>Avoid misleading ads claiming ties to Floventra—your crypto investment security is our top priority.</p>',
         'about_opportunities' => 'SEIZE CRYPTO OPPORTUNITIES WITH Floventra',
-        // Contact Page
+
         'contact_title' => 'Contact Floventra - UK Crypto Investment Support',
         'contact_desc_content' => 'Reach out to Floventra’s team for expert support on Bitcoin, Ethereum, and altcoin investments in the UK.',
         'contact_keywords' => 'crypto support, Floventra, UK, Bitcoin, Ethereum, altcoins, AI-driven investing',
@@ -215,14 +215,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra Contact Guidelines</h2>
                     <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Review these instructions to direct your crypto inquiry to the right team.</strong></p>
                     <p class="has-base-3-color has-text-color">For help with registration, crypto trading questions, or technical issues, use the form below, and our support team will respond quickly.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Privacy Policy - UK Crypto Data Protection',
         'privacy_desc_content' => 'Learn how Floventra protects your data for secure crypto investing in the UK. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'privacy policy, Floventra, UK, crypto data protection, Bitcoin, Ethereum, AI-driven investing',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                     <p>Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script></p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Who We Are</h2>
-                    <p>Our website: <a href="/">https://floventra.org/</a>.</p>
+                    <p>Our website: <a href="./">https://floventra.org/</a>.</p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comments</h2>
                     <p>When you leave comments, we collect form data, your IP address, and browser details to protect against spam in our crypto community.</p>
                     <p>An anonymized email hash may be sent to Gravatar to check usage. Their privacy policy: https://automattic.com/privacy/. Approved comments display your profile picture publicly.</p>
@@ -245,7 +245,7 @@ return [
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Where Data Goes</h2>
                     <p>Comments may be screened by automated spam detection to protect our crypto platform.</p>
                 </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Terms - UK Crypto Investment Services',
         'terms_desc_content' => 'Review Floventra’s terms for secure crypto investing in the UK. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'terms and conditions, Floventra, UK, crypto investment services, Bitcoin, Ethereum, AI-driven investing',
@@ -265,14 +265,14 @@ return [
                     <p>Service: Our website for crypto investing.</p>
                     <p>Terms and Conditions: Agreement governing your use of our crypto platform.</p>
                     <p>Third-party Social Media: External content or services in our platform.</p>
-                    <p>Website: Floventra at <a data-id="9" data-type="page" href="/">this address</a>.</p>
+                    <p>Website: Floventra at <a data-id="9" data-type="page" href="./">this address</a>.</p>
                     <p>You: The user or entity accessing our crypto services.</p>
                     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Agreement</strong></h2>
                     <p>These terms govern your use of our crypto platform, outlining your rights and responsibilities for Bitcoin and altcoin trading.</p>
                     <p>Access requires agreeing to these terms, applicable to all crypto users.</p>
                     <p>If you disagree, do not use our crypto services.</p>
                     <p>You must be over 18 to use our platform for crypto investing.</p>
-                    <p>Our <a href="/privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
+                    <p>Our <a href="./privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
                     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Your Crypto Account</strong></h2>
                     <p>Provide accurate, current information when signing up for crypto trading. Inaccuracies may lead to account termination.</p>
                     <p>Secure your password and report any unauthorized use immediately to protect your crypto investments.</p>
@@ -313,7 +313,7 @@ return [
                     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contact Us</strong></h2>
                     <p>For questions about these terms, contact us:</p>
                     <p>By email: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                    <p>Via our <a data-id="42" data-type="page" href="/contact">Contact Us</a> page.</p>
+                    <p>Via our <a data-id="42" data-type="page" href="./contact">Contact Us</a> page.</p>
                 </div>'
     ],
     'es' => [
@@ -361,13 +361,13 @@ return [
         'index_h1' => 'Inicia Tu Viaje de Riqueza en Criptomonedas con Floventra',
         'index_form' => 'Únete a Floventra Gratis y Comienza a Invertir en Criptomonedas',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="/">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones en criptomonedas conllevan riesgos y los rendimientos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no consejos financieros. Te recomendamos investigar a fondo antes de entrar en los mercados de criptomonedas.</p>
+                        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones en criptomonedas conllevan riesgos y los rendimientos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no consejos financieros. Te recomendamos investigar a fondo antes de entrar en los mercados de criptomonedas.</p>
                     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra no es un asesor financiero y no proporciona asesoramiento de inversión personalizado. Eres responsable de tus decisiones de trading en criptomonedas y debes cumplir con las regulaciones financieras locales. Nuestra plataforma gratuita, respaldada por partnerships con brokers conformes con la FCA, te conecta a oportunidades seguras de criptomonedas y podemos ganar comisiones por referencias.</p>
                     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Te conectamos con brokers confiables y conformes con la FCA para garantizar una experiencia de inversión en criptomonedas segura y confiable. Aunque algunas regulaciones regionales pueden aplicarse, Floventra está diseñada para ayudarte a navegar el mercado de criptomonedas con confianza con un depósito mínimo de solo 190£.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                             Por Qué Floventra Es Tu Plataforma Definitiva de Inversión en Criptomonedas
                         </h2>
-                        <p><a data-id="9" data-type="page" href="/"><strong>Floventra</strong></a> es tu portal confiable a brokers conformes con la FCA, ofreciendo herramientas de vanguardia para destacar en inversiones en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un trader experimentado, nuestra plataforma garantiza seguridad contra estafas con partners verificados e insights impulsados por IA.</p>
+                        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> es tu portal confiable a brokers conformes con la FCA, ofreciendo herramientas de vanguardia para destacar en inversiones en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un trader experimentado, nuestra plataforma garantiza seguridad contra estafas con partners verificados e insights impulsados por IA.</p>
                         <p>El mercado de criptomonedas, valorado entre 900 mil millones y 1 billón de libras, está en una fase estable, ofreciendo una oportunidad principal para invertir en activos digitales como Bitcoin, la piedra angular de la riqueza en criptomonedas. No esperes: las barreras de entrada son bajas ahora, pero esta ventana puede cerrarse pronto.</p>
                         <p>En <script>document.write(new Date().getFullYear() - 5)</script>, el mercado de criptomonedas subió a 2,9 billones de libras, con Bitcoin alcanzando 67.000 libras y altcoins como Ethereum generando rendimientos masivos para inversores tempranos.</p>
                         <p>Los expertos predicen otro auge de criptomonedas, impulsado por la adopción global y avances en blockchain. Con las herramientas IA opcionales de Floventra que presumen de una precisión del 99,4%, estás equipado para capturar altos rendimientos en este mercado en rápida evolución.</p>',
@@ -531,7 +531,7 @@ return [
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                     <p>Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script></p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quiénes Somos</h2>
-                    <p>Nuestro sitio web: <a href="/">https://floventra.org/</a>.</p>
+                    <p>Nuestro sitio web: <a href="./">https://floventra.org/</a>.</p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentarios</h2>
                     <p>Cuando dejas comentarios, recopilamos datos del formulario, tu dirección IP y detalles del navegador para proteger contra spam en nuestra comunidad de criptomonedas.</p>
                     <p>Un hash de email anonimizado puede enviarse a Gravatar para verificar uso. Su política de privacidad: https://automattic.com/privacy/. Los comentarios aprobados muestran tu foto de perfil públicamente.</p>
@@ -573,14 +573,14 @@ return [
                     <p>Servicio: Nuestro sitio web para inversiones en criptomonedas.</p>
                     <p>Términos y Condiciones: Acuerdo que rige tu uso de nuestra plataforma de criptomonedas.</p>
                     <p>Redes Sociales de Terceros: Contenido o servicios externos en nuestra plataforma.</p>
-                    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="/">esta dirección</a>.</p>
+                    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="./">esta dirección</a>.</p>
                     <p>Tú: El usuario o entidad que accede a nuestros servicios de criptomonedas.</p>
                     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acuerdo</strong></h2>
                     <p>Estos términos rigen tu uso de nuestra plataforma de criptomonedas, delineando tus derechos y responsabilidades para el trading de Bitcoin y altcoin.</p>
                     <p>El acceso requiere acuerdo a estos términos, aplicables a todos los usuarios de criptomonedas.</p>
                     <p>Si no estás de acuerdo, no uses nuestros servicios de criptomonedas.</p>
                     <p>Debes tener más de 18 años para usar nuestra plataforma para inversiones en criptomonedas.</p>
-                    <p>Nuestra <a href="/privacy">Política de Privacidad</a> detalla la recopilación y protección de datos para usuarios de criptomonedas.</p>
+                    <p>Nuestra <a href="./privacy">Política de Privacidad</a> detalla la recopilación y protección de datos para usuarios de criptomonedas.</p>
                     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Tu Cuenta en Criptomonedas</strong></h2>
                     <p>Proporciona información precisa y actual al registrarte para trading en criptomonedas. Inexactitudes pueden llevar a terminación de cuenta.</p>
                     <p>Protege tu contraseña y reporta inmediatamente cualquier uso no autorizado para proteger tus inversiones en criptomonedas.</p>
@@ -621,7 +621,7 @@ return [
                     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contáctanos</strong></h2>
                     <p>Para preguntas sobre estos términos, contáctanos:</p>
                     <p>Por email: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                    <p>A través de nuestra página <a data-id="42" data-type="page" href="/contact">Contáctanos</a>.</p>
+                    <p>A través de nuestra página <a data-id="42" data-type="page" href="./contact">Contáctanos</a>.</p>
                 </div>'
     ],
     'it' => [
@@ -669,13 +669,13 @@ return [
         'index_h1' => 'Avvia il Tuo Viaggio di Ricchezza in Criptovalute con Floventra',
         'index_form' => 'Unisciti a Floventra Gratis e Inizia a Investire in Criptovalute',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                        <strong>Avviso Importante</strong>: <a data-id="9" data-type="page" href="/">Floventra</a> ti permette di esplorare il mondo emozionante delle criptovalute come Bitcoin ed Ethereum con strumenti avanzati e broker affidabili. Gli investimenti in criptovalute comportano rischi e i rendimenti non sono garantiti. La nostra piattaforma offre risorse educative per guidare le tue decisioni, non consigli finanziari. Ti raccomandiamo di fare ricerche approfondite prima di entrare nei mercati delle criptovalute.</p>
+                        <strong>Avviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> ti permette di esplorare il mondo emozionante delle criptovalute come Bitcoin ed Ethereum con strumenti avanzati e broker affidabili. Gli investimenti in criptovalute comportano rischi e i rendimenti non sono garantiti. La nostra piattaforma offre risorse educative per guidare le tue decisioni, non consigli finanziari. Ti raccomandiamo di fare ricerche approfondite prima di entrare nei mercati delle criptovalute.</p>
                     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra non è un consulente finanziario e non fornisce consulenza di investimento personalizzata. Sei responsabile delle tue decisioni di trading in criptovalute e devi rispettare le normative finanziarie locali. La nostra piattaforma gratuita, supportata da partnership con broker conformi alla FCA, ti collega a opportunità sicure di criptovalute e potremmo guadagnare commissioni dalle referenze.</p>
                     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Ti colleghiamo a broker affidabili e conformi alla FCA per garantire un\'esperienza di investimento in criptovalute sicura e affidabile. Anche se alcune normative regionali possono applicarsi, Floventra è progettata per aiutarti a navigare nel mercato delle criptovalute con fiducia con un deposito minimo di soli 190£.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                             Perché Floventra È la Tua Ultima Piattaforma di Investimento in Criptovalute
                         </h2>
-                        <p><a data-id="9" data-type="page" href="/"><strong>Floventra</strong></a> è il tuo portale affidabile verso broker conformi alla FCA, offrendo strumenti all\'avanguardia per eccellere negli investimenti in criptovalute, da Bitcoin a altcoin come Ethereum, Ripple e Cardano. Che tu sia nuovo alle criptovalute o un trader esperto, la nostra piattaforma garantisce sicurezza dalle truffe con partner verificati e insight basati su IA.</p>
+                        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> è il tuo portale affidabile verso broker conformi alla FCA, offrendo strumenti all\'avanguardia per eccellere negli investimenti in criptovalute, da Bitcoin a altcoin come Ethereum, Ripple e Cardano. Che tu sia nuovo alle criptovalute o un trader esperto, la nostra piattaforma garantisce sicurezza dalle truffe con partner verificati e insight basati su IA.</p>
                         <p>Il mercato delle criptovalute, valutato tra 900 miliardi e 1 trilione di sterline, è in una fase stabile, offrendo un\'opportunità prima per investire in asset digitali come Bitcoin, la pietra angolare della ricchezza in criptovalute. Non aspettare: le barriere all\'ingresso sono basse ora, ma questa finestra potrebbe chiudersi presto.</p>
                         <p>Nel <script>document.write(new Date().getFullYear() - 5)</script>, il mercato delle criptovalute è salito a 2,9 trilioni di sterline, con Bitcoin che ha raggiunto 67.000 sterline e altcoin come Ethereum che hanno generato rendimenti massicci per gli investitori iniziali.</p>
                         <p>Gli esperti prevedono un altro boom delle criptovalute, alimentato dall\'adozione globale e dai progressi della blockchain. Con gli strumenti IA opzionali di Floventra che vantano una precisione del 99,4%, sei equipaggiato per cogliere alti rendimenti in questo mercato in rapida evoluzione.</p>',
@@ -839,7 +839,7 @@ return [
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                     <p>Ultimo aggiornamento: 23 febbraio <script>document.write(new Date().getFullYear() - 2)</script></p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Chi Siamo</h2>
-                    <p>Il nostro sito web: <a href="/">https://floventra.org/</a>.</p>
+                    <p>Il nostro sito web: <a href="./">https://floventra.org/</a>.</p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Commenti</h2>
                     <p>Quando lasci commenti, raccogliamo dati del modulo, il tuo indirizzo IP e dettagli del browser per proteggere contro lo spam nella nostra community di criptovalute.</p>
                     <p>Un hash email anonimizzato può essere inviato a Gravatar per verificare l\'uso. La loro informativa sulla privacy: https://automattic.com/privacy/. I commenti approvati mostrano la tua foto del profilo pubblicamente.</p>
@@ -881,14 +881,14 @@ return [
                     <p>Servizio: Il nostro sito web per investimenti in criptovalute.</p>
                     <p>Termini e Condizioni: Accordo che regola il tuo uso della nostra piattaforma di criptovalute.</p>
                     <p>Social Media di Terzi: Contenuti o servizi esterni nella nostra piattaforma.</p>
-                    <p>Sito Web: Floventra a <a data-id="9" data-type="page" href="/">questo indirizzo</a>.</p>
+                    <p>Sito Web: Floventra a <a data-id="9" data-type="page" href="./">questo indirizzo</a>.</p>
                     <p>Tu: L\'utente o entità che accede ai nostri servizi di criptovalute.</p>
                     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Accordo</strong></h2>
                     <p>Questi termini regolano il tuo uso della nostra piattaforma di criptovalute, delineando i tuoi diritti e responsabilità per il trading di Bitcoin e altcoin.</p>
                     <p>L\'accesso richiede l\'accordo a questi termini, applicabili a tutti gli utenti di criptovalute.</p>
                     <p>Se non sei d\'accordo, non usare i nostri servizi di criptovalute.</p>
                     <p>Devi avere più di 18 anni per usare la nostra piattaforma per investimenti in criptovalute.</p>
-                    <p>La nostra <a href="/privacy">Informativa sulla Privacy</a> dettagli la raccolta e protezione dei dati per gli utenti di criptovalute.</p>
+                    <p>La nostra <a href="./privacy">Informativa sulla Privacy</a> dettagli la raccolta e protezione dei dati per gli utenti di criptovalute.</p>
                     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Il Tuo Account in Criptovalute</strong></h2>
                     <p>Fornisci informazioni accurate e aggiornate al momento dell\'iscrizione per il trading in criptovalute. Inesattezze possono portare alla terminazione dell\'account.</p>
                     <p>Proteggi la tua password e segnala immediatamente qualsiasi uso non autorizzato per proteggere i tuoi investimenti in criptovalute.</p>
@@ -929,7 +929,7 @@ return [
                     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contattaci</strong></h2>
                     <p>Per domande su questi termini, contattaci:</p>
                     <p>Per email: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                    <p>Tramite la nostra pagina <a data-id="42" data-type="page" href="/contact">Contattaci</a>.</p>
+                    <p>Tramite la nostra pagina <a data-id="42" data-type="page" href="./contact">Contattaci</a>.</p>
                 </div>'
     ],
     'cz' => [
@@ -954,11 +954,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Vaše přední platforma pro investice do kryptoměn v České republice | Oficiální webové stránky',
         'meta_description' => 'Připojte se k Floventra a odemkněte sílu Bitcoinu, Etherea a dalších s nástroji poháněnými umělou inteligencí. Začněte svou cestu s kryptoměnami s důvěryhodnými brokery za pouhých 5800 Kč!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investice do kryptoměn, Bitcoin, platforma s umělou inteligencí, Floventra, Česká republika, Ethereum, altcoiny, bezpečné investice',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra nabízí bezpečnou platformu poháněnou umělou inteligencí pro české investory do kryptoměn, s pokročilými nástroji a důvěryhodnými brokery pro Bitcoin a altcoiny.',
         'jsonld_faq_1_question' => 'Co je Floventra?',
         'jsonld_faq_1_answer' => 'Floventra je přední česká platforma využívající volitelnou umělou inteligenci k analýze trhů s kryptoměnami s přesností 99,4 %, která vám pomůže investovat do Bitcoinu, Etherea a dalších.',
@@ -977,17 +977,17 @@ return [
         'contact' => 'Kontaktujte nás',
         'privacy' => 'Zásady ochrany osobních údajů',
         'terms' => 'Obchodní podmínky',
-        // Index
+
         'index_h1' => 'Zahajte svou cestu k bohatství s kryptoměnami s Floventra',
         'index_form' => 'Připojte se k Floventra zdarma a začněte investovat do kryptoměn',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                        <strong>Důležité upozornění</strong>: <a data-id="9" data-type="page" href="/cz/">Floventra</a> vám umožňuje objevovat vzrušující svět kryptoměn, jako jsou Bitcoin a Ethereum, s pokročilými nástroji a důvěryhodnými brokery. Investice do kryptoměn zahrnují rizika a výnosy nejsou zaručeny. Naše platforma nabízí vzdělávací zdroje pro podporu vašich rozhodnutí, nikoli finanční poradenství. Doporučujeme důkladný průzkum před vstupem na trhy s kryptoměnami.</p>
+                        <strong>Důležité upozornění</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> vám umožňuje objevovat vzrušující svět kryptoměn, jako jsou Bitcoin a Ethereum, s pokročilými nástroji a důvěryhodnými brokery. Investice do kryptoměn zahrnují rizika a výnosy nejsou zaručeny. Naše platforma nabízí vzdělávací zdroje pro podporu vašich rozhodnutí, nikoli finanční poradenství. Doporučujeme důkladný průzkum před vstupem na trhy s kryptoměnami.</p>
                     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra není finančním poradcem a neposkytuje personalizované investiční poradenství. Za svá investiční rozhodnutí odpovídáte vy a musíte dodržovat místní finanční předpisy. Naše bezplatná platforma, podporovaná partnerstvími s brokery splňujícími české předpisy, vás propojuje s bezpečnými příležitostmi v oblasti kryptoměn a můžeme získávat provize z doporučení.</p>
                     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Propojujeme vás s důvěryhodnými brokery splňujícími české předpisy, abychom zajistili bezpečný a spolehlivý zážitek z investic do kryptoměn. I když mohou platit některé regionální předpisy, Floventra je navržena tak, aby vám pomohla sebevědomě navigovat na trhu s kryptoměnami s minimálním vkladem pouze 5800 Kč.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                             Proč je Floventra vaší ultimátní platformou pro investice do kryptoměn
                         </h2>
-                        <p><a data-id="9" data-type="page" href="/cz/"><strong>Floventra</strong></a> je vaším důvěryhodným průvodcem k brokerům splňujícím české předpisy, nabízejícím špičkové nástroje pro vynikající výsledky v investicích do kryptoměn, od Bitcoinu po altcoiny jako Ethereum, Ripple a Cardano. Ať už jste v kryptoměnách noví, nebo zkušení investoři, naše platforma zajišťuje ochranu před podvody díky ověřeným partnerům a poznatkům poháněným umělou inteligencí.</p>
+                        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> je vaším důvěryhodným průvodcem k brokerům splňujícím české předpisy, nabízejícím špičkové nástroje pro vynikající výsledky v investicích do kryptoměn, od Bitcoinu po altcoiny jako Ethereum, Ripple a Cardano. Ať už jste v kryptoměnách noví, nebo zkušení investoři, naše platforma zajišťuje ochranu před podvody díky ověřeným partnerům a poznatkům poháněným umělou inteligencí.</p>
                         <p>Trh s kryptoměnami, oceněný na 22 až 25 bilionů Kč, je ve stabilní fázi, což nabízí ideální příležitost investovat do digitálních aktiv, jako je Bitcoin, základ bohatství v kryptoměnách. Nenechte si ujít příležitost – bariéry vstupu jsou nyní nízké, ale toto okno se může brzy uzavřít.</p>
                         <p>V roce <script>document.write(new Date().getFullYear() - 5)</script> trh s kryptoměnami vzrostl na 71 bilionů Kč, přičemž Bitcoin dosáhl vrcholu 1,6 milionu Kč a altcoiny jako Ethereum přinesly obrovské výnosy prvním investorům.</p>
                         <p>Odborníci předpovídají další růst kryptoměn díky globální adopci a pokrokům v blockchainu. S volitelnými nástroji umělé inteligence Floventra s přesností 99,4 % jste vybaveni k využití vysokých výnosů na tomto rychle se rozvíjejícím trhu.</p>',
@@ -1103,7 +1103,7 @@ return [
                     </h2>
                     <p>Floventra se vyvíjí spolu s trhem kryptoměn, nabízí inovativní nástroje umělé inteligence pro přesné investice do Bitcoinu, Etherea a nově vznikajících altcoinů.</p>
                     <p>Naše platforma umožňuje investorům do kryptoměn po celém světě využít plný potenciál digitálních aktiv díky funkcím navrženým pro tento účel.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Přední česká platforma pro investice do kryptoměn',
         'about_desc_content' => 'Objevte Floventra, přední českou platformu pro investice do kryptoměn, nabízející nástroje poháněné umělou inteligencí pro Bitcoin, Ethereum a altcoiny.',
         'about_keywords' => 'investice do kryptoměn, Bitcoin, platforma s umělou inteligencí, Floventra, Česká republika, Ethereum, altcoiny, bezpečné investice',
@@ -1134,7 +1134,7 @@ return [
                         <p>Floventra není spojena s podvodem Dragons’ Den, který nepravdivě propaguje falešný software pro kryptoměny. Naše platforma nebyla nikdy představena ani podpořena touto show.</p>
                         <p>Vyhněte se zavádějícím reklamám tvrdícím spojení s Floventra – bezpečnost vašich investic do kryptoměn je naší nejvyšší prioritou.</p>',
         'about_opportunities' => 'VYUŽIJTE PŘÍLEŽITOSTI S KRYPTO S Floventra',
-        // Contact Page
+
         'contact_title' => 'Kontaktujte Floventra - Podpora pro investice do kryptoměn v České republice',
         'contact_desc_content' => 'Obraťte se na tým Floventra pro odbornou podporu při investicích do Bitcoinu, Etherea a altcoinů v České republice.',
         'contact_keywords' => 'podpora pro kryptoměny, Floventra, Česká republika, Bitcoin, Ethereum, altcoiny, investice s umělou inteligencí',
@@ -1147,14 +1147,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Pokyny pro kontakt s Floventra</h2>
                     <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Přečtěte si tyto pokyny, abyste svůj dotaz týkající se kryptoměn směrovali na správný tým.</strong></p>
                     <p class="has-base-3-color has-text-color">Pro pomoc s registrací, otázkami ohledně investic do kryptoměn nebo technickými problémy použijte níže uvedený formulář a náš tým podpory rychle odpoví.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Zásady ochrany osobních údajů Floventra - Ochrana dat pro kryptoměny v České republice',
         'privacy_desc_content' => 'Zjistěte, jak Floventra chrání vaše data pro bezpečné investice do kryptoměn v České republice. Poslední aktualizace: 23. února <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'zásady ochrany osobních údajů, Floventra, Česká republika, ochrana dat pro kryptoměny, Bitcoin, Ethereum, investice s umělou inteligencí',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                     <p>Poslední aktualizace: 23. února <script>document.write(new Date().getFullYear() - 2)</script></p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Kdo jsme</h2>
-                    <p>Naše webové stránky: <a href="/cz/">https://floventra.org/cz/</a>.</p>
+                    <p>Naše webové stránky: <a href="./">https://floventra.org/</a>.</p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Komentáře</h2>
                     <p>Když zanecháte komentáře, shromažďujeme data z formuláře, vaši IP adresu a podrobnosti o prohlížeči, abychom chránili před spamem v naší komunitě kryptoměn.</p>
                     <p>Anonymizovaný hash e-mailu může být odeslán službě Gravatar k ověření použití. Jejich zásady ochrany osobních údajů: https://automattic.com/privacy/. Schválené komentáře zobrazují váš profilový obrázek veřejně.</p>
@@ -1177,7 +1177,7 @@ return [
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Kam data směřují</h2>
                     <p>Komentáře mohou být kontrolovány automatickou detekcí spamu k ochraně naší platformy pro kryptoměny.</p>
                 </div>',
-        // Terms Page
+
         'terms_title' => 'Podmínky Floventra - Služby pro investice do kryptoměn v České republice',
         'terms_desc_content' => 'Prostudujte si podmínky Floventra pro bezpečné investice do kryptoměn v České republice. Poslední aktualizace: 23. února <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'obchodní podmínky, Floventra, Česká republika, služby pro investice do kryptoměn, Bitcoin, Ethereum, investice s umělou inteligencí',
@@ -1197,14 +1197,14 @@ return [
                     <p>Služba: Naše webové stránky pro investice do kryptoměn.</p>
                     <p>Obchodní podmínky: Dohoda upravující vaše používání naší platformy pro kryptoměny.</p>
                     <p>Sociální média třetích stran: Externí obsah nebo služby na naší platformě.</p>
-                    <p>Webové stránky: Floventra na <a data-id="9" data-type="page" href="/cz/">této adrese</a>.</p>
+                    <p>Webové stránky: Floventra na <a data-id="9" data-type="page" href="./">této adrese</a>.</p>
                     <p>Vy: Uživatel nebo subjekt přistupující k našim službám pro kryptoměny.</p>
                     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Dohoda</strong></h2>
                     <p>Tyto podmínky upravují vaše používání naší platformy pro kryptoměny, vymezují vaše práva a povinnosti pro investice do Bitcoinu a altcoinů.</p>
                     <p>Přístup vyžaduje souhlas s těmito podmínkami, které se vztahují na všechny uživatele kryptoměn.</p>
                     <p>Pokud nesouhlasíte, nepoužívejte naše služby pro kryptoměny.</p>
                     <p>Pro používání naší platformy pro investice do kryptoměn musíte být starší 18 let.</p>
-                    <p>Naše <a href="/cz/privacy">Zásady ochrany osobních údajů</a> podrobně popisují shromažďování a ochranu dat pro uživatele kryptoměn.</p>
+                    <p>Naše <a href="./privacy">Zásady ochrany osobních údajů</a> podrobně popisují shromažďování a ochranu dat pro uživatele kryptoměn.</p>
                     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Váš účet pro kryptoměny</strong></h2>
                     <p>Při registraci pro investice do kryptoměn poskytněte přesné a aktuální informace. Nepřesnosti mohou vést k ukončení účtu.</p>
                     <p>Zabezpečte své heslo a okamžitě nahlaste jakékoli neoprávněné použití, abyste ochránili své investice do kryptoměn.</p>
@@ -1245,7 +1245,7 @@ return [
                     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Kontaktujte nás</strong></h2>
                     <p>Pro otázky týkající se těchto podmínek nás kontaktujte:</p>
                     <p>E-mailem: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                    <p>Přes naši stránku <a data-id="42" data-type="page" href="/cz/contact">Kontaktujte nás</a>.</p>
+                    <p>Přes naši stránku <a data-id="42" data-type="page" href="./contact">Kontaktujte nás</a>.</p>
                 </div>'
     ],
     'be-nl' => [
@@ -1270,11 +1270,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Uw Premier Crypto Investeringsplatform in België | De officiële website',
         'meta_description' => 'Sluit u aan bij Floventra om de kracht van Bitcoin, Ethereum en meer te ontsluiten met AI-gestuurde tools. Start uw crypto reis met vertrouwde makelaars voor slechts €230!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, crypto investeren, Bitcoin investeren, AI-gestuurd platform, Floventra, België, Ethereum, altcoins, veilige investeringen',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra biedt een veilig, AI-gestuurd platform voor Belgische crypto-investeerders, met geavanceerde tools en vertrouwde makelaars voor Bitcoin en altcoins.',
         'jsonld_faq_1_question' => 'Wat is Floventra?',
         'jsonld_faq_1_answer' => 'Floventra is een toonaangevend Belgisch platform dat optionele AI gebruikt om cryptomarkten met 99,4% nauwkeurigheid te analyseren, en helpt u te investeren in Bitcoin, Ethereum en meer.',
@@ -1293,17 +1293,17 @@ return [
         'contact' => 'Contacteer Ons',
         'privacy' => 'Privacybeleid',
         'terms' => 'Algemene Voorwaarden',
-        // Index
+
         'index_h1' => 'Start Uw Crypto Rijkdom Reis met Floventra',
         'index_form' => 'Sluit u Gratis aan bij Floventra en Begin met Crypto Investeren',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>Belangrijke Mededeling</strong>: <a data-id="9" data-type="page" href="/be-nl/">Floventra</a> stelt u in staat om de spannende wereld van cryptocurrencies zoals Bitcoin en Ethereum te verkennen met geavanceerde tools en vertrouwde makelaars. Crypto-investeringen brengen risico’s met zich mee en rendementen zijn niet gegarandeerd. Ons platform biedt educatieve bronnen om uw beslissingen te begeleiden, geen financieel advies. We raden grondig onderzoek aan voordat u in cryptomarkten duikt.</p>
+                    <strong>Belangrijke Mededeling</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> stelt u in staat om de spannende wereld van cryptocurrencies zoals Bitcoin en Ethereum te verkennen met geavanceerde tools en vertrouwde makelaars. Crypto-investeringen brengen risico’s met zich mee en rendementen zijn niet gegarandeerd. Ons platform biedt educatieve bronnen om uw beslissingen te begeleiden, geen financieel advies. We raden grondig onderzoek aan voordat u in cryptomarkten duikt.</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra is geen financieel adviseur en biedt geen gepersonaliseerde investeringsadviezen. U bent verantwoordelijk voor uw crypto-investeringsbeslissingen en moet voldoen aan lokale financiële regelgeving. Ons gratis platform, ondersteund door samenwerkingen met makelaars die voldoen aan Belgische regelgeving, verbindt u met veilige crypto-mogelijkheden, en we kunnen commissies verdienen uit verwijzingen.</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">We verbinden u met vertrouwde makelaars die voldoen aan Belgische regelgeving om een veilige en betrouwbare crypto-investeringservaring te garanderen. Hoewel sommige regionale regels van toepassing kunnen zijn, is Floventra ontworpen om u met vertrouwen door de cryptomarkt te navigeren met een minimale storting van slechts €230.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Waarom Floventra Uw Ultieme Crypto Investeringsplatform Is
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/be-nl/"><strong>Floventra</strong></a> is uw vertrouwde toegang tot makelaars die voldoen aan Belgische regelgeving, en biedt geavanceerde tools om uit te blinken in cryptocurrency-investeringen, van Bitcoin tot altcoins zoals Ethereum, Ripple en Cardano. Of u nu nieuw bent in crypto of een ervaren investeerder, ons platform zorgt voor veiligheid tegen oplichting met geverifieerde partners en AI-gestuurde inzichten.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> is uw vertrouwde toegang tot makelaars die voldoen aan Belgische regelgeving, en biedt geavanceerde tools om uit te blinken in cryptocurrency-investeringen, van Bitcoin tot altcoins zoals Ethereum, Ripple en Cardano. Of u nu nieuw bent in crypto of een ervaren investeerder, ons platform zorgt voor veiligheid tegen oplichting met geverifieerde partners en AI-gestuurde inzichten.</p>
                     <p>De cryptomarkt, gewaardeerd op €900 miljard tot €1 biljoen, bevindt zich in een stabiele fase, wat een uitstekende kans biedt om te investeren in digitale activa zoals Bitcoin, de hoeksteen van crypto-rijkdom. Wacht niet—de toegangsbarrières zijn nu laag, maar dit venster kan snel sluiten.</p>
                     <p>In <script>document.write(new Date().getFullYear() - 5)</script> steeg de cryptomarkt naar €2,9 biljoen, met Bitcoin die piekte op €67.000 en altcoins zoals Ethereum die enorme rendementen opleverden voor vroege investeerders.</p>
                     <p>Experts voorspellen een nieuwe crypto-opleving, gevoed door wereldwijde adoptie en blockchain-vooruitgang. Met de optionele AI-tools van Floventra met 99,4% nauwkeurigheid bent u uitgerust om hoge rendementen te behalen in deze snel bewegende markt.</p>',
@@ -1419,7 +1419,7 @@ return [
                 </h2>
                 <p>Floventra evolueert met de cryptomarkt en biedt innovatieve AI-tools om Bitcoin, Ethereum en opkomende altcoins met precisie te investeren.</p>
                 <p>Ons platform stelt crypto-investeerders wereldwijd in staat met functies die ontworpen zijn om het volledige potentieel van digitale activa te ontsluiten.</p>',
-        // About Page
+
         'about_title' => 'Floventra - België’s Toonaangevende Crypto Investeringsplatform',
         'about_desc_content' => 'Ontdek Floventra, het toonaangevende platform voor crypto-investeringen in België, dat AI-gestuurde tools biedt voor Bitcoin, Ethereum en altcoins.',
         'about_keywords' => 'crypto investeren, Bitcoin investeren, AI-gestuurd platform, Floventra, België, Ethereum, altcoins, veilige investeringen',
@@ -1450,7 +1450,7 @@ return [
                     <p>Floventra is niet gelinkt aan de Dragons’ Den oplichting, die valse crypto-software promoot. Ons platform werd nooit gepresenteerd of goedgekeurd door de show.</p>
                     <p>Vermijd misleidende advertenties die banden met Floventra claimen—uw crypto-investering veiligheid is onze topprioriteit.</p>',
         'about_opportunities' => 'GRIJP CRYPTO KANSEN MET Floventra',
-        // Contact Page
+
         'contact_title' => 'Contacteer Floventra - Belgische Crypto Investeringsondersteuning',
         'contact_desc_content' => 'Neem contact op met het team van Floventra voor deskundige ondersteuning bij Bitcoin, Ethereum en altcoin-investeringen in België.',
         'contact_keywords' => 'crypto ondersteuning, Floventra, België, Bitcoin, Ethereum, altcoins, AI-gestuurde investeringen',
@@ -1463,14 +1463,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra Contactrichtlijnen</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Bekijk deze instructies om uw crypto-vraag aan het juiste team te richten.</strong></p>
                 <p class="has-base-3-color has-text-color">Voor hulp bij registratie, crypto-investeringsvragen of technische problemen, gebruik het onderstaande formulier, en ons ondersteuningsteam zal snel reageren.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Privacybeleid - Belgische Crypto Gegevensbescherming',
         'privacy_desc_content' => 'Leer hoe Floventra uw gegevens beschermt voor veilige crypto-investeringen in België. Laatst bijgewerkt: 23 februari <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'privacybeleid, Floventra, België, crypto gegevensbescherming, Bitcoin, Ethereum, AI-gestuurde investeringen',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>Laatst bijgewerkt: 23 februari <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Wie We Zijn</h2>
-                <p>Onze website: <a href="/be-nl/">https://floventra.org/be-nl/</a>.</p>
+                <p>Onze website: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Reacties</h2>
                 <p>Wanneer u reacties achterlaat, verzamelen we formuliergegevens, uw IP-adres en browserdetails om te beschermen tegen spam in onze crypto-gemeenschap.</p>
                 <p>Een geanonimiseerde e-mailhash kan naar Gravatar worden gestuurd om gebruik te controleren. Hun privacybeleid: https://automattic.com/privacy/. Goedgekeurde reacties tonen uw profielfoto publiekelijk.</p>
@@ -1493,7 +1493,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Waar Gegevens Naartoe Gaat</h2>
                 <p>Reacties kunnen worden gescreend door geautomatiseerde spamdetectie om ons crypto-platform te beschermen.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Voorwaarden - Belgische Crypto Investeringsdiensten',
         'terms_desc_content' => 'Bekijk de voorwaarden van Floventra voor veilige crypto-investeringen in België. Laatst bijgewerkt: 23 februari <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'algemene voorwaarden, Floventra, België, crypto-investeringsdiensten, Bitcoin, Ethereum, AI-gestuurde investeringen',
@@ -1513,14 +1513,14 @@ return [
                 <p>Dienst: Onze website voor crypto-investeringen.</p>
                 <p>Algemene Voorwaarden: Overeenkomst die uw gebruik van ons crypto-platform regelt.</p>
                 <p>Sociale Media van Derden: Externe inhoud of diensten in ons platform.</p>
-                <p>Website: Floventra op <a data-id="9" data-type="page" href="/be-nl/">dit adres</a>.</p>
+                <p>Website: Floventra op <a data-id="9" data-type="page" href="./">dit adres</a>.</p>
                 <p>U: De gebruiker of entiteit die onze crypto-diensten benadert.</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Overeenkomst</strong></h2>
                 <p>Deze voorwaarden regelen uw gebruik van ons crypto-platform, en schetsen uw rechten en verantwoordelijkheden voor Bitcoin- en altcoin-investeringen.</p>
                 <p>Toegang vereist instemming met deze voorwaarden, van toepassing op alle crypto-gebruikers.</p>
                 <p>Als u niet akkoord gaat, gebruik onze crypto-diensten niet.</p>
                 <p>U moet ouder dan 18 zijn om ons platform te gebruiken voor crypto-investeringen.</p>
-                <p>Ons <a href="/be-nl/privacy">Privacybeleid</a> beschrijft gegevensverzameling en -bescherming voor crypto-gebruikers.</p>
+                <p>Ons <a href="./privacy">Privacybeleid</a> beschrijft gegevensverzameling en -bescherming voor crypto-gebruikers.</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Uw Crypto Account</strong></h2>
                 <p>Geef nauwkeurige, actuele informatie bij het aanmelden voor crypto-investeringen. Onjuistheden kunnen leiden tot accountbeëindiging.</p>
                 <p>Beveilig uw wachtwoord en meld ongeautoriseerd gebruik onmiddellijk om uw crypto-investeringen te beschermen.</p>
@@ -1561,7 +1561,7 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contacteer Ons</strong></h2>
                 <p>Voor vragen over deze voorwaarden, neem contact met ons op:</p>
                 <p>Per e-mail: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Via onze <a data-id="42" data-type="page" href="/be-nl/contact">Contacteer Ons</a> pagina.</p>
+                <p>Via onze <a data-id="42" data-type="page" href="./contact">Contacteer Ons</a> pagina.</p>
             </div>'
     ],
     'be-fr' => [
@@ -1586,11 +1586,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Votre plateforme d’investissement crypto de premier choix en Belgique | Le site officiel',
         'meta_description' => 'Rejoignez Floventra pour libérer la puissance du Bitcoin, Ethereum et plus encore avec des outils basés sur l’IA. Commencez votre aventure crypto avec des courtiers de confiance pour seulement 250 € !',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investir dans les cryptos, investissement Bitcoin, plateforme IA, Floventra, Belgique, Ethereum, altcoins, investissements sécurisés',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra offre une plateforme sécurisée alimentée par l’IA pour les investisseurs crypto belges, avec des outils avancés et des courtiers fiables pour Bitcoin et altcoins.',
         'jsonld_faq_1_question' => 'Qu’est-ce qu’Floventra ?',
         'jsonld_faq_1_answer' => 'Floventra est une plateforme belge de premier plan utilisant une IA optionnelle pour analyser les marchés crypto avec une précision de 99,4 %, vous aidant à investir dans Bitcoin, Ethereum et plus encore.',
@@ -1609,17 +1609,17 @@ return [
         'contact' => 'Contactez-nous',
         'privacy' => 'Politique de confidentialité',
         'terms' => 'Conditions générales',
-        // Index
+
         'index_h1' => 'Débutez votre aventure vers la richesse crypto avec Floventra',
         'index_form' => 'Rejoignez Floventra gratuitement et commencez à investir dans les cryptos',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                <strong>Avis important</strong> : <a data-id="9" data-type="page" href="/be-fr/">Floventra</a> vous permet d’explorer l’univers excitant des cryptomonnaies comme Bitcoin et Ethereum avec des outils avancés et des courtiers fiables. Les investissements crypto comportent des risques et les rendements ne sont pas garantis. Notre plateforme propose des ressources éducatives pour guider vos décisions, pas des conseils financiers. Nous recommandons une recherche approfondie avant de plonger dans les marchés crypto.</p>
+                <strong>Avis important</strong> : <a data-id="9" data-type="page" href="./">Floventra</a> vous permet d’explorer l’univers excitant des cryptomonnaies comme Bitcoin et Ethereum avec des outils avancés et des courtiers fiables. Les investissements crypto comportent des risques et les rendements ne sont pas garantis. Notre plateforme propose des ressources éducatives pour guider vos décisions, pas des conseils financiers. Nous recommandons une recherche approfondie avant de plonger dans les marchés crypto.</p>
             <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra n’est pas un conseiller financier et ne propose pas de conseils d’investissement personnalisés. Vous êtes responsable de vos décisions d’investissement crypto et devez respecter les régulations financières locales. Notre plateforme gratuite, soutenue par des partenariats avec des courtiers conformes aux régulations belges, vous connecte à des opportunités crypto sécurisées, et nous pouvons percevoir des commissions sur les références.</p>
             <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Nous vous mettons en relation avec des courtiers fiables conformes aux régulations belges pour garantir une expérience d’investissement crypto sûre et fiable. Bien que certaines règles régionales puissent s’appliquer, Floventra est conçu pour vous guider avec confiance dans le marché crypto avec un dépôt minimum de seulement 250 €.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                     Pourquoi Floventra est votre plateforme ultime pour investir dans les cryptos
                 </h2>
-                <p><a data-id="9" data-type="page" href="/be-fr/"><strong>Floventra</strong></a> est votre porte d’entrée fiable vers des courtiers conformes aux régulations belges, offrant des outils avancés pour exceller dans les investissements en cryptomonnaies, de Bitcoin aux altcoins comme Ethereum, Ripple et Cardano. Que vous soyez novice ou investisseur expérimenté, notre plateforme garantit une protection contre les arnaques avec des partenaires vérifiés et des insights alimentés par l’IA.</p>
+                <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> est votre porte d’entrée fiable vers des courtiers conformes aux régulations belges, offrant des outils avancés pour exceller dans les investissements en cryptomonnaies, de Bitcoin aux altcoins comme Ethereum, Ripple et Cardano. Que vous soyez novice ou investisseur expérimenté, notre plateforme garantit une protection contre les arnaques avec des partenaires vérifiés et des insights alimentés par l’IA.</p>
                 <p>Le marché crypto, évalué entre 900 milliards et 1 000 milliards d’euros, est dans une phase stable, offrant une excellente opportunité d’investir dans des actifs numériques comme Bitcoin, pierre angulaire de la richesse crypto. Ne tardez pas — les barrières à l’entrée sont faibles pour le moment, mais cette fenêtre pourrait se refermer rapidement.</p>
                 <p>En <script>document.write(new Date().getFullYear() - 5)</script>, le marché crypto a atteint 2 900 milliards d’euros, avec Bitcoin culminant à 67 000 € et des altcoins comme Ethereum offrant des rendements massifs aux premiers investisseurs.</p>
                 <p>Les experts prédisent une nouvelle envolée crypto, alimentée par une adoption mondiale et les avancées blockchain. Avec les outils IA optionnels d’Floventra à 99,4 % de précision, vous êtes équipé pour obtenir des rendements élevés sur ce marché en rapide évolution.</p>',
@@ -1735,7 +1735,7 @@ return [
             </h2>
             <p>Floventra évolue avec le marché crypto, offrant des outils IA innovants pour investir dans Bitcoin, Ethereum et les altcoins émergents avec précision.</p>
             <p>Notre plateforme permet aux investisseurs crypto du monde entier de libérer le plein potentiel des actifs numériques avec des fonctionnalités conçues pour cela.</p>',
-        // About Page
+
         'about_title' => 'Floventra - La plateforme d’investissement crypto leader en Belgique',
         'about_desc_content' => 'Découvrez Floventra, la plateforme d’investissement crypto leader en Belgique, offrant des outils alimentés par l’IA pour Bitcoin, Ethereum et les altcoins.',
         'about_keywords' => 'investir dans les cryptos, investissement Bitcoin, plateforme IA, Floventra, Belgique, Ethereum, altcoins, investissements sécurisés',
@@ -1766,7 +1766,7 @@ return [
                 <p>Floventra n’est pas lié à l’arnaque Dragons’ Den, qui promeut de faux logiciels crypto. Notre plateforme n’a jamais été présentée ni approuvée par l’émission.</p>
                 <p>Évitez les publicités trompeuses revendiquant des liens avec Floventra — la sécurité de vos investissements crypto est notre priorité absolue.</p>',
         'about_opportunities' => 'SAISISSEZ LES OPPORTUNITÉS CRYPTO AVEC Floventra',
-        // Contact Page
+
         'contact_title' => 'Contactez Floventra - Support pour les investissements crypto en Belgique',
         'contact_desc_content' => 'Contactez l’équipe d’Floventra pour un support expert sur Bitcoin, Ethereum et les investissements en altcoins en Belgique.',
         'contact_keywords' => 'support crypto, Floventra, Belgique, Bitcoin, Ethereum, altcoins, investissements IA',
@@ -1779,14 +1779,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Lignes directrices de contact d’Floventra</h2>
             <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Consultez ces instructions pour diriger votre question crypto à l’équipe appropriée.</strong></p>
             <p class="has-base-3-color has-text-color">Pour une assistance concernant l’inscription, les questions sur les investissements crypto ou les problèmes techniques, utilisez le formulaire ci-dessous, et notre équipe de support répondra rapidement.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Politique de confidentialité d’Floventra - Protection des données crypto en Belgique',
         'privacy_desc_content' => 'Découvrez comment Floventra protège vos données pour des investissements crypto sécurisés en Belgique. Dernière mise à jour : 23 février <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'politique de confidentialité, Floventra, Belgique, protection des données crypto, Bitcoin, Ethereum, investissements IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
             <p>Dernière mise à jour : 23 février <script>document.write(new Date().getFullYear() - 2)</script></p>
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Qui nous sommes</h2>
-            <p>Notre site web : <a href="/be-fr/">https://floventra.org/be-fr/</a>.</p>
+            <p>Notre site web : <a href="./">https://floventra.org/</a>.</p>
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Commentaires</h2>
             <p>Lorsque vous laissez des commentaires, nous collectons les données du formulaire, votre adresse IP et les détails du navigateur pour protéger contre le spam dans notre communauté crypto.</p>
             <p>Un hash d’e-mail anonymisé peut être envoyé à Gravatar pour vérifier son utilisation. Leur politique de confidentialité : https://automattic.com/privacy/. Les commentaires approuvés affichent votre photo de profil publiquement.</p>
@@ -1809,7 +1809,7 @@ return [
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Où vont vos données</h2>
             <p>Les commentaires peuvent être filtrés par une détection automatisée de spam pour protéger notre plateforme crypto.</p>
         </div>',
-        // Terms Page
+
         'terms_title' => 'Conditions d’Floventra - Services d’investissement crypto en Belgique',
         'terms_desc_content' => 'Consultez les conditions d’Floventra pour des investissements crypto sécurisés en Belgique. Dernière mise à jour : 23 février <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'conditions générales, Floventra, Belgique, services d’investissement crypto, Bitcoin, Ethereum, investissements IA',
@@ -1829,14 +1829,14 @@ return [
             <p>Service : Notre site web pour les investissements crypto.</p>
             <p>Conditions générales : Accord régissant votre utilisation de notre plateforme crypto.</p>
             <p>Réseaux sociaux tiers : Contenu ou services externes sur notre plateforme.</p>
-            <p>Site web : Floventra à <a data-id="9" data-type="page" href="/be-fr/">cette adresse</a>.</p>
+            <p>Site web : Floventra à <a data-id="9" data-type="page" href="./">cette adresse</a>.</p>
             <p>Vous : L’utilisateur ou l’entité accédant à nos services crypto.</p>
             <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Accord</strong></h2>
             <p>Ces conditions régissent votre utilisation de notre plateforme crypto, définissant vos droits et responsabilités pour les investissements en Bitcoin et altcoins.</p>
             <p>L’accès nécessite l’acceptation de ces conditions, applicables à tous les utilisateurs crypto.</p>
             <p>Si vous n’êtes pas d’accord, n’utilisez pas nos services crypto.</p>
             <p>Vous devez avoir plus de 18 ans pour utiliser notre plateforme pour les investissements crypto.</p>
-            <p>Notre <a href="/be-fr/privacy">Politique de confidentialité</a> décrit la collecte et la protection des données pour les utilisateurs crypto.</p>
+            <p>Notre <a href="./privacy">Politique de confidentialité</a> décrit la collecte et la protection des données pour les utilisateurs crypto.</p>
             <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Votre compte crypto</strong></h2>
             <p>Fournissez des informations précises et à jour lors de l’inscription pour les investissements crypto. Des inexactitudes peuvent entraîner la résiliation du compte.</p>
             <p>Protégez votre mot de passe et signalez immédiatement toute utilisation non autorisée pour sécuriser vos investissements crypto.</p>
@@ -1877,7 +1877,7 @@ return [
             <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contactez-nous</strong></h2>
             <p>Pour toute question sur ces conditions, contactez-nous :</p>
             <p>Par e-mail : <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-            <p>Via notre page <a data-id="42" data-type="page" href="/be-fr/contact">Contactez-nous</a>.</p>
+            <p>Via notre page <a data-id="42" data-type="page" href="./contact">Contactez-nous</a>.</p>
         </div>'
     ],
     'dk' => [
@@ -1902,11 +1902,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Din Førende Kryptoinvesteringsplatform i Danmark | Den officielle hjemmeside',
         'meta_description' => 'Tilmeld dig Floventra for at udnytte potentialet i Bitcoin, Ethereum og mere med AI-drevne værktøjer. Start din krypto-rejse med betroede mæglere for kun 1700 DKK!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, kryptoinvestering, Bitcoin-investering, AI-drevet platform, Floventra, Danmark, Ethereum, altcoins, sikker investering',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra leverer en sikker, AI-drevet platform for danske kryptoinvestorer, der tilbyder avancerede værktøjer og betroede mæglere til Bitcoin og altcoins.',
         'jsonld_faq_1_question' => 'Hvad er Floventra?',
         'jsonld_faq_1_answer' => 'Floventra er en førende dansk platform, der bruger valgfri AI til at analysere kryptomarkeder med 99,4% nøjagtighed, og hjælper dig med at investere i Bitcoin, Ethereum og mere.',
@@ -1925,17 +1925,17 @@ return [
         'contact' => 'Kontakt Os',
         'privacy' => 'Privatlivspolitik',
         'terms' => 'Vilkår og Betingelser',
-        // Index
+
         'index_h1' => 'Start Din Kryptoformue-Rejse med Floventra',
         'index_form' => 'Tilmeld dig Floventra gratis og begynd kryptoinvestering',
         'index_disclaimer' => '<p class="dk-headline dk-headline-25aef701 dk-headline-text">
-                    <strong>Vigtig Meddelelse</strong>: <a data-id="9" data-type="page" href="/dk/">Floventra</a> giver dig mulighed for at udforske kryptovalutaers spændende verden som Bitcoin og Ethereum med avancerede værktøjer og betroede mæglere. Kryptoinvesteringer indebærer risici, og afkast er ikke garanteret. Vores platform tilbyder uddannelsesmæssige ressourcer til at guide dine beslutninger, ikke finansiel rådgivning. Vi anbefaler grundig research, før du dykker ned i kryptomarkeder.</p>
+                    <strong>Vigtig Meddelelse</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> giver dig mulighed for at udforske kryptovalutaers spændende verden som Bitcoin og Ethereum med avancerede værktøjer og betroede mæglere. Kryptoinvesteringer indebærer risici, og afkast er ikke garanteret. Vores platform tilbyder uddannelsesmæssige ressourcer til at guide dine beslutninger, ikke finansiel rådgivning. Vi anbefaler grundig research, før du dykker ned i kryptomarkeder.</p>
                 <p class="dk-headline dk-headline-289c9730 dk-headline-text">Floventra er ikke en finansiel rådgiver og giver ikke personlig investeringsvejledning. Du er ansvarlig for dine kryptoinvesteringsbeslutninger og skal overholde lokale finansielle regler. Vores gratis platform, støttet af partnerskaber med DFSA-regulerede mæglere, forbinder dig til sikre krypto-muligheder, og vi kan tjene provisioner fra henvisninger.</p>
                 <p class="dk-headline dk-headline-f76cb6df dk-headline-text">Vi forbinder dig med betroede, DFSA-regulerede mæglere for at sikre en sikker og pålidelig kryptoinvesteringsoplevelse. Selvom nogle regionale regler kan gælde, er Floventra designet til at hjælpe dig med at navigere kryptomarkedet trygt med et minimumsindskud på kun 1700 DKK.</p>',
         'index_why_opt' => '<h2 class="dk-headline dk-headline-9be12089 dk-headline-text">
                         Hvorfor Floventra er Din Ultimative Kryptoinvesteringsplatform
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/dk/"><strong>Floventra</strong></a> er din betroede adgang til DFSA-regulerede mæglere, der tilbyder topmoderne værktøjer til at udmærke sig i kryptoinvestering, fra Bitcoin til altcoins som Ethereum, Ripple og Cardano. Uanset om du er ny i krypto eller en erfaren investor, sikrer vores platform beskyttelse mod svindel med godkendte partnere og AI-drevne indsigter.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> er din betroede adgang til DFSA-regulerede mæglere, der tilbyder topmoderne værktøjer til at udmærke sig i kryptoinvestering, fra Bitcoin til altcoins som Ethereum, Ripple og Cardano. Uanset om du er ny i krypto eller en erfaren investor, sikrer vores platform beskyttelse mod svindel med godkendte partnere og AI-drevne indsigter.</p>
                     <p>Kryptomarkedet, værdsat til 6,5-7,5 billioner DKK, er i en stabil fase, hvilket giver en førsteklasses mulighed for at investere i digitale aktiver som Bitcoin, kryptoformuens hjørnesten. Vent ikke—adgangsbarriererne er lave nu, men dette vindue kan snart lukke.</p>
                     <p>I <script>document.write(new Date().getFullYear() - 5)</script> steg kryptomarkedet til 21 billioner DKK, hvor Bitcoin toppede ved 485.000 DKK og altcoins som Ethereum gav massive afkast for tidlige investorer.</p>
                     <p>Eksperter forudser en ny krypto-bølge, drevet af global adoption og blockchain-fremskridt. Med Floventra’s valgfri AI-værktøjer med 99,4% nøjagtighed er du udstyret til at gribe høje afkast i dette hurtigt bevægende marked.</p>',
@@ -2051,7 +2051,7 @@ return [
                 </h2>
                 <p>Floventra udvikler sig med kryptomarkedet og tilbyder innovative AI-værktøjer til at investere i Bitcoin, Ethereum og nye altcoins med præcision.</p>
                 <p>Vores platform giver kryptoinvestorer verden over mulighed for at udnytte det fulde potentiale i digitale aktiver.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Danmarks Førende Kryptoinvesteringsplatform',
         'about_desc_content' => 'Oplev Floventra, Danmarks førende platform for kryptoinvestering, der tilbyder AI-drevne værktøjer til Bitcoin, Ethereum og altcoins.',
         'about_keywords' => 'kryptoinvestering, Bitcoin-investering, AI-drevet platform, Floventra, Danmark, Ethereum, altcoins, sikker investering',
@@ -2082,7 +2082,7 @@ return [
                     <p>Floventra er ikke forbundet med Løvens Hule-svindel, der falsk promoverer falsk krypto-software. Vores platform blev aldrig vist eller støttet af programmet.</p>
                     <p>Undgå vildledende annoncer, der hævder forbindelser til Floventra—din kryptoinvesteringssikkerhed er vores topprioritet.</p>',
         'about_opportunities' => 'GRIB KRYPTO MULIGHEDER MED Floventra',
-        // Contact Page
+
         'contact_title' => 'Kontakt Floventra - Dansk Kryptoinvesterings Support',
         'contact_desc_content' => 'Kontakt Floventra’s team for ekspertstøtte om Bitcoin, Ethereum og altcoin-investeringer i Danmark.',
         'contact_keywords' => 'krypto support, Floventra, Danmark, Bitcoin, Ethereum, altcoins, AI-drevet investering',
@@ -2095,14 +2095,14 @@ return [
         'contact_guide' => '<h2 class="dk-headline dk-headline-cffb62a7 dk-headline-text">Floventra Kontaktvejledning</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Gennemgå disse instruktioner for at dirigere din krypto-forespørgsel til det rette team.</strong></p>
                 <p class="has-base-3-color has-text-color">For hjælp med registrering, spørgsmål om kryptoinvestering eller tekniske problemer, brug formularen nedenfor, og vores supportteam vil svare hurtigt.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Privatlivspolitik - Dansk Kryptodatabeskyttelse',
         'privacy_desc_content' => 'Lær hvordan Floventra beskytter dine data for sikker kryptoinvestering i Danmark. Sidst opdateret: 23. februar <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'privatlivspolitik, Floventra, Danmark, kryptodatabeskyttelse, Bitcoin, Ethereum, AI-drevet investering',
         'privacy_content' => '<div class="dk-container dk-container-4160cb6f">
                 <p>Sidst opdateret: 23. februar <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Hvem Vi Er</h2>
-                <p>Vores hjemmeside: <a href="/dk/">https://floventra.org/dk/</a>.</p>
+                <p>Vores hjemmeside: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Kommentarer</h2>
                 <p>Når du efterlader kommentarer, indsamler vi formulardata, din IP-adresse og browseroplysninger for at beskytte mod spam i vores krypto-fællesskab.</p>
                 <p>En anonymiseret e-mail-hash kan sendes til Gravatar for at tjekke brug. Deres privatlivspolitik: https://automattic.com/privacy/. Godkendte kommentarer viser dit profilbillede offentligt.</p>
@@ -2125,7 +2125,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Hvor Data Går</h2>
                 <p>Kommentarer kan screenes af automatiseret spamdetektion for at beskytte vores krypto-platform.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Vilkår - Danske Kryptoinvesteringstjenester',
         'terms_desc_content' => 'Gennemgå Floventra’s vilkår for sikker kryptoinvestering i Danmark. Sidst opdateret: 23. februar <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'vilkår og betingelser, Floventra, Danmark, kryptoinvesteringstjenester, Bitcoin, Ethereum, AI-drevet investering',
@@ -2145,14 +2145,14 @@ return [
                 <p>Tjeneste: Vores hjemmeside til kryptoinvestering.</p>
                 <p>Vilkår og Betingelser: Aftale, der styrer din brug af vores krypto-platform.</p>
                 <p>Tredjeparts Sociale Medier: Eksternt indhold eller tjenester i vores platform.</p>
-                <p>Hjemmeside: Floventra på <a data-id="9" data-type="page" href="/dk/">denne adresse</a>.</p>
+                <p>Hjemmeside: Floventra på <a data-id="9" data-type="page" href="./">denne adresse</a>.</p>
                 <p>Du: Brugeren eller enheden, der får adgang til vores krypto-tjenester.</p>
                 <h2 class="dk-headline dk-headline-a42ca7f0 dk-headline-text"><strong>Aftale</strong></h2>
                 <p>Disse vilkår styrer din brug af vores krypto-platform og beskriver dine rettigheder og ansvar for Bitcoin- og altcoin-investering.</p>
                 <p>Adgang kræver accept af disse vilkår, gældende for alle krypto-brugere.</p>
                 <p>Hvis du er uenig, må du ikke bruge vores krypto-tjenester.</p>
                 <p>Du skal være over 18 for at bruge vores platform til kryptoinvestering.</p>
-                <p>Vores <a href="/dk/privacy">Privatlivspolitik</a> beskriver dataindsamling og beskyttelse for krypto-brugere.</p>
+                <p>Vores <a href="./privacy">Privatlivspolitik</a> beskriver dataindsamling og beskyttelse for krypto-brugere.</p>
                 <h2 class="dk-headline dk-headline-cd0291ec dk-headline-text"><strong>Din Krypto Konto</strong></h2>
                 <p>Angiv nøjagtige, aktuelle oplysninger, når du tilmelder dig kryptoinvestering. Unøjagtigheder kan føre til kontoopsigelse.</p>
                 <p>Sikr dit kodeord og rapporter uautoriseret brug øjeblikkeligt for at beskytte dine kryptoinvesteringer.</p>
@@ -2193,7 +2193,7 @@ return [
                 <h2 class="dk-headline dk-headline-5fe35776 dk-headline-text"><strong>Kontakt Os</strong></h2>
                 <p>For spørgsmål om disse vilkår, kontakt os:</p>
                 <p>Ved e-mail: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Via vores <a data-id="42" data-type="page" href="/dk/contact">Kontakt Os</a> side.</p>
+                <p>Via vores <a data-id="42" data-type="page" href="./contact">Kontakt Os</a> side.</p>
             </div>'
     ],
     'nl' => [
@@ -2218,11 +2218,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Uw Premier Crypto Investeringsplatform in Nederland | De officiële website',
         'meta_description' => 'Sluit u aan bij Floventra om de kracht van Bitcoin, Ethereum en meer te ontsluiten met AI-gestuurde tools. Start uw crypto reis met vertrouwde makelaars voor slechts €230!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, crypto investeren, Bitcoin investeren, AI-gestuurd platform, Floventra, Nederland, Ethereum, altcoins, veilige investeringen',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra biedt een veilig, AI-gestuurd platform voor Nederlandse crypto-investeerders, met geavanceerde tools en vertrouwde makelaars voor Bitcoin en altcoins.',
         'jsonld_faq_1_question' => 'Wat is Floventra?',
         'jsonld_faq_1_answer' => 'Floventra is een toonaangevend Nederlands platform dat optionele AI gebruikt om cryptomarkten met 99,4% nauwkeurigheid te analyseren, en helpt u te investeren in Bitcoin, Ethereum en meer.',
@@ -2241,17 +2241,17 @@ return [
         'contact' => 'Contacteer Ons',
         'privacy' => 'Privacybeleid',
         'terms' => 'Algemene Voorwaarden',
-        // Index
+
         'index_h1' => 'Start Uw Crypto Rijkdom Reis met Floventra',
         'index_form' => 'Sluit u Gratis aan bij Floventra en Begin met Crypto Investeren',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                <strong>Belangrijke Mededeling</strong>: <a data-id="9" data-type="page" href="/nl/">Floventra</a> stelt u in staat om de spannende wereld van cryptocurrencies zoals Bitcoin en Ethereum te verkennen met geavanceerde tools en vertrouwde makelaars. Crypto-investeringen brengen risico’s met zich mee en rendementen zijn niet gegarandeerd. Ons platform biedt educatieve bronnen om uw beslissingen te begeleiden, geen financieel advies. We raden grondig onderzoek aan voordat u in cryptomarkten duikt.</p>
+                <strong>Belangrijke Mededeling</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> stelt u in staat om de spannende wereld van cryptocurrencies zoals Bitcoin en Ethereum te verkennen met geavanceerde tools en vertrouwde makelaars. Crypto-investeringen brengen risico’s met zich mee en rendementen zijn niet gegarandeerd. Ons platform biedt educatieve bronnen om uw beslissingen te begeleiden, geen financieel advies. We raden grondig onderzoek aan voordat u in cryptomarkten duikt.</p>
             <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra is geen financieel adviseur en biedt geen gepersonaliseerde investeringsadviezen. U bent verantwoordelijk voor uw crypto-investeringsbeslissingen en moet voldoen aan lokale financiële regelgeving. Ons gratis platform, ondersteund door samenwerkingen met makelaars die voldoen aan Nederlandse regelgeving, verbindt u met veilige crypto-mogelijkheden, en we kunnen commissies verdienen uit verwijzingen.</p>
             <p class="gb-headline gb-headline-f76cb6df gb-headline-text">We verbinden u met vertrouwde makelaars die voldoen aan Nederlandse regelgeving om een veilige en betrouwbare crypto-investeringservaring te garanderen. Hoewel sommige regionale regels van toepassing kunnen zijn, is Floventra ontworpen om u met vertrouwen door de cryptomarkt te navigeren met een minimale storting van slechts €230.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                     Waarom Floventra Uw Ultieme Crypto Investeringsplatform Is
                 </h2>
-                <p><a data-id="9" data-type="page" href="/nl/"><strong>Floventra</strong></a> is uw vertrouwde toegang tot makelaars die voldoen aan Nederlandse regelgeving, en biedt geavanceerde tools om uit te blinken in cryptocurrency-investeringen, van Bitcoin tot altcoins zoals Ethereum, Ripple en Cardano. Of u nu nieuw bent in crypto of een ervaren investeerder, ons platform zorgt voor veiligheid tegen oplichting met geverifieerde partners en AI-gestuurde inzichten.</p>
+                <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> is uw vertrouwde toegang tot makelaars die voldoen aan Nederlandse regelgeving, en biedt geavanceerde tools om uit te blinken in cryptocurrency-investeringen, van Bitcoin tot altcoins zoals Ethereum, Ripple en Cardano. Of u nu nieuw bent in crypto of een ervaren investeerder, ons platform zorgt voor veiligheid tegen oplichting met geverifieerde partners en AI-gestuurde inzichten.</p>
                 <p>De cryptomarkt, gewaardeerd op €900 miljard tot €1 biljoen, bevindt zich in een stabiele fase, wat een uitstekende kans biedt om te investeren in digitale activa zoals Bitcoin, de hoeksteen van crypto-rijkdom. Wacht niet—de toegangsbarrières zijn nu laag, maar dit venster kan snel sluiten.</p>
                 <p>In <script>document.write(new Date().getFullYear() - 5)</script> steeg de cryptomarkt naar €2,9 biljoen, met Bitcoin die piekte op €67.000 en altcoins zoals Ethereum die enorme rendementen opleverden voor vroege investeerders.</p>
                 <p>Experts voorspellen een nieuwe crypto-opleving, gevoed door wereldwijde adoptie en blockchain-vooruitgang. Met de optionele AI-tools van Floventra met 99,4% nauwkeurigheid bent u uitgerust om hoge rendementen te behalen in deze snel bewegende markt.</p>',
@@ -2367,7 +2367,7 @@ return [
             </h2>
             <p>Floventra evolueert met de cryptomarkt en biedt innovatieve AI-tools om Bitcoin, Ethereum en opkomende altcoins met precisie te investeren.</p>
             <p>Ons platform stelt crypto-investeerders wereldwijd in staat met functies die ontworpen zijn om het volledige potentieel van digitale activa te ontsluiten.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Nederland’s Toonaangevende Crypto Investeringsplatform',
         'about_desc_content' => 'Ontdek Floventra, het toonaangevende platform voor crypto-investeringen in Nederland, dat AI-gestuurde tools biedt voor Bitcoin, Ethereum en altcoins.',
         'about_keywords' => 'crypto investeren, Bitcoin investeren, AI-gestuurd platform, Floventra, Nederland, Ethereum, altcoins, veilige investeringen',
@@ -2398,7 +2398,7 @@ return [
                 <p>Floventra is niet gelinkt aan de Dragons’ Den oplichting, die valse crypto-software promoot. Ons platform werd nooit gepresenteerd of goedgekeurd door de show.</p>
                 <p>Vermijd misleidende advertenties die banden met Floventra claimen—uw crypto-investering veiligheid is onze topprioriteit.</p>',
         'about_opportunities' => 'GRIJP CRYPTO KANSEN MET Floventra',
-        // Contact Page
+
         'contact_title' => 'Contacteer Floventra - Nederlandse Crypto Investeringsondersteuning',
         'contact_desc_content' => 'Neem contact op met het team van Floventra voor deskundige ondersteuning bij Bitcoin, Ethereum en altcoin-investeringen in Nederland.',
         'contact_keywords' => 'crypto ondersteuning, Floventra, Nederland, Bitcoin, Ethereum, altcoins, AI-gestuurde investeringen',
@@ -2411,14 +2411,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra Contactrichtlijnen</h2>
             <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Bekijk deze instructies om uw crypto-vraag aan het juiste team te richten.</strong></p>
             <p class="has-base-3-color has-text-color">Voor hulp bij registratie, crypto-investeringsvragen of technische problemen, gebruik het onderstaande formulier, en ons ondersteuningsteam zal snel reageren.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Privacybeleid - Nederlandse Crypto Gegevensbescherming',
         'privacy_desc_content' => 'Leer hoe Floventra uw gegevens beschermt voor veilige crypto-investeringen in Nederland. Laatst bijgewerkt: 23 februari <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'privacybeleid, Floventra, Nederland, crypto gegevensbescherming, Bitcoin, Ethereum, AI-gestuurde investeringen',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
             <p>Laatst bijgewerkt: 23 februari <script>document.write(new Date().getFullYear() - 2)</script></p>
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Wie We Zijn</h2>
-            <p>Onze website: <a href="/nl/">https://floventra.org/nl/</a>.</p>
+            <p>Onze website: <a href="./">https://floventra.org/</a>.</p>
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Reacties</h2>
             <p>Wanneer u reacties achterlaat, verzamelen we formuliergegevens, uw IP-adres en browserdetails om te beschermen tegen spam in onze crypto-gemeenschap.</p>
             <p>Een geanonimiseerde e-mailhash kan naar Gravatar worden gestuurd om gebruik te controleren. Hun privacybeleid: https://automattic.com/privacy/. Goedgekeurde reacties tonen uw profielfoto publiekelijk.</p>
@@ -2441,7 +2441,7 @@ return [
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Waar Gegevens Naartoe Gaat</h2>
             <p>Reacties kunnen worden gescreend door geautomatiseerde spamdetectie om ons crypto-platform te beschermen.</p>
         </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Voorwaarden - Nederlandse Crypto Investeringsdiensten',
         'terms_desc_content' => 'Bekijk de voorwaarden van Floventra voor veilige crypto-investeringen in Nederland. Laatst bijgewerkt: 23 februari <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'algemene voorwaarden, Floventra, Nederland, crypto-investeringsdiensten, Bitcoin, Ethereum, AI-gestuurde investeringen',
@@ -2461,14 +2461,14 @@ return [
             <p>Dienst: Onze website voor crypto-investeringen.</p>
             <p>Algemene Voorwaarden: Overeenkomst die uw gebruik van ons crypto-platform regelt.</p>
             <p>Sociale Media van Derden: Externe inhoud of diensten in ons platform.</p>
-            <p>Website: Floventra op <a data-id="9" data-type="page" href="/nl/">dit adres</a>.</p>
+            <p>Website: Floventra op <a data-id="9" data-type="page" href="./">dit adres</a>.</p>
             <p>U: De gebruiker of entiteit die onze crypto-diensten benadert.</p>
             <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Overeenkomst</strong></h2>
             <p>Deze voorwaarden regelen uw gebruik van ons crypto-platform, en schetsen uw rechten en verantwoordelijkheden voor Bitcoin- en altcoin-investeringen.</p>
             <p>Toegang vereist instemming met deze voorwaarden, van toepassing op alle crypto-gebruikers.</p>
             <p>Als u niet akkoord gaat, gebruik onze crypto-diensten niet.</p>
             <p>U moet ouder dan 18 zijn om ons platform te gebruiken voor crypto-investeringen.</p>
-            <p>Ons <a href="/nl/privacy">Privacybeleid</a> beschrijft gegevensverzameling en -bescherming voor crypto-gebruikers.</p>
+            <p>Ons <a href="./privacy">Privacybeleid</a> beschrijft gegevensverzameling en -bescherming voor crypto-gebruikers.</p>
             <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Uw Crypto Account</strong></h2>
             <p>Geef nauwkeurige, actuele informatie bij het aanmelden voor crypto-investeringen. Onjuistheden kunnen leiden tot accountbeëindiging.</p>
             <p>Beveilig uw wachtwoord en meld ongeautoriseerd gebruik onmiddellijk om uw crypto-investeringen te beschermen.</p>
@@ -2509,7 +2509,7 @@ return [
             <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contacteer Ons</strong></h2>
             <p>Voor vragen over deze voorwaarden, neem contact met ons op:</p>
             <p>Per e-mail: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-            <p>Via onze <a data-id="42" data-type="page" href="/nl/contact">Contacteer Ons</a> pagina.</p>
+            <p>Via onze <a data-id="42" data-type="page" href="./contact">Contacteer Ons</a> pagina.</p>
         </div>'
     ],
     'se' => [
@@ -2534,11 +2534,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Din främsta plattform för kryptoinvesteringar i Sverige | Den officiella webbplatsen',
         'meta_description' => 'Gå med i Floventra för att låsa upp kraften i Bitcoin, Ethereum och mer med AI-drivna verktyg. Starta din kryptoresa med pålitliga mäklare för bara 2600 SEK!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, kryptoinvesteringar, Bitcoin-investeringar, AI-driven plattform, Floventra, Sverige, Ethereum, altcoins, säkra investeringar',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra erbjuder en säker, AI-driven plattform för svenska kryptoinvesterare, med avancerade verktyg och pålitliga mäklare för Bitcoin och altcoins.',
         'jsonld_faq_1_question' => 'Vad är Floventra?',
         'jsonld_faq_1_answer' => 'Floventra är en ledande svensk plattform som använder valfri AI för att analysera kryptomarknader med 99,4% noggrannhet, vilket hjälper dig att investera i Bitcoin, Ethereum och mer.',
@@ -2557,17 +2557,17 @@ return [
         'contact' => 'Kontakta oss',
         'privacy' => 'Integritetspolicy',
         'terms' => 'Villkor',
-        // Index
+
         'index_h1' => 'Starta din kryptoresa med Floventra',
         'index_form' => 'Gå med i Floventra gratis och börja med kryptoinvesteringar',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>Viktigt meddelande</strong>: <a data-id="9" data-type="page" href="/se/">Floventra</a> gör det möjligt för dig att utforska den spännande världen av kryptovalutor som Bitcoin och Ethereum med avancerade verktyg och pålitliga mäklare. Kryptoinvesteringar innebär risker, och avkastning är inte garanterad. Vår plattform erbjuder utbildningsresurser för att vägleda dina beslut, inte finansiell rådgivning. Vi rekommenderar noggrann forskning innan du dyker in i kryptomarknader.</p>
+                    <strong>Viktigt meddelande</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> gör det möjligt för dig att utforska den spännande världen av kryptovalutor som Bitcoin och Ethereum med avancerade verktyg och pålitliga mäklare. Kryptoinvesteringar innebär risker, och avkastning är inte garanterad. Vår plattform erbjuder utbildningsresurser för att vägleda dina beslut, inte finansiell rådgivning. Vi rekommenderar noggrann forskning innan du dyker in i kryptomarknader.</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra är inte en finansiell rådgivare och tillhandahåller inte personlig investeringsvägledning. Du är ansvarig för dina kryptoinvesteringar och måste följa lokala finansiella regler. Vår gratis plattform, som stöds av partnerskap med FI-kompatibla mäklare, kopplar dig till säkra kryptomöjligheter, och vi kan tjäna provisioner från hänvisningar.</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Vi kopplar dig till pålitliga, FI-kompatibla mäklare för att säkerställa en säker och pålitlig kryptoinvesteringsupplevelse. Även om vissa regionala regler kan gälla, är Floventra utformat för att hjälpa dig navigera kryptomarknaden med självförtroende med en minsta insättning på bara 2600 SEK.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Varför Floventra är din ultimata plattform för kryptoinvesteringar
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/se/"><strong>Floventra</strong></a> är din pålitliga inkörsport till FI-kompatibla mäklare, som erbjuder banbrytande verktyg för att utmärka dig i kryptoinvesteringar, från Bitcoin till altcoins som Ethereum, Ripple och Cardano. Oavsett om du är nybörjare eller en erfaren investerare, säkerställer vår plattform skydd mot bedrägerier med verifierade partners och AI-drivna insikter.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> är din pålitliga inkörsport till FI-kompatibla mäklare, som erbjuder banbrytande verktyg för att utmärka dig i kryptoinvesteringar, från Bitcoin till altcoins som Ethereum, Ripple och Cardano. Oavsett om du är nybörjare eller en erfaren investerare, säkerställer vår plattform skydd mot bedrägerier med verifierade partners och AI-drivna insikter.</p>
                     <p>Kryptomarknaden, värderad till 10–12 biljoner SEK, är i en stabil fas, vilket erbjuder en fantastisk möjlighet att investera i digitala tillgångar som Bitcoin, hörnstenen i kryptovälstånd. Vänta inte—inträdesbarriärerna är låga nu, men detta fönster kan snart stängas.</p>
                     <p>År <script>document.write(new Date().getFullYear() - 5)</script> steg kryptomarknaden till 30 biljoner SEK, med Bitcoin som nådde 700 000 SEK och altcoins som Ethereum som gav enorm avkastning för tidiga investerare.</p>
                     <p>Experter förutspår en ny kryptovåg, driven av global adoption och blockchain-framsteg. Med Floventra valfria AI-verktyg med 99,4% noggrannhet är du rustad att fånga hög avkastning i denna snabbrörliga marknad.</p>',
@@ -2683,7 +2683,7 @@ return [
                 </h2>
                 <p>Floventra utvecklas med kryptomarknaden och erbjuder innovativa AI-verktyg för att investera i Bitcoin, Ethereum och nya altcoins med precision.</p>
                 <p>Vår plattform stärker kryptoinvesterare världen över med funktioner utformade för att låsa upp den fulla potentialen i digitala tillgångar.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Sveriges ledande plattform för kryptoinvesteringar',
         'about_desc_content' => 'Upptäck Floventra, Sveriges främsta plattform för kryptoinvesteringar, med AI-drivna verktyg för Bitcoin, Ethereum och altcoins.',
         'about_keywords' => 'kryptoinvesteringar, Bitcoin-investeringar, AI-driven plattform, Floventra, Sverige, Ethereum, altcoins, säkra investeringar',
@@ -2714,7 +2714,7 @@ return [
                     <p>Floventra är inte kopplad till Draknästet-bedrägeriet, som falskt främjar falsk kryptomjukvara. Vår plattform har aldrig presenterats eller godkänts av programmet.</p>
                     <p>Undvik vilseledande annonser som hävdar kopplingar till Floventra—din kryptoinvesteringssäkerhet är vår högsta prioritet.</p>',
         'about_opportunities' => 'TA VARA PÅ KRYPTO-MÖJLIGHETER MED Floventra',
-        // Contact Page
+
         'contact_title' => 'Kontakta Floventra - Sveriges kryptoinvesteringssupport',
         'contact_desc_content' => 'Kontakta Floventra-teamet för expertstöd om Bitcoin, Ethereum och altcoin-investeringar i Sverige.',
         'contact_keywords' => 'kryptostöd, Floventra, Sverige, Bitcoin, Ethereum, altcoins, AI-drivna investeringar',
@@ -2727,14 +2727,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra kontaktriktlinjer</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Granska dessa instruktioner för att rikta din kryptoförfrågan till rätt team.</strong></p>
                 <p class="has-base-3-color has-text-color">För hjälp med registrering, frågor om kryptoinvesteringar eller tekniska problem, använd formuläret nedan, och vårt supportteam svarar snabbt.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Integritetspolicy - Sveriges kryptodataskydd',
         'privacy_desc_content' => 'Lär dig hur Floventra skyddar dina uppgifter för säkra kryptoinvesteringar i Sverige. Senast uppdaterad: 23 februari <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'integritetspolicy, Floventra, Sverige, kryptodataskydd, Bitcoin, Ethereum, AI-drivna investeringar',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>Senast uppdaterad: 23 februari <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Vilka vi är</h2>
-                <p>Vår webbplats: <a href="/se/">https://floventra.org/se/</a>.</p>
+                <p>Vår webbplats: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Kommentarer</h2>
                 <p>När du lämnar kommentarer samlar vi in formulärdata, din IP-adress och webbläsaruppgifter för att skydda mot spam i vår kryptocommunity.</p>
                 <p>En anonymiserad e-posthash kan skickas till Gravatar för att kontrollera användning. Deras integritetspolicy: https://automattic.com/privacy/. Godkända kommentarer visar din profilbild offentligt.</p>
@@ -2757,7 +2757,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Vart data går</h2>
                 <p>Kommentarer kan granskas av automatiserad spamdetektering för att skydda vår kryptoplattform.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Villkor - Sveriges kryptoinvesteringstjänster',
         'terms_desc_content' => 'Granska Floventra villkor för säkra kryptoinvesteringar i Sverige. Senast uppdaterad: 23 februari <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'villkor, Floventra, Sverige, kryptoinvesteringstjänster, Bitcoin, Ethereum, AI-drivna investeringar',
@@ -2777,14 +2777,14 @@ return [
                 <p>Tjänst: Vår webbplats för kryptoinvesteringar.</p>
                 <p>Villkor: Avtal som reglerar din användning av vår kryptoplattform.</p>
                 <p>Tredjeparts sociala medier: Externt innehåll eller tjänster på vår plattform.</p>
-                <p>Webbplats: Floventra på <a data-id="9" data-type="page" href="/se/">denna adress</a>.</p>
+                <p>Webbplats: Floventra på <a data-id="9" data-type="page" href="./">denna adress</a>.</p>
                 <p>Du: Användaren eller enheten som använder våra kryptotjänster.</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Avtal</strong></h2>
                 <p>Dessa villkor reglerar din användning av vår kryptoplattform och beskriver dina rättigheter och ansvar för Bitcoin- och altcoin-investeringar.</p>
                 <p>Åtkomst kräver att du godkänner dessa villkor, som gäller för alla kryptanvändare.</p>
                 <p>Om du inte håller med, använd inte våra kryptotjänster.</p>
                 <p>Du måste vara över 18 år för att använda vår plattform för kryptoinvesteringar.</p>
-                <p>Vår <a href="/se/privacy">Integritetspolicy</a> beskriver datainsamling och skydd för kryptanvändare.</p>
+                <p>Vår <a href="./privacy">Integritetspolicy</a> beskriver datainsamling och skydd för kryptanvändare.</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Ditt kryptokonto</strong></h2>
                 <p>Ange korrekt, aktuell information vid registrering för kryptoinvesteringar. Felaktigheter kan leda till kontoupphörande.</p>
                 <p>Säkra ditt lösenord och rapportera omedelbart obehörig användning för att skydda dina kryptoinvesteringar.</p>
@@ -2825,7 +2825,7 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Kontakta oss</strong></h2>
                 <p>För frågor om dessa villkor, kontakta oss:</p>
                 <p>Via e-post: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Via vår <a data-id="42" data-type="page" href="/se/contact">Kontakta oss</a>-sida.</p>
+                <p>Via vår <a data-id="42" data-type="page" href="./contact">Kontakta oss</a>-sida.</p>
             </div>'
     ],
     'no' => [
@@ -2850,11 +2850,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Din fremste plattform for kryptoinvesteringer i Norge | Den offisielle nettsiden',
         'meta_description' => 'Bli med i Floventra for å låse opp kraften til Bitcoin, Ethereum og mer med AI-drevne verktøy. Start din kryptoreise med pålitelige meglere for bare 2700 NOK!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, kryptoinvesteringer, Bitcoin-investeringer, AI-drevet plattform, Floventra, Norge, Ethereum, altcoins, sikre investeringer',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra leverer en sikker, AI-drevet plattform for norske kryptoinvestorer, med avanserte verktøy og pålitelige meglere for Bitcoin og altcoins.',
         'jsonld_faq_1_question' => 'Hva er Floventra?',
         'jsonld_faq_1_answer' => 'Floventra er en ledende norsk plattform som bruker valgfri AI for å analysere kryptomarkeder med 99,4 % nøyaktighet, og hjelper deg med å investere i Bitcoin, Ethereum og mer.',
@@ -2873,17 +2873,17 @@ return [
         'contact' => 'Kontakt oss',
         'privacy' => 'Personvernerklæring',
         'terms' => 'Vilkår og betingelser',
-        // Index
+
         'index_h1' => 'Start din kryptoreise med Floventra',
         'index_form' => 'Bli med i Floventra gratis og start kryptoinvesteringer',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>Viktig melding</strong>: <a data-id="9" data-type="page" href="/no/">Floventra</a> gir deg muligheten til å utforske den spennende verdenen av kryptovalutaer som Bitcoin og Ethereum med avanserte verktøy og pålitelige meglere. Kryptoinvesteringer innebærer risiko, og avkastning er ikke garantert. Vår plattform tilbyr pedagogiske ressurser for å veilede dine beslutninger, ikke økonomisk rådgivning. Vi anbefaler grundig research før du dykker inn i kryptomarkedet.</p>
+                    <strong>Viktig melding</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> gir deg muligheten til å utforske den spennende verdenen av kryptovalutaer som Bitcoin og Ethereum med avanserte verktøy og pålitelige meglere. Kryptoinvesteringer innebærer risiko, og avkastning er ikke garantert. Vår plattform tilbyr pedagogiske ressurser for å veilede dine beslutninger, ikke økonomisk rådgivning. Vi anbefaler grundig research før du dykker inn i kryptomarkedet.</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra er ikke en finansiell rådgiver og gir ikke personlig tilpasset investeringsveiledning. Du er ansvarlig for dine kryptoinvesteringsbeslutninger og må følge lokale finansregler. Vår gratis plattform, støttet av partnerskap med meglere som følger Finanstilsynets regler, kobler deg til sikre kryptomuligheter, og vi kan tjene provisjoner fra henvisninger.</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Vi kobler deg til pålitelige meglere som følger Finanstilsynets regler for å sikre en trygg og pålitelig opplevelse med kryptoinvesteringer. Selv om noen regionale reguleringer kan gjelde, er Floventra designet for å hjelpe deg med å navigere kryptomarkedet trygt med et minimumsinnskudd på bare 2700 NOK.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Hvorfor Floventra er din ultimate plattform for kryptoinvesteringer
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/no/"><strong>Floventra</strong></a> er din pålitelige inngangsport til meglere som følger Finanstilsynets regler, og tilbyr banebrytende verktøy for å utmerke deg i kryptoinvesteringer, fra Bitcoin til altcoins som Ethereum, Ripple og Cardano. Enten du er ny til krypto eller en erfaren investor, sikrer vår plattform beskyttelse mot svindel med verifiserte partnere og AI-drevne innsikter.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> er din pålitelige inngangsport til meglere som følger Finanstilsynets regler, og tilbyr banebrytende verktøy for å utmerke deg i kryptoinvesteringer, fra Bitcoin til altcoins som Ethereum, Ripple og Cardano. Enten du er ny til krypto eller en erfaren investor, sikrer vår plattform beskyttelse mot svindel med verifiserte partnere og AI-drevne innsikter.</p>
                     <p>Kryptomarkedet, verdsatt til 10–12 billioner NOK, er i en stabil fase, og tilbyr en ypperlig mulighet til å investere i digitale aktiva som Bitcoin, grunnsteinen i kryptoformue. Ikke vent – inngangsbarrierene er lave nå, men dette vinduet kan snart lukkes.</p>
                     <p>I <script>document.write(new Date().getFullYear() - 5)</script> steg kryptomarkedet til 30 billioner NOK, med Bitcoin som toppet på 720 000 NOK og altcoins som Ethereum som ga enorme avkastninger for tidlige investorer.</p>
                     <p>Eksperter forutsier en ny kryptobølge, drevet av global adopsjon og blokkjedefremskritt. Med Floventra sine valgfrie AI-verktøy som har 99,4 % nøyaktighet, er du rustet til å gripe høy avkastning i dette raskt bevegelige markedet.</p>',
@@ -2999,7 +2999,7 @@ return [
                 </h2>
                 <p>Floventra utvikler seg med kryptomarkedet og tilbyr innovative AI-verktøy for å investere i Bitcoin, Ethereum og nye altcoins med presisjon.</p>
                 <p>Vår plattform gir kryptoinvestorer over hele verden mulighet til å låse opp det fulle potensialet til digitale aktiva.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Norges ledende plattform for kryptoinvesteringer',
         'about_desc_content' => 'Oppdag Floventra, Norges fremste plattform for kryptoinvesteringer, som tilbyr AI-drevne verktøy for Bitcoin, Ethereum og altcoins.',
         'about_keywords' => 'kryptoinvesteringer, Bitcoin-investeringer, AI-drevet plattform, Floventra, Norge, Ethereum, altcoins, sikre investeringer',
@@ -3030,7 +3030,7 @@ return [
                     <p>Floventra er ikke knyttet til Dragons’ Den-svindelen, som falskt promoterer falsk kryptoprogramvare. Vår plattform ble aldri omtalt eller støttet av programmet.</p>
                     <p>Unngå villedende annonser som hevder tilknytning til Floventra – din sikkerhet for kryptoinvesteringer er vår høyeste prioritet.</p>',
         'about_opportunities' => 'GRIP KRYPTO-MULIGHETER MED Floventra',
-        // Contact Page
+
         'contact_title' => 'Kontakt Floventra - Norsk støtte for kryptoinvesteringer',
         'contact_desc_content' => 'Ta kontakt med Floventra-teamet for ekspertstøtte om Bitcoin, Ethereum og altcoin-investeringer i Norge.',
         'contact_keywords' => 'kryptostøtte, Floventra, Norge, Bitcoin, Ethereum, altcoins, AI-drevne investeringer',
@@ -3043,14 +3043,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra Kontaktveiledning</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Gjennomgå disse instruksjonene for å rette din kryptohenvendelse til riktig team.</strong></p>
                 <p class="has-base-3-color has-text-color">For hjelp med registrering, spørsmål om kryptoinvesteringer eller tekniske problemer, bruk skjemaet nedenfor, og vårt supportteam vil svare raskt.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Personvernerklæring - Norsk beskyttelse av kryptodata',
         'privacy_desc_content' => 'Lær hvordan Floventra beskytter dataene dine for sikre kryptoinvesteringer i Norge. Sist oppdatert: 23. februar <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'personvernerklæring, Floventra, Norge, beskyttelse av kryptodata, Bitcoin, Ethereum, AI-drevne investeringer',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>Sist oppdatert: 23. februar <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Hvem vi er</h2>
-                <p>Vår nettside: <a href="/no/">https://floventra.org/no/</a>.</p>
+                <p>Vår nettside: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Kommentarer</h2>
                 <p>Når du legger igjen kommentarer, samler vi inn skjemadata, IP-adressen din og nettleserdetaljer for å beskytte mot spam i vårt kryptofellesskap.</p>
                 <p>En anonymisert e-post-hash kan sendes til Gravatar for å sjekke bruk. Deres personvernerklæring: https://automattic.com/privacy/. Godkjente kommentarer viser profilbildet ditt offentlig.</p>
@@ -3073,7 +3073,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Hvor dataene går</h2>
                 <p>Kommentarer kan screenes av automatisert spamdeteksjon for å beskytte vår kryptoplattform.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Vilkår - Norske kryptoinvesteringstjenester',
         'terms_desc_content' => 'Gjennomgå Floventra sine vilkår for sikre kryptoinvesteringer i Norge. Sist oppdatert: 23. februar <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'vilkår og betingelser, Floventra, Norge, kryptoinvesteringstjenester, Bitcoin, Ethereum, AI-drevne investeringer',
@@ -3093,14 +3093,14 @@ return [
                 <p>Tjeneste: Vår nettside for kryptoinvesteringer.</p>
                 <p>Vilkår og betingelser: Avtale som styrer bruken av vår kryptoplattform.</p>
                 <p>Tredjeparts sosiale medier: Eksternt innhold eller tjenester i vår plattform.</p>
-                <p>Nettside: Floventra på <a data-id="9" data-type="page" href="/no/">denne adressen</a>.</p>
+                <p>Nettside: Floventra på <a data-id="9" data-type="page" href="./">denne adressen</a>.</p>
                 <p>Deg: Brukeren eller enheten som får tilgang til våre kryptotjenester.</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Avtale</strong></h2>
                 <p>Disse vilkårene styrer bruken av vår kryptoplattform, og beskriver dine rettigheter og ansvar for Bitcoin- og altcoin-investeringer.</p>
                 <p>Tilgang krever at du godtar disse vilkårene, som gjelder for alle krypto-brukere.</p>
                 <p>Hvis du er uenig, må du ikke bruke våre kryptotjenester.</p>
                 <p>Du må være over 18 år for å bruke vår plattform for kryptoinvesteringer.</p>
-                <p>Vår <a href="/no/privacy">Personvernerklæring</a> beskriver datainnsamling og beskyttelse for krypto-brukere.</p>
+                <p>Vår <a href="./privacy">Personvernerklæring</a> beskriver datainnsamling og beskyttelse for krypto-brukere.</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Din kryptokonto</strong></h2>
                 <p>Oppgi nøyaktig, oppdatert informasjon når du registrerer deg for kryptoinvesteringer. Unøyaktigheter kan føre til kontooppsigelse.</p>
                 <p>Sikre passordet ditt og rapporter uautorisert bruk umiddelbart for å beskytte dine kryptoinvesteringer.</p>
@@ -3141,7 +3141,7 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Kontakt oss</strong></h2>
                 <p>For spørsmål om disse vilkårene, kontakt oss:</p>
                 <p>På e-post: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Via vår <a data-id="42" data-type="page" href="/no/contact">Kontakt oss</a>-side.</p>
+                <p>Via vår <a data-id="42" data-type="page" href="./contact">Kontakt oss</a>-side.</p>
             </div>'
     ],
     'ch-de' => [
@@ -3166,11 +3166,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Ihre führende Krypto-Investment-Plattform in der Schweiz | Die offizielle Website',
         'meta_description' => 'Schließen Sie sich Floventra an, um die Möglichkeiten von Bitcoin, Ethereum und mehr mit KI-gestützten Tools freizuschalten. Starten Sie Ihre Krypto-Reise mit vertrauenswürdigen Brokern für nur 220 CHF!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, Krypto-Investitionen, Bitcoin-Investieren, KI-gestützte Plattform, Floventra, Schweiz, Ethereum, Altcoins, sicheres Investieren',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra bietet eine sichere, KI-gestützte Plattform für Schweizer Krypto-Investoren mit fortschrittlichen Tools und vertrauenswürdigen Brokern für Bitcoin und Altcoins.',
         'jsonld_faq_1_question' => 'Was ist Floventra?',
         'jsonld_faq_1_answer' => 'Floventra ist eine führende Schweizer Plattform, die optionale KI mit 99,4% Genauigkeit nutzt, um Kryptomärkte zu analysieren und Ihnen bei Investitionen in Bitcoin, Ethereum und mehr zu helfen.',
@@ -3189,17 +3189,17 @@ return [
         'contact' => 'Kontakt',
         'privacy' => 'Datenschutzrichtlinie',
         'terms' => 'Nutzungsbedingungen',
-        // Index
+
         'index_h1' => 'Starten Sie Ihre Krypto-Reise zum Wohlstand mit Floventra',
         'index_form' => 'Schließen Sie sich Floventra kostenlos an und beginnen Sie mit Krypto-Investitionen',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>Wichtiger Hinweis</strong>: <a data-id="9" data-type="page" href="/ch-de/">Floventra</a> ermöglicht Ihnen, die spannende Welt der Kryptowährungen wie Bitcoin und Ethereum mit fortschrittlichen Tools und vertrauenswürdigen Brokern zu erkunden. Krypto-Investitionen bergen Risiken, und Renditen sind nicht garantiert. Unsere Plattform bietet Bildungsressourcen zur Unterstützung Ihrer Entscheidungen, keine Finanzberatung. Wir empfehlen gründliche Recherchen, bevor Sie in Kryptomärkte eintauchen.</p>
+                    <strong>Wichtiger Hinweis</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> ermöglicht Ihnen, die spannende Welt der Kryptowährungen wie Bitcoin und Ethereum mit fortschrittlichen Tools und vertrauenswürdigen Brokern zu erkunden. Krypto-Investitionen bergen Risiken, und Renditen sind nicht garantiert. Unsere Plattform bietet Bildungsressourcen zur Unterstützung Ihrer Entscheidungen, keine Finanzberatung. Wir empfehlen gründliche Recherchen, bevor Sie in Kryptomärkte eintauchen.</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra ist kein Finanzberater und bietet keine personalisierte Anlageberatung. Sie sind für Ihre Krypto-Investmententscheidungen verantwortlich und müssen lokale Finanzvorschriften einhalten. Unsere kostenlose Plattform, unterstützt durch Partnerschaften mit FINMA-konformen Brokern, verbindet Sie mit sicheren Krypto-Möglichkeiten, und wir können Provisionen aus Empfehlungen verdienen.</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Wir verbinden Sie mit vertrauenswürdigen, FINMA-konformen Brokern, um ein sicheres und zuverlässiges Krypto-Investmenterlebnis zu gewährleisten. Obwohl einige regionale Vorschriften gelten können, ist Floventra darauf ausgelegt, Ihnen mit einer Mindesteinzahlung von nur 220 CHF selbstbewusst den Kryptomarkt zu navigieren.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Warum Floventra Ihre ultimative Krypto-Investment-Plattform ist
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/ch-de/"><strong>Floventra</strong></a> ist Ihr vertrauenswürdiger Zugang zu FINMA-konformen Brokern und bietet modernste Tools, um in Kryptowährungen wie Bitcoin und Altcoins wie Ethereum, Ripple und Cardano erfolgreich zu investieren. Egal, ob Sie neu in der Krypto-Welt oder ein erfahrener Investor sind, unsere Plattform schützt vor Betrug mit geprüften Partnern und KI-gestützten Einblicken.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> ist Ihr vertrauenswürdiger Zugang zu FINMA-konformen Brokern und bietet modernste Tools, um in Kryptowährungen wie Bitcoin und Altcoins wie Ethereum, Ripple und Cardano erfolgreich zu investieren. Egal, ob Sie neu in der Krypto-Welt oder ein erfahrener Investor sind, unsere Plattform schützt vor Betrug mit geprüften Partnern und KI-gestützten Einblicken.</p>
                     <p>Der Kryptowährungsmarkt, geschätzt auf 1,1 bis 1,2 Billionen CHF, befindet sich in einer stabilen Phase und bietet eine erstklassige Gelegenheit, in digitale Vermögenswerte wie Bitcoin, den Grundpfeiler des Krypto-Wohlstands, zu investieren. Warten Sie nicht – die Einstiegshürden sind jetzt niedrig, aber dieses Fenster könnte bald schließen.</p>
                     <p>Im Jahr <script>document.write(new Date().getFullYear() - 5)</script> stieg der Kryptomarkt auf 3,5 Billionen CHF, wobei Bitcoin mit 80.000 CHF seinen Höchststand erreichte und Altcoins wie Ethereum massive Renditen für frühe Investoren brachten.</p>
                     <p>Experten prognostizieren einen erneuten Krypto-Boom, angetrieben durch globale Akzeptanz und Blockchain-Fortschritte. Mit den optionalen KI-Tools von Floventra mit 99,4% Genauigkeit sind Sie bestens gerüstet, um in diesem schnelllebigen Markt hohe Renditen zu erzielen.</p>',
@@ -3315,7 +3315,7 @@ return [
                 </h2>
                 <p>Floventra entwickelt sich mit dem Kryptowährungsmarkt weiter und bietet innovative KI-Tools, um Bitcoin, Ethereum und aufstrebende Altcoins präzise zu investieren.</p>
                 <p>Unsere Plattform befähigt Krypto-Investoren weltweit mit Funktionen, die das volle Potenzial digitaler Vermögenswerte freisetzen.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Die führende Krypto-Investment-Plattform der Schweiz',
         'about_desc_content' => 'Entdecken Sie Floventra, die führende Schweizer Plattform für Krypto-Investitionen mit KI-gestützten Tools für Bitcoin, Ethereum und Altcoins.',
         'about_keywords' => 'Krypto-Investitionen, Bitcoin-Investieren, KI-gestützte Plattform, Floventra, Schweiz, Ethereum, Altcoins, sicheres Investieren',
@@ -3346,7 +3346,7 @@ return [
                     <p>Floventra ist nicht mit dem Die Höhle der Löwen-Betrug verbunden, der fälschlicherweise gefälschte Krypto-Software bewirbt. Unsere Plattform wurde nie in der Show vorgestellt oder unterstützt.</p>
                     <p>Vermeiden Sie irreführende Anzeigen, die Verbindungen zu Floventra behaupten – Ihre Krypto-Investment-Sicherheit ist unsere oberste Priorität.</p>',
         'about_opportunities' => 'KRYPTO-MÖGLICHKEITEN MIT Floventra NUTZEN',
-        // Contact Page
+
         'contact_title' => 'Kontaktieren Sie Floventra - Schweizer Krypto-Investment-Unterstützung',
         'contact_desc_content' => 'Kontaktieren Sie das Team von Floventra für fachkundige Unterstützung bei Bitcoin, Ethereum und Altcoin-Investitionen in der Schweiz.',
         'contact_keywords' => 'Krypto-Unterstützung, Floventra, Schweiz, Bitcoin, Ethereum, Altcoins, KI-gestütztes Investieren',
@@ -3359,14 +3359,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra Kontakt-Richtlinien</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Lesen Sie diese Anweisungen, um Ihre Krypto-Anfrage an das richtige Team zu richten.</strong></p>
                 <p class="has-base-3-color has-text-color">Für Hilfe bei der Registrierung, Fragen zu Krypto-Investitionen oder technischen Problemen nutzen Sie das untenstehende Formular, und unser Support-Team wird schnell antworten.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Datenschutzrichtlinie - Schweizer Krypto-Datenschutz',
         'privacy_desc_content' => 'Erfahren Sie, wie Floventra Ihre Daten für sicheres Krypto-Investieren in der Schweiz schützt. Letzte Aktualisierung: 23. Februar <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'Datenschutzrichtlinie, Floventra, Schweiz, Krypto-Datenschutz, Bitcoin, Ethereum, KI-gestütztes Investieren',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>Letzte Aktualisierung: 23. Februar <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Wer wir sind</h2>
-                <p>Unsere Website: <a href="/ch-de/">https://floventra.org/ch-de/</a>.</p>
+                <p>Unsere Website: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Kommentare</h2>
                 <p>Wenn Sie Kommentare hinterlassen, sammeln wir Formulardaten, Ihre IP-Adresse und Browserdetails, um Spam in unserer Krypto-Community zu verhindern.</p>
                 <p>Ein anonymisierter E-Mail-Hash kann an Gravatar gesendet werden, um die Nutzung zu überprüfen. Deren Datenschutzrichtlinie: https://automattic.com/privacy/. Genehmigte Kommentare zeigen Ihr Profilbild öffentlich an.</p>
@@ -3389,7 +3389,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Wohin Daten gehen</h2>
                 <p>Kommentare können durch automatische Spam-Erkennung gescreent werden, um unsere Krypto-Plattform zu schützen.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Nutzungsbedingungen - Schweizer Krypto-Investment-Dienste',
         'terms_desc_content' => 'Lesen Sie die Nutzungsbedingungen von Floventra für sicheres Krypto-Investieren in der Schweiz. Letzte Aktualisierung: 23. Februar <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'Nutzungsbedingungen, Floventra, Schweiz, Krypto-Investment-Dienste, Bitcoin, Ethereum, KI-gestütztes Investieren',
@@ -3409,14 +3409,14 @@ return [
                 <p>Dienst: Unsere Website für Krypto-Investitionen.</p>
                 <p>Nutzungsbedingungen: Vereinbarung, die Ihre Nutzung unserer Krypto-Plattform regelt.</p>
                 <p>Soziale Medien von Drittanbietern: Externe Inhalte oder Dienste in unserer Plattform.</p>
-                <p>Website: Floventra unter <a data-id="9" data-type="page" href="/ch-de/">dieser Adresse</a>.</p>
+                <p>Website: Floventra unter <a data-id="9" data-type="page" href="./">dieser Adresse</a>.</p>
                 <p>Sie: Der Nutzer oder die Einheit, die unsere Krypto-Dienste nutzt.</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Vereinbarung</strong></h2>
                 <p>Diese Bedingungen regeln Ihre Nutzung unserer Krypto-Plattform und legen Ihre Rechte und Pflichten für Bitcoin- und Altcoin-Investitionen fest.</p>
                 <p>Der Zugriff erfordert die Zustimmung zu diesen Bedingungen, die für alle Krypto-Nutzer gelten.</p>
                 <p>Wenn Sie nicht einverstanden sind, nutzen Sie unsere Krypto-Dienste nicht.</p>
                 <p>Sie müssen über 18 Jahre alt sein, um unsere Plattform für Krypto-Investitionen zu nutzen.</p>
-                <p>Unsere <a href="/ch-de/privacy">Datenschutzrichtlinie</a> beschreibt die Datenerhebung und den Schutz für Krypto-Nutzer.</p>
+                <p>Unsere <a href="./privacy">Datenschutzrichtlinie</a> beschreibt die Datenerhebung und den Schutz für Krypto-Nutzer.</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Ihr Krypto-Konto</strong></h2>
                 <p>Geben Sie bei der Anmeldung für Krypto-Investitionen genaue, aktuelle Informationen an. Ungenauigkeiten können zur Kontokündigung führen.</p>
                 <p>Sichern Sie Ihr Passwort und melden Sie unbefugte Nutzung sofort, um Ihre Krypto-Investitionen zu schützen.</p>
@@ -3457,7 +3457,7 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Kontaktieren Sie uns</strong></h2>
                 <p>Bei Fragen zu diesen Bedingungen kontaktieren Sie uns:</p>
                 <p>Per E-Mail: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Über unsere <a data-id="42" data-type="page" href="/ch-de/contact">Kontaktseite</a>.</p>
+                <p>Über unsere <a data-id="42" data-type="page" href="./contact">Kontaktseite</a>.</p>
             </div>'
     ],
     'ch-fr' => [
@@ -3482,11 +3482,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Votre plateforme d’investissement crypto de premier plan en Suisse | Le site officiel',
         'meta_description' => 'Rejoignez Floventra pour débloquer les opportunités de Bitcoin, Ethereum et plus encore avec des outils alimentés par l’IA. Commencez votre aventure crypto avec des courtiers fiables pour seulement 230 CHF !',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, Investissements crypto, Investir dans Bitcoin, Plateforme alimentée par l’IA, Floventra, Suisse, Ethereum, Altcoins, Investissement sécurisé',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra propose une plateforme sécurisée alimentée par l’IA pour les investisseurs crypto suisses, avec des outils avancés et des courtiers fiables pour Bitcoin et les altcoins.',
         'jsonld_faq_1_question' => 'Qu’est-ce qu’Floventra ?',
         'jsonld_faq_1_answer' => 'Floventra est une plateforme suisse de premier plan qui utilise une IA optionnelle avec une précision de 99,4 % pour analyser les marchés crypto et vous aider à investir dans Bitcoin, Ethereum et plus encore.',
@@ -3505,17 +3505,17 @@ return [
         'contact' => 'Contact',
         'privacy' => 'Politique de confidentialité',
         'terms' => 'Conditions d’utilisation',
-        // Index
+
         'index_h1' => 'Commencez votre voyage vers la richesse crypto avec Floventra',
         'index_form' => 'Rejoignez Floventra gratuitement et commencez à investir dans le crypto',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                <strong>Avis important</strong> : <a data-id="9" data-type="page" href="/ch-fr/">Floventra</a> vous permet d’explorer le monde passionnant des cryptomonnaies comme Bitcoin et Ethereum avec des outils avancés et des courtiers fiables. Les investissements crypto comportent des risques, et les rendements ne sont pas garantis. Notre plateforme propose des ressources éducatives pour soutenir vos décisions, mais ne fournit pas de conseils financiers. Nous recommandons des recherches approfondies avant de plonger dans les marchés crypto.</p>
+                <strong>Avis important</strong> : <a data-id="9" data-type="page" href="./">Floventra</a> vous permet d’explorer le monde passionnant des cryptomonnaies comme Bitcoin et Ethereum avec des outils avancés et des courtiers fiables. Les investissements crypto comportent des risques, et les rendements ne sont pas garantis. Notre plateforme propose des ressources éducatives pour soutenir vos décisions, mais ne fournit pas de conseils financiers. Nous recommandons des recherches approfondies avant de plonger dans les marchés crypto.</p>
             <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra n’est pas un conseiller financier et ne propose pas de conseils d’investissement personnalisés. Vous êtes responsable de vos décisions d’investissement crypto et devez respecter les réglementations financières locales. Notre plateforme gratuite, soutenue par des partenariats avec des courtiers conformes à la FINMA, vous connecte à des opportunités crypto sécurisées, et nous pouvons percevoir des commissions sur les recommandations.</p>
             <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Nous vous connectons à des courtiers fiables et conformes à la FINMA pour garantir une expérience d’investissement crypto sûre et fiable. Bien que certaines réglementations régionales puissent s’appliquer, Floventra est conçu pour vous permettre de naviguer avec confiance sur le marché crypto avec un dépôt minimum de seulement 230 CHF.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                     Pourquoi Floventra est votre plateforme d’investissement crypto ultime
                 </h2>
-                <p><a data-id="9" data-type="page" href="/ch-fr/"><strong>Floventra</strong></a> est votre accès fiable aux courtiers conformes à la FINMA, offrant des outils de pointe pour investir avec succès dans les cryptomonnaies comme Bitcoin et les altcoins tels qu’Ethereum, Ripple et Cardano. Que vous soyez novice ou investisseur expérimenté, notre plateforme protège contre les fraudes grâce à des partenaires vérifiés et des analyses alimentées par l’IA.</p>
+                <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> est votre accès fiable aux courtiers conformes à la FINMA, offrant des outils de pointe pour investir avec succès dans les cryptomonnaies comme Bitcoin et les altcoins tels qu’Ethereum, Ripple et Cardano. Que vous soyez novice ou investisseur expérimenté, notre plateforme protège contre les fraudes grâce à des partenaires vérifiés et des analyses alimentées par l’IA.</p>
                 <p>Le marché des cryptomonnaies, évalué entre 1,1 et 1,2 trillion de CHF, est dans une phase stable, offrant une opportunité idéale pour investir dans des actifs numériques comme Bitcoin, le pilier de la richesse crypto. Ne tardez pas – les barrières à l’entrée sont faibles maintenant, mais cette fenêtre pourrait bientôt se fermer.</p>
                 <p>En <script>document.write(new Date().getFullYear() - 5)</script>, le marché crypto a atteint 3,5 trillions de CHF, Bitcoin culminant à 80 000 CHF et les altcoins comme Ethereum offrant des rendements massifs aux premiers investisseurs.</p>
                 <p>Les experts prévoient un nouveau boom crypto, porté par l’adoption mondiale et les avancées de la blockchain. Avec les outils IA optionnels d’Floventra, d’une précision de 99,4 %, vous êtes bien équipé pour obtenir des rendements élevés sur ce marché dynamique.</p>',
@@ -3631,7 +3631,7 @@ return [
             </h2>
             <p>Floventra évolue avec le marché des cryptomonnaies, offrant des outils IA innovants pour investir avec précision dans Bitcoin, Ethereum et les altcoins émergents.</p>
             <p>Notre plateforme permet aux investisseurs crypto du monde entier de libérer tout le potentiel des actifs numériques.</p>',
-        // About Page
+
         'about_title' => 'Floventra - La plateforme d’investissement crypto leader en Suisse',
         'about_desc_content' => 'Découvrez Floventra, la plateforme suisse leader pour les investissements crypto avec des outils alimentés par l’IA pour Bitcoin, Ethereum et les altcoins.',
         'about_keywords' => 'Investissements crypto, Investir dans Bitcoin, Plateforme alimentée par l’IA, Floventra, Suisse, Ethereum, Altcoins, Investissement sécurisé',
@@ -3662,7 +3662,7 @@ return [
                 <p>Floventra n’est pas lié à l’arnaque L’Œil du Dragon, qui promeut faussement des logiciels crypto frauduleux. Notre plateforme n’a jamais été présentée ni soutenue par l’émission.</p>
                 <p>Évitez les publicités trompeuses prétendant un lien avec Floventra – la sécurité de vos investissements crypto est notre priorité absolue.</p>',
         'about_opportunities' => 'SAISISSEZ LES OPPORTUNITÉS CRYPTO AVEC Floventra',
-        // Contact Page
+
         'contact_title' => 'Contactez Floventra - Support pour les investissements crypto en Suisse',
         'contact_desc_content' => 'Contactez l’équipe d’Floventra pour un soutien expert sur les investissements en Bitcoin, Ethereum et altcoins en Suisse.',
         'contact_keywords' => 'Support crypto, Floventra, Suisse, Bitcoin, Ethereum, Altcoins, Investissement alimenté par l’IA',
@@ -3675,14 +3675,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Directives de contact d’Floventra</h2>
             <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Lisez ces instructions pour diriger votre demande crypto à la bonne équipe.</strong></p>
             <p class="has-base-3-color has-text-color">Pour une aide à l’inscription, des questions sur les investissements crypto ou des problèmes techniques, utilisez le formulaire ci-dessous, et notre équipe de support répondra rapidement.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Politique de confidentialité d’Floventra - Protection des données crypto en Suisse',
         'privacy_desc_content' => 'Découvrez comment Floventra protège vos données pour un investissement crypto sécurisé en Suisse. Dernière mise à jour : 23 février <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'Politique de confidentialité, Floventra, Suisse, Protection des données crypto, Bitcoin, Ethereum, Investissement alimenté par l’IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
             <p>Dernière mise à jour : 23 février <script>document.write(new Date().getFullYear() - 2)</script></p>
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Qui nous sommes</h2>
-            <p>Notre site web : <a href="/ch-fr/">https://floventra.org/ch-fr/</a>.</p>
+            <p>Notre site web : <a href="./">https://floventra.org/</a>.</p>
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Commentaires</h2>
             <p>Lorsque vous laissez des commentaires, nous collectons les données du formulaire, votre adresse IP et les détails du navigateur pour empêcher le spam dans notre communauté crypto.</p>
             <p>Un hachage anonymisé de votre e-mail peut être envoyé à Gravatar pour vérifier l’utilisation. Leur politique de confidentialité : https://automattic.com/privacy/. Les commentaires approuvés affichent votre photo de profil publiquement.</p>
@@ -3705,7 +3705,7 @@ return [
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Où vont les données</h2>
             <p>Les commentaires peuvent être filtrés par une détection automatique de spam pour protéger notre plateforme crypto.</p>
         </div>',
-        // Terms Page
+
         'terms_title' => 'Conditions d’utilisation d’Floventra - Services d’investissement crypto en Suisse',
         'terms_desc_content' => 'Lisez les conditions d’utilisation d’Floventra pour un investissement crypto sécurisé en Suisse. Dernière mise à jour : 23 février <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'Conditions d’utilisation, Floventra, Suisse, Services d’investissement crypto, Bitcoin, Ethereum, Investissement alimenté par l’IA',
@@ -3725,14 +3725,14 @@ return [
             <p>Service : Notre site web pour les investissements crypto.</p>
             <p>Conditions d’utilisation : Accord régissant votre utilisation de notre plateforme crypto.</p>
             <p>Médias sociaux tiers : Contenus ou services externes sur notre plateforme.</p>
-            <p>Site web : Floventra à <a data-id="9" data-type="page" href="/ch-fr/">cette adresse</a>.</p>
+            <p>Site web : Floventra à <a data-id="9" data-type="page" href="./">cette adresse</a>.</p>
             <p>Vous : L’utilisateur ou l’entité utilisant nos services crypto.</p>
             <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Accord</strong></h2>
             <p>Ces conditions régissent votre utilisation de notre plateforme crypto et définissent vos droits et obligations pour les investissements en Bitcoin et altcoins.</p>
             <p>L’accès nécessite l’acceptation de ces conditions, applicables à tous les utilisateurs crypto.</p>
             <p>Si vous n’êtes pas d’accord, n’utilisez pas nos services crypto.</p>
             <p>Vous devez avoir plus de 18 ans pour utiliser notre plateforme pour les investissements crypto.</p>
-            <p>Notre <a href="/ch-fr/privacy">politique de confidentialité</a> décrit la collecte et la protection des données pour les utilisateurs crypto.</p>
+            <p>Notre <a href="./privacy">politique de confidentialité</a> décrit la collecte et la protection des données pour les utilisateurs crypto.</p>
             <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Votre compte crypto</strong></h2>
             <p>Fournissez des informations précises et à jour lors de l’inscription pour les investissements crypto. Des inexactitudes peuvent entraîner la résiliation du compte.</p>
             <p>Protégez votre mot de passe et signalez immédiatement toute utilisation non autorisée pour sécuriser vos investissements crypto.</p>
@@ -3773,7 +3773,7 @@ return [
             <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contactez-nous</strong></h2>
             <p>Pour toute question sur ces conditions, contactez-nous :</p>
             <p>Par e-mail : <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-            <p>Via notre <a data-id="42" data-type="page" href="/ch-fr/contact">page de contact</a>.</p>
+            <p>Via notre <a data-id="42" data-type="page" href="./contact">page de contact</a>.</p>
         </div>'
     ],
     'at' => [
@@ -3798,11 +3798,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Ihre führende Krypto-Investmentplattform in Österreich | Die offizielle Website',
         'meta_description' => 'Schließen Sie sich Floventra an, um die Möglichkeiten von Bitcoin, Ethereum und mehr mit KI-gestützten Tools zu nutzen. Starten Sie Ihre Krypto-Reise mit vertrauenswürdigen Brokern für nur 230 €!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, Krypto-Investitionen, Bitcoin-Investitionen, KI-gestützte Plattform, Floventra, Österreich, Ethereum, Altcoins, sichere Investitionen',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra bietet eine sichere, KI-gestützte Plattform für österreichische Krypto-Investoren mit fortschrittlichen Tools und vertrauenswürdigen Brokern für Bitcoin und Altcoins.',
         'jsonld_faq_1_question' => 'Was ist Floventra?',
         'jsonld_faq_1_answer' => 'Floventra ist eine führende österreichische Plattform, die optionale KI mit 99,4 % Genauigkeit verwendet, um Kryptomärkte zu analysieren und Ihnen beim Investieren in Bitcoin, Ethereum und mehr zu helfen.',
@@ -3821,17 +3821,17 @@ return [
         'contact' => 'Kontakt',
         'privacy' => 'Datenschutzrichtlinie',
         'terms' => 'Nutzungsbedingungen',
-        // Index
+
         'index_h1' => 'Starten Sie Ihre Krypto-Reise mit Floventra',
         'index_form' => 'Schließen Sie sich Floventra kostenlos an und beginnen Sie mit Krypto-Investitionen',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>Wichtiger Hinweis</strong>: <a data-id="9" data-type="page" href="/at/">Floventra</a> ermöglicht Ihnen, die spannende Welt der Kryptowährungen wie Bitcoin und Ethereum mit fortschrittlichen Tools und vertrauenswürdigen Brokern zu erkunden. Krypto-Investitionen sind mit Risiken verbunden, und Renditen sind nicht garantiert. Unsere Plattform bietet Bildungsressourcen zur Unterstützung Ihrer Entscheidungen, keine Finanzberatung. Wir empfehlen gründliche Recherche, bevor Sie in Kryptomärkte eintauchen.</p>
+                    <strong>Wichtiger Hinweis</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> ermöglicht Ihnen, die spannende Welt der Kryptowährungen wie Bitcoin und Ethereum mit fortschrittlichen Tools und vertrauenswürdigen Brokern zu erkunden. Krypto-Investitionen sind mit Risiken verbunden, und Renditen sind nicht garantiert. Unsere Plattform bietet Bildungsressourcen zur Unterstützung Ihrer Entscheidungen, keine Finanzberatung. Wir empfehlen gründliche Recherche, bevor Sie in Kryptomärkte eintauchen.</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra ist kein Finanzberater und bietet keine personalisierte Anlageberatung. Sie sind für Ihre Krypto-Investmententscheidungen verantwortlich und müssen lokale Finanzvorschriften einhalten. Unsere kostenlose Plattform, unterstützt durch Partnerschaften mit FMA-konformen Brokern, verbindet Sie mit sicheren Krypto-Möglichkeiten, und wir können Provisionen aus Empfehlungen verdienen.</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Wir verbinden Sie mit vertrauenswürdigen, FMA-konformen Brokern, um ein sicheres und zuverlässiges Krypto-Investmenterlebnis zu gewährleisten. Obwohl einige regionale Vorschriften gelten können, ist Floventra darauf ausgelegt, Ihnen zu helfen, den Kryptomarkt mit einer Mindesteinzahlung von nur 230 € sicher zu navigieren.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Warum Floventra Ihre ultimative Krypto-Investmentplattform ist
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/at/"><strong>Floventra</strong></a> ist Ihr vertrauenswürdiger Zugang zu FMA-konformen Brokern und bietet hochmoderne Tools, um in Kryptowährungen wie Bitcoin, Ethereum, Ripple und Cardano erfolgreich zu sein. Egal, ob Sie neu in der Krypto-Welt oder ein erfahrener Investor sind, unsere Plattform schützt vor Betrug mit geprüften Partnern und KI-gestützten Erkenntnissen.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> ist Ihr vertrauenswürdiger Zugang zu FMA-konformen Brokern und bietet hochmoderne Tools, um in Kryptowährungen wie Bitcoin, Ethereum, Ripple und Cardano erfolgreich zu sein. Egal, ob Sie neu in der Krypto-Welt oder ein erfahrener Investor sind, unsere Plattform schützt vor Betrug mit geprüften Partnern und KI-gestützten Erkenntnissen.</p>
                     <p>Der Kryptowährungsmarkt, der auf 900 Milliarden bis 1 Billion Euro geschätzt wird, befindet sich in einer stabilen Phase und bietet eine erstklassige Gelegenheit, in digitale Vermögenswerte wie Bitcoin, den Grundpfeiler des Krypto-Wohlstands, zu investieren. Warten Sie nicht – die Einstiegshürden sind jetzt niedrig, aber dieses Fenster könnte sich bald schließen.</p>
                     <p>Im Jahr <script>document.write(new Date().getFullYear() - 5)</script> stieg der Kryptomarkt auf 2,9 Billionen Euro, wobei Bitcoin auf 67.000 € kletterte und Altcoins wie Ethereum für frühe Investoren enorme Renditen erzielten.</p>
                     <p>Experten prognostizieren einen weiteren Krypto-Boom, angetrieben durch globale Akzeptanz und Blockchain-Fortschritte. Mit den optionalen KI-Tools von Floventra mit 99,4 % Genauigkeit sind Sie bestens gerüstet, um in diesem schnelllebigen Markt hohe Renditen zu erzielen.</p>',
@@ -3947,7 +3947,7 @@ return [
                 </h2>
                 <p>Floventra entwickelt sich mit dem Kryptowährungsmarkt weiter und bietet innovative KI-Tools, um Bitcoin, Ethereum und aufstrebende Altcoins mit Präzision zu investieren.</p>
                 <p>Unsere Plattform befähigt Krypto-Investoren weltweit mit Funktionen, die das volle Potenzial digitaler Vermögenswerte freisetzen.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Österreichs führende Krypto-Investmentplattform',
         'about_desc_content' => 'Entdecken Sie Floventra, Österreichs führende Plattform für Krypto-Investitionen mit KI-gestützten Tools für Bitcoin, Ethereum und Altcoins.',
         'about_keywords' => 'Krypto-Investitionen, Bitcoin-Investitionen, KI-gestützte Plattform, Floventra, Österreich, Ethereum, Altcoins, sichere Investitionen',
@@ -3978,7 +3978,7 @@ return [
                     <p>Floventra ist nicht mit dem Die Höhle der Löwen-Betrug verbunden, der fälschlicherweise gefälschte Krypto-Software bewirbt. Unsere Plattform wurde nie in der Show vorgestellt oder unterstützt.</p>
                     <p>Vermeiden Sie irreführende Anzeigen, die Verbindungen zu Floventra behaupten – Ihre Krypto-Investment-Sicherheit ist unsere oberste Priorität.</p>',
         'about_opportunities' => 'KRYPTO-CHANCEN MIT Floventra NUTZEN',
-        // Contact Page
+
         'contact_title' => 'Kontaktieren Sie Floventra - Österreichischer Krypto-Investment-Support',
         'contact_desc_content' => 'Kontaktieren Sie das Team von Floventra für fachkundige Unterstützung bei Bitcoin-, Ethereum- und Altcoin-Investitionen in Österreich.',
         'contact_keywords' => 'Krypto-Support, Floventra, Österreich, Bitcoin, Ethereum, Altcoins, KI-gestützte Investitionen',
@@ -3991,14 +3991,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra Kontaktleitlinien</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Lesen Sie diese Anweisungen, um Ihre Krypto-Anfrage an das richtige Team zu richten.</strong></p>
                 <p class="has-base-3-color has-text-color">Für Hilfe bei der Registrierung, Fragen zu Krypto-Investitionen oder technischen Problemen nutzen Sie das untenstehende Formular, und unser Support-Team wird schnell antworten.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Datenschutzrichtlinie - Österreichischer Krypto-Datenschutz',
         'privacy_desc_content' => 'Erfahren Sie, wie Floventra Ihre Daten für sichere Krypto-Investitionen in Österreich schützt. Letzte Aktualisierung: 23. Februar <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'Datenschutzrichtlinie, Floventra, Österreich, Krypto-Datenschutz, Bitcoin, Ethereum, KI-gestützte Investitionen',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>Letzte Aktualisierung: 23. Februar <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Wer wir sind</h2>
-                <p>Unsere Website: <a href="/at/">https://floventra.org/at/</a>.</p>
+                <p>Unsere Website: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Kommentare</h2>
                 <p>Wenn Sie Kommentare hinterlassen, erfassen wir Formulardaten, Ihre IP-Adresse und Browserdetails, um Spam in unserer Krypto-Community zu verhindern.</p>
                 <p>Ein anonymisierter E-Mail-Hash kann an Gravatar gesendet werden, um die Nutzung zu überprüfen. Deren Datenschutzrichtlinie: https://automattic.com/privacy/. Genehmigte Kommentare zeigen Ihr Profilbild öffentlich an.</p>
@@ -4021,7 +4021,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Wohin Daten gehen</h2>
                 <p>Kommentare können durch automatisierte Spam-Erkennung gescreent werden, um unsere Krypto-Plattform zu schützen.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Nutzungsbedingungen - Österreichische Krypto-Investmentdienste',
         'terms_desc_content' => 'Lesen Sie die Nutzungsbedingungen von Floventra für sichere Krypto-Investitionen in Österreich. Letzte Aktualisierung: 23. Februar <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'Nutzungsbedingungen, Floventra, Österreich, Krypto-Investmentdienste, Bitcoin, Ethereum, KI-gestützte Investitionen',
@@ -4041,14 +4041,14 @@ return [
                 <p>Dienst: Unsere Website für Krypto-Investitionen.</p>
                 <p>Nutzungsbedingungen: Vereinbarung, die Ihre Nutzung unserer Krypto-Plattform regelt.</p>
                 <p>Soziale Medien Dritter: Externe Inhalte oder Dienste in unserer Plattform.</p>
-                <p>Website: Floventra unter <a data-id="9" data-type="page" href="/at/">dieser Adresse</a>.</p>
+                <p>Website: Floventra unter <a data-id="9" data-type="page" href="./">dieser Adresse</a>.</p>
                 <p>Sie: Der Nutzer oder die Einheit, die unsere Krypto-Dienste nutzt.</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Vereinbarung</strong></h2>
                 <p>Diese Bedingungen regeln Ihre Nutzung unserer Krypto-Plattform und legen Ihre Rechte und Pflichten für Bitcoin- und Altcoin-Investitionen fest.</p>
                 <p>Zugang erfordert Zustimmung zu diesen Bedingungen, die für alle Krypto-Nutzer gelten.</p>
                 <p>Wenn Sie nicht zustimmen, nutzen Sie unsere Krypto-Dienste nicht.</p>
                 <p>Sie müssen über 18 Jahre alt sein, um unsere Plattform für Krypto-Investitionen zu nutzen.</p>
-                <p>Unsere <a href="/at/privacy">Datenschutzrichtlinie</a> beschreibt Datenerfassung und -schutz für Krypto-Nutzer.</p>
+                <p>Unsere <a href="./privacy">Datenschutzrichtlinie</a> beschreibt Datenerfassung und -schutz für Krypto-Nutzer.</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Ihr Krypto-Konto</strong></h2>
                 <p>Geben Sie bei der Anmeldung für Krypto-Investitionen genaue, aktuelle Informationen an. Ungenauigkeiten können zur Kontokündigung führen.</p>
                 <p>Sichern Sie Ihr Passwort und melden Sie unbefugte Nutzung sofort, um Ihre Krypto-Investitionen zu schützen.</p>
@@ -4089,7 +4089,7 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Kontaktieren Sie uns</strong></h2>
                 <p>Für Fragen zu diesen Bedingungen kontaktieren Sie uns:</p>
                 <p>Per E-Mail: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Über unsere <a data-id="42" data-type="page" href="/at/contact">Kontaktseite</a>.</p>
+                <p>Über unsere <a data-id="42" data-type="page" href="./contact">Kontaktseite</a>.</p>
             </div>'
     ],
 
@@ -4115,11 +4115,11 @@ return [
             'https://linkedin.com/company/Neris_Capisphere',
             'https://instagram.com/Neris_Capisphere'
         ],
-        // Main Page
+
         'title' => 'Floventra - Your Premier Crypto Investment Platform in Canada | The Official Website',
         'meta_description' => 'Join Floventra to unlock the power of Bitcoin, Ethereum, and more with AI-driven tools. Start your crypto journey with trusted brokers for just $340 CAD!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, crypto investing, Bitcoin investments, AI-driven platform, Floventra, Canada, Ethereum, altcoins, secure investments',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra delivers a secure, AI-powered platform for Canadian crypto investors, offering advanced tools and trusted brokers for Bitcoin and altcoins.',
         'jsonld_faq_1_question' => 'What is Floventra?',
         'jsonld_faq_1_answer' => 'Floventra is a leading Canadian platform using optional AI to analyze crypto markets with 99.4% accuracy, helping you invest in Bitcoin, Ethereum, and more.',
@@ -4138,17 +4138,17 @@ return [
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
-        // Index
+
         'index_h1' => 'Launch Your Crypto Wealth Journey with Floventra',
         'index_form' => 'Join Floventra for Free and Start Crypto Investing',
         'index_disclaimer' => '<p class="ca-headline ca-headline-25aef701 ca-headline-text">
-                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="/ca/">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
+                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
                 <p class="ca-headline ca-headline-289c9730 ca-headline-text">Floventra is not a financial advisor and does not provide personalized investment guidance. You are responsible for your crypto investment decisions and must adhere to local financial regulations. Our free platform, supported by partnerships with OSC-compliant brokers, connects you to secure crypto opportunities, and we may earn commissions from referrals.</p>
                 <p class="ca-headline ca-headline-f76cb6df ca-headline-text">We connect you with trusted, OSC-compliant brokers to ensure a safe and reliable crypto investing experience. While some regional regulations may apply, Floventra is designed to help you navigate the crypto market confidently with a minimum deposit of just $340 CAD.</p>',
         'index_why_opt' => '<h2 class="ca-headline ca-headline-9be12089 ca-headline-text">
                         Why Floventra Is Your Ultimate Crypto Investment Platform
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/ca/"><strong>Floventra</strong></a> is your trusted gateway to OSC-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> is your trusted gateway to OSC-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
                     <p>The cryptocurrency market, valued at $1.2 trillion to $1.4 trillion CAD, is in a stable phase, offering a prime opportunity to invest in digital assets like Bitcoin, the cornerstone of crypto wealth. Don’t wait—entry barriers are low now, but this window may close soon.</p>
                     <p>In <script>document.write(new Date().getFullYear() - 5)</script>, the crypto market soared to $3.9 trillion CAD, with Bitcoin peaking at $90,000 CAD and altcoins like Ethereum driving massive returns for early investors.</p>
                     <p>Experts predict another crypto surge, fueled by global adoption and blockchain advancements. With Floventra’s optional AI tools boasting 99.4% accuracy, you’re equipped to seize high returns in this fast-moving market.</p>',
@@ -4264,7 +4264,7 @@ return [
                 </h2>
                 <p>Floventra evolves with the cryptocurrency market, offering innovative AI tools to invest in Bitcoin, Ethereum, and emerging altcoins with precision.</p>
                 <p>Our platform empowers crypto investors worldwide with features designed to unlock the full potential of digital assets.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Canada’s Leading Crypto Investment Platform',
         'about_desc_content' => 'Discover Floventra, Canada’s premier platform for crypto investing, offering AI-driven tools for Bitcoin, Ethereum, and altcoins.',
         'about_keywords' => 'crypto investing, Bitcoin investments, AI-driven platform, Floventra, Canada, Ethereum, altcoins, secure investments',
@@ -4295,7 +4295,7 @@ return [
                     <p>Floventra is not linked to the Dragons’ Den scam, which falsely promotes fake crypto software. Our platform was never featured or endorsed by the show.</p>
                     <p>Avoid misleading ads claiming ties to Floventra—your crypto investment security is our top priority.</p>',
         'about_opportunities' => 'SEIZE CRYPTO OPPORTUNITIES WITH Floventra',
-        // Contact Page
+
         'contact_title' => 'Contact Floventra - Canadian Crypto Investment Support',
         'contact_desc_content' => 'Reach out to Floventra’s team for expert support on Bitcoin, Ethereum, and altcoin investments in Canada.',
         'contact_keywords' => 'crypto support, Floventra, Canada, Bitcoin, Ethereum, altcoins, AI-driven investing',
@@ -4308,14 +4308,14 @@ return [
         'contact_guide' => '<h2 class="ca-headline ca-headline-cffb62a7 ca-headline-text">Floventra Contact Guidelines</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Review these instructions to direct your crypto inquiry to the right team.</strong></p>
                 <p class="has-base-3-color has-text-color">For help with registration, crypto investment questions, or technical issues, use the form below, and our support team will respond quickly.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Privacy Policy - Canadian Crypto Data Protection',
         'privacy_desc_content' => 'Learn how Floventra protects your data for secure crypto investing in Canada. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'privacy policy, Floventra, Canada, crypto data protection, Bitcoin, Ethereum, AI-driven investing',
         'privacy_content' => '<div class="ca-container ca-container-4160cb6f">
                 <p>Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Who We Are</h2>
-                <p>Our website: <a href="/ca/">https://kendrelyieldharbor.com/</a>.</p>
+                <p>Our website: <a href="./">https://kendrelyieldharbor.com/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comments</h2>
                 <p>When you leave comments, we collect form data, your IP address, and browser details to protect against spam in our crypto community.</p>
                 <p>An anonymized email hash may be sent to Gravatar to check usage. Their privacy policy: https://automattic.com/privacy/. Approved comments display your profile picture publicly.</p>
@@ -4338,7 +4338,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Where Data Goes</h2>
                 <p>Comments may be screened by automated spam detection to protect our crypto platform.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Terms - Canadian Crypto Investment Services',
         'terms_desc_content' => 'Review Floventra’s terms for secure crypto investing in Canada. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'terms and conditions, Floventra, Canada, crypto investment services, Bitcoin, Ethereum, AI-driven investing',
@@ -4358,14 +4358,14 @@ return [
                 <p>Service: Our website for crypto investing.</p>
                 <p>Terms and Conditions: Agreement governing your use of our crypto platform.</p>
                 <p>Third-party Social Media: External content or services in our platform.</p>
-                <p>Website: Floventra at <a data-id="9" data-type="page" href="/ca/">this address</a>.</p>
+                <p>Website: Floventra at <a data-id="9" data-type="page" href="./">this address</a>.</p>
                 <p>You: The user or entity accessing our crypto services.</p>
                 <h2 class="ca-headline ca-headline-a42ca7f0 ca-headline-text"><strong>Agreement</strong></h2>
                 <p>These terms govern your use of our crypto platform, outlining your rights and responsibilities for Bitcoin and altcoin investing.</p>
                 <p>Access requires agreeing to these terms, applicable to all crypto users.</p>
                 <p>If you disagree, do not use our crypto services.</p>
                 <p>You must be over 19 to use our platform for crypto investing in Canada.</p>
-                <p>Our <a href="/ca/privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
+                <p>Our <a href="./privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
                 <h2 class="ca-headline ca-headline-cd0291ec ca-headline-text"><strong>Your Crypto Account</strong></h2>
                 <p>Provide accurate, current information when signing up for crypto investing. Inaccuracies may lead to account termination.</p>
                 <p>Secure your password and report any unauthorized use immediately to protect your crypto investments.</p>
@@ -4406,7 +4406,7 @@ return [
                 <h2 class="ca-headline ca-headline-5fe35776 ca-headline-text"><strong>Contact Us</strong></h2>
                 <p>For questions about these terms, contact us:</p>
                 <p>By email: <a href="mailto:info@kendrelyieldharbor.com">info@kendrelyieldharbor.com</a></p>
-                <p>Via our <a data-id="42" data-type="page" href="/ca/contact">Contact Us</a> page.</p>
+                <p>Via our <a data-id="42" data-type="page" href="./contact">Contact Us</a> page.</p>
             </div>'
     ],
     'jp' => [
@@ -4426,16 +4426,16 @@ return [
         'jsonld_software_price' => '37500',
         'jsonld_software_price_currency' => 'JPY',
         'social_links' => [
-            'https://facebook.com/floventra/jp',
-            'https://twitter.com/floventra/jp',
-            'https://linkedin.com/company/floventra/jp',
-            'https://instagram.com/floventra/jp'
+            'https://facebook.com/floventra/',
+            'https://twitter.com/floventra/',
+            'https://linkedin.com/company/floventra/',
+            'https://instagram.com/floventra/'
         ],
-        // Main Page
+
         'title' => 'Floventra - 日本のプレミア暗号資産投資プラットフォーム | 公式ウェブサイト',
         'meta_description' => 'Floventraでビットコイン、イーサリアムなどをAI駆動ツールで活用。信頼できるブローカーと37,500円から暗号資産投資を始めましょう！',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, 暗号資産投資, ビットコイン投資, AI駆動プラットフォーム, Floventra, 日本, イーサリアム, アルトコイン, 安全な投資',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventraは、日本の暗号資産投資家向けに安全なAI駆動プラットフォームを提供し、ビットコインやアルトコインのための先進ツールと信頼できるブローカーを提供します。',
         'jsonld_faq_1_question' => 'Floventraとは何ですか？',
         'jsonld_faq_1_answer' => 'Floventraは、99.4%の精度で暗号資産市場を分析するオプションのAIを活用した日本をリードするプラットフォームで、ビットコイン、イーサリアムなどの投資をサポートします。',
@@ -4454,17 +4454,17 @@ return [
         'contact' => 'お問い合わせ',
         'privacy' => 'プライバシーポリシー',
         'terms' => '利用規約',
-        // Index
+
         'index_h1' => 'Floventraで暗号資産の富への旅を始めよう',
         'index_form' => 'Floventraに無料で参加して暗号資産投資をスタート',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>重要なお知らせ</strong>：<a data-id="9" data-type="page" href="/jp/">Floventra</a>は、ビットコインやイーサリアムなどの暗号資産を先進ツールと信頼できるブローカーで探求できるプラットフォームです。暗号資産投資にはリスクが伴い、収益は保証されません。弊社のプラットフォームは教育リソースを提供し、投資アドバイスではありません。暗号資産市場に飛び込む前に十分な調査をお勧めします。</p>
+                    <strong>重要なお知らせ</strong>：<a data-id="9" data-type="page" href="./">Floventra</a>は、ビットコインやイーサリアムなどの暗号資産を先進ツールと信頼できるブローカーで探求できるプラットフォームです。暗号資産投資にはリスクが伴い、収益は保証されません。弊社のプラットフォームは教育リソースを提供し、投資アドバイスではありません。暗号資産市場に飛び込む前に十分な調査をお勧めします。</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventraはファイナンシャルアドバイザーではなく、個別の投資指導は提供しません。暗号資産投資の決定はご自身の責任であり、国内の金融規制を遵守する必要があります。無料のプラットフォームはJFSA準拠のブローカーとのパートナーシップでサポートされ、紹介により手数料を得る場合があります。</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">信頼できるJFSA準拠のブローカーと接続し、安全で信頼性の高い暗号資産投資体験を保証します。一部の地域規制が適用される場合がありますが、Floventraは最低37,500円の入金で自信を持って暗号資産市場をナビゲートできるように設計されています。</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Floventraが究極の暗号資産投資プラットフォームである理由
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/jp/"><strong>Floventra</strong></a>は、ビットコインからイーサリアム、リップル、カルダノなどのアルトコインまで、JFSA準拠のブローカーへの信頼できるゲートウェイであり、詐欺からの安全を確保する厳選されたパートナーとAI駆動の洞察を提供します。</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a>は、ビットコインからイーサリアム、リップル、カルダノなどのアルトコインまで、JFSA準拠のブローカーへの信頼できるゲートウェイであり、詐欺からの安全を確保する厳選されたパートナーとAI駆動の洞察を提供します。</p>
                     <p>暗号資産市場は9,000億～1兆円規模で、安定したフェーズにあり、ビットコインなどのデジタル資産に投資する絶好の機会です。今すぐ始めないと、このチャンスはすぐに閉ざされるかもしれません。</p>
                     <p><script>document.write(new Date().getFullYear() - 5)</script>年、暗号資産市場は2.9兆円に急上昇し、ビットコインは670万円、アルトコインのイーサリアムは初期投資家に大きなリターンをもたらしました。</p>
                     <p>専門家は、グローバルな採用とブロックチェーン技術の進歩により、さらなる暗号資産ブームを予測しています。FloventraのオプションAIツールは99.4%の精度を誇り、急速に動く市場で高いリターンを掴むための装備を提供します。</p>',
@@ -4580,7 +4580,7 @@ return [
                 </h2>
                 <p>Floventraは、ビットコイン、イーサリアム、新興アルトコインを精密に投資するための革新的なAIツールを提供し、暗号資産市場と共に進化します。</p>
                 <p>弊社のプラットフォームは、デジタル資産の可能性を最大限に引き出す機能を備え、世界中の暗号資産投資家を強化します。</p>',
-        // About Page
+
         'about_title' => 'Floventra - 日本のリーディング暗号資産投資プラットフォーム',
         'about_desc_content' => 'Floventraで、ビットコイン、イーサリアム、アルトコイン向けのAI駆動ツールを提供する日本のプレミア暗号資産投資プラットフォームを発見。',
         'about_keywords' => '暗号資産投資, ビットコイン投資, AI駆動プラットフォーム, Floventra, 日本, イーサリアム, アルトコイン, 安全な投資',
@@ -4611,7 +4611,7 @@ return [
                     <p>Floventraは、偽の暗号資産ソフトウェアを宣伝するドラゴンズ・デンの詐欺とは無関係です。弊社のプラットフォームは番組で紹介または推奨されたことはありません。</p>
                     <p>Floventraとの関連を主張する誤解を招く広告を避けてください—暗号資産投資のセキュリティが最優先です。</p>',
         'about_opportunities' => 'Floventraで暗号資産の機会を掴む',
-        // Contact Page
+
         'contact_title' => 'Floventraに連絡 - 日本の暗号資産投資サポート',
         'contact_desc_content' => 'Floventraのチームに連絡して、ビットコイン、イーサリアム、アルトコイン投資に関する専門サポートを受けてください。',
         'contact_keywords' => '暗号資産サポート, Floventra, 日本, ビットコイン, イーサリアム, アルトコイン, AI駆動投資',
@@ -4624,14 +4624,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra連絡ガイドライン</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>暗号資産に関する問い合わせを適切なチームに導くために、これらの指示を確認してください。</strong></p>
                 <p class="has-base-3-color has-text-color">登録、暗号資産投資の質問、または技術的な問題に関するヘルプは、以下のフォームを使用してください。サポートチームが迅速に対応します。</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventraプライバシーポリシー - 日本の暗号資産データ保護',
         'privacy_desc_content' => 'Floventraが日本での安全な暗号資産投資のためにあなたのデータを保護する方法を学びます。最終更新：<script>document.write(new Date().getFullYear() - 2)</script>年2月23日。',
         'privacy_keywords' => 'プライバシーポリシー, Floventra, 日本, 暗号資産データ保護, ビットコイン, イーサリアム, AI駆動投資',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>最終更新：<script>document.write(new Date().getFullYear() - 2)</script>年2月23日</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">私たちは誰か</h2>
-                <p>弊社のウェブサイト：<a href="/jp/">https://floventra.org/jp/</a>。</p>
+                <p>弊社のウェブサイト：<a href="./">https://floventra.org/</a>。</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">コメント</h2>
                 <p>コメントを残す際、フォームデータ、IPアドレス、ブラウザの詳細を収集し、暗号資産コミュニティでのスパム防止に役立てます。</p>
                 <p>匿名化されたメールハッシュがGravatarに送信され、使用状況を確認します。プライバシーポリシー：https://automattic.com/privacy/。承認されたコメントはプロフィール画像を公開表示します。</p>
@@ -4654,7 +4654,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">データの送信先</h2>
                 <p>コメントは、暗号資産プラットフォームを保護するために自動スパム検出でスクリーニングされる場合があります。</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra利用規約 - 日本の暗号資産投資サービス',
         'terms_desc_content' => '日本の安全な暗号資産投資のためのFloventraの利用規約を確認。最終更新：<script>document.write(new Date().getFullYear() - 2)</script>年2月23日。',
         'terms_keywords' => '利用規約, Floventra, 日本, 暗号資産投資サービス, ビットコイン, イーサリアム, AI駆動投資',
@@ -4674,14 +4674,14 @@ return [
                 <p>サービス：暗号資産投資のための弊社ウェブサイト。</p>
                 <p>利用規約：暗号資産プラットフォームの使用を管理する契約。</p>
                 <p>サードパーティソーシャルメディア：プラットフォーム内の外部コンテンツまたはサービス。</p>
-                <p>ウェブサイト：<a data-id="9" data-type="page" href="/jp/">このアドレス</a>のFloventra。</p>
+                <p>ウェブサイト：<a data-id="9" data-type="page" href="./">このアドレス</a>のFloventra。</p>
                 <p>あなた：暗号資産サービスにアクセスするユーザーまたはエンティティ。</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>契約</strong></h2>
                 <p>これらの規約は、ビットコインやアルトコイン投資のためのあなたの権利と責任を概説し、暗号資産プラットフォームの使用を管理します。</p>
                 <p>アクセスにはこれらの規約への同意が必要で、すべての暗号資産ユーザーに適用されます。</p>
                 <p>同意しない場合、暗号資産サービスを使用しないでください。</p>
                 <p>暗号資産投資のために、18歳以上である必要があります。</p>
-                <p>弊社の<a href="/jp/privacy">プライバシーポリシー</a>は、暗号資産ユーザーのデータ収集と保護の詳細を説明します。</p>
+                <p>弊社の<a href="./privacy">プライバシーポリシー</a>は、暗号資産ユーザーのデータ収集と保護の詳細を説明します。</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>あなたの暗号資産アカウント</strong></h2>
                 <p>暗号資産投資のために正確で最新の情報を提供して登録してください。不正確な情報はアカウントの終了につながる可能性があります。</p>
                 <p>パスワードを保護し、不正使用を直ちに報告して、暗号資産投資を保護してください。</p>
@@ -4722,7 +4722,7 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>お問い合わせ</strong></h2>
                 <p>これらの規約に関する質問は、以下でご連絡ください：</p>
                 <p>メール：<a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p><a data-id="42" data-type="page" href="/jp/contact">お問い合わせ</a>ページ経由。</p>
+                <p><a data-id="42" data-type="page" href="./contact">お問い合わせ</a>ページ経由。</p>
             </div>'
     ],
     'ph' => [
@@ -4747,11 +4747,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Your Premier Crypto Investment Platform in the Philippines | The Official Website',
         'meta_description' => 'Join Floventra to unlock the power of Bitcoin, Ethereum, and more with AI-driven tools. Start your crypto journey with trusted brokers for just ₱14,000!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, crypto investing, Bitcoin investing, AI-driven platform, Floventra, Philippines, Ethereum, altcoins, secure investing',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra delivers a secure, AI-powered platform for Filipino crypto investors, offering advanced tools and trusted brokers for Bitcoin and altcoins.',
         'jsonld_faq_1_question' => 'What is Floventra?',
         'jsonld_faq_1_answer' => 'Floventra is a leading Philippine platform using optional AI to analyze crypto markets with 99.4% accuracy, helping you invest in Bitcoin, Ethereum, and more.',
@@ -4770,17 +4770,17 @@ return [
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
-        // Index
+
         'index_h1' => 'Launch Your Crypto Wealth Journey with Floventra',
         'index_form' => 'Join Floventra for Free and Start Crypto Investing',
         'index_disclaimer' => '<p class="ph-headline ph-headline-25aef701 ph-headline-text">
-                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="/ph/">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
+                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
                 <p class="ph-headline ph-headline-289c9730 ph-headline-text">Floventra is not a financial advisor and does not provide personalized investment guidance. You are responsible for your crypto investing decisions and must adhere to local financial regulations. Our free platform, supported by partnerships with BSP-compliant brokers, connects you to secure crypto opportunities, and we may earn commissions from referrals.</p>
                 <p class="ph-headline ph-headline-f76cb6df ph-headline-text">We connect you with trusted, BSP-compliant brokers to ensure a safe and reliable crypto investing experience. While some regional regulations may apply, Floventra is designed to help you navigate the crypto market confidently with a minimum deposit of just ₱14,000.</p>',
         'index_why_opt' => '<h2 class="ph-headline ph-headline-9be12089 ph-headline-text">
                         Why Floventra Is Your Ultimate Crypto Investment Platform
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/ph/"><strong>Floventra</strong></a> is your trusted gateway to BSP-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> is your trusted gateway to BSP-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
                     <p>The cryptocurrency market, valued at ₱50 trillion to ₱56 trillion, is in a stable phase, offering a prime opportunity to invest in digital assets like Bitcoin, the cornerstone of crypto wealth. Don’t wait—entry barriers are low now, but this window may close soon.</p>
                     <p>In <script>document.write(new Date().getFullYear() - 5)</script>, the crypto market soared to ₱162 trillion, with Bitcoin peaking at ₱3.7 million and altcoins like Ethereum driving massive returns for early investors.</p>
                     <p>Experts predict another crypto surge, fueled by global adoption and blockchain advancements. With Floventra’s optional AI tools boasting 99.4% accuracy, you’re equipped to seize high returns in this fast-moving market.</p>',
@@ -4896,7 +4896,7 @@ return [
                 </h2>
                 <p>Floventra evolves with the cryptocurrency market, offering innovative AI tools to invest in Bitcoin, Ethereum, and emerging altcoins with precision.</p>
                 <p>Our platform empowers crypto investors worldwide with features designed to unlock the full potential of digital assets.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Philippines’ Leading Crypto Investment Platform',
         'about_desc_content' => 'Discover Floventra, the Philippines’ premier platform for crypto investing, offering AI-driven tools for Bitcoin, Ethereum, and altcoins.',
         'about_keywords' => 'crypto investing, Bitcoin investing, AI-driven platform, Floventra, Philippines, Ethereum, altcoins, secure investing',
@@ -4927,7 +4927,7 @@ return [
                     <p>Floventra is not linked to the Dragon’s Lair scam, which falsely promotes fake crypto software. Our platform was never featured or endorsed by the show.</p>
                     <p>Avoid misleading ads claiming ties to Floventra—your crypto investment security is our top priority.</p>',
         'about_opportunities' => 'SEIZE CRYPTO OPPORTUNITIES WITH Floventra',
-        // Contact Page
+
         'contact_title' => 'Contact Floventra - Philippine Crypto Investment Support',
         'contact_desc_content' => 'Reach out to Floventra’s team for expert support on Bitcoin, Ethereum, and altcoin investments in the Philippines.',
         'contact_keywords' => 'crypto support, Floventra, Philippines, Bitcoin, Ethereum, altcoins, AI-driven investing',
@@ -4940,14 +4940,14 @@ return [
         'contact_guide' => '<h2 class="ph-headline ph-headline-cffb62a7 ph-headline-text">Floventra Contact Guidelines</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Review these instructions to direct your crypto inquiry to the right team.</strong></p>
                 <p class="has-base-3-color has-text-color">For help with registration, crypto investing questions, or technical issues, use the form below, and our support team will respond quickly.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Privacy Policy - Philippine Crypto Data Protection',
         'privacy_desc_content' => 'Learn how Floventra protects your data for secure crypto investing in the Philippines. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'privacy policy, Floventra, Philippines, crypto data protection, Bitcoin, Ethereum, AI-driven investing',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Who We Are</h2>
-                <p>Our website: <a href="/ph/">https://floventra.org/ph/</a>.</p>
+                <p>Our website: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comments</h2>
                 <p>When you leave comments, we collect form data, your IP address, and browser details to protect against spam in our crypto community.</p>
                 <p>An anonymized email hash may be sent to Gravatar to check usage. Their privacy policy: https://automattic.com/privacy/. Approved comments display your profile picture publicly.</p>
@@ -4970,7 +4970,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Where Data Goes</h2>
                 <p>Comments may be screened by automated spam detection to protect our crypto platform.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Terms - Philippine Crypto Investment Services',
         'terms_desc_content' => 'Review Floventra’s terms for secure crypto investing in the Philippines. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'terms and conditions, Floventra, Philippines, crypto investment services, Bitcoin, Ethereum, AI-driven investing',
@@ -4990,14 +4990,14 @@ return [
                 <p>Service: Our website for crypto investing.</p>
                 <p>Terms and Conditions: Agreement governing your use of our crypto platform.</p>
                 <p>Third-party Social Media: External content or services in our platform.</p>
-                <p>Website: Floventra at <a data-id="9" data-type="page" href="/ph/">this address</a>.</p>
+                <p>Website: Floventra at <a data-id="9" data-type="page" href="./">this address</a>.</p>
                 <p>You: The user or entity accessing our crypto services.</p>
                 <h2 class="ph-headline ph-headline-a42ca7f0 ph-headline-text"><strong>Agreement</strong></h2>
                 <p>These terms govern your use of our crypto platform, outlining your rights and responsibilities for Bitcoin and altcoin investing.</p>
                 <p>Access requires agreeing to these terms, applicable to all crypto users.</p>
                 <p>If you disagree, do not use our crypto services.</p>
                 <p>You must be over 18 to use our platform for crypto investing.</p>
-                <p>Our <a href="/ph/privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
+                <p>Our <a href="./privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
                 <h2 class="ph-headline ph-headline-cd0291ec ph-headline-text"><strong>Your Crypto Account</strong></h2>
                 <p>Provide accurate, current information when signing up for crypto investing. Inaccuracies may lead to account termination.</p>
                 <p>Secure your password and report any unauthorized use immediately to protect your crypto investments.</p>
@@ -5038,7 +5038,7 @@ return [
                 <h2 class="ph-headline ph-headline-5fe35776 ph-headline-text"><strong>Contact Us</strong></h2>
                 <p>For questions about these terms, contact us:</p>
                 <p>By email: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Via our <a data-id="42" data-type="page" href="/ph/contact">Contact Us</a> page.</p>
+                <p>Via our <a data-id="42" data-type="page" href="./contact">Contact Us</a> page.</p>
             </div>'
     ],
     'th' => [
@@ -5063,11 +5063,11 @@ return [
             'https://linkedin.com/company/floventra_Thailand',
             'https://instagram.com/floventra_Thailand'
         ],
-        // Main Page
+
         'title' => 'Floventra - แพลตฟอร์มลงทุนคริปโตชั้นนำในประเทศไทย | เว็บไซต์อย่างเป็นทางการ',
         'meta_description' => 'เข้าร่วม Floventra เพื่อปลดล็อกพลังของ Bitcoin, Ethereum และอื่น ๆ ด้วยเครื่องมือที่ขับเคลื่อนด้วย AI เริ่มต้นการลงทุนคริปโตของคุณกับโบรกเกอร์ที่เชื่อถือได้เพียง 8300 บาท!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, การลงทุนคริปโต, การลงทุน Bitcoin, แพลตฟอร์มที่ขับเคลื่อนด้วย AI, Floventra, ประเทศไทย, Ethereum, อัลท์คอยน์, การลงทุนที่ปลอดภัย',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra มอบแพลตฟอร์มที่ปลอดภัยและขับเคลื่อนด้วย AI สำหรับนักลงทุนคริปโตในประเทศไทย พร้อมเครื่องมือขั้นสูงและโบรกเกอร์ที่เชื่อถือได้สำหรับ Bitcoin และอัลท์คอยน์',
         'jsonld_faq_1_question' => 'Floventra คืออะไร?',
         'jsonld_faq_1_answer' => 'Floventra เป็นแพลตฟอร์มชั้นนำในประเทศไทยที่ใช้ AI (ตัวเลือก) เพื่อวิเคราะห์ตลาดคริปโตด้วยความแม่นยำ 99.4% ช่วยให้คุณลงทุนใน Bitcoin, Ethereum และอื่น ๆ',
@@ -5086,17 +5086,17 @@ return [
         'contact' => 'ติดต่อเรา',
         'privacy' => 'นโยบายความเป็นส่วนตัว',
         'terms' => 'ข้อกำหนดและเงื่อนไข',
-        // Index
+
         'index_h1' => 'เริ่มต้นการเดินทางสร้างความมั่งคั่งด้วยคริปโตกับ Floventra',
         'index_form' => 'เข้าร่วม Floventra ฟรีและเริ่มลงทุนคริปโต',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>หมายเหตุสำคัญ</strong>: <a data-id="9" data-type="page" href="/th/">Floventra</a> ช่วยให้คุณสำรวจโลกที่น่าตื่นเต้นของคริปโตเคอเรนซี่ เช่น Bitcoin และ Ethereum ด้วยเครื่องมือขั้นสูงและโบรกเกอร์ที่เชื่อถือได้ การลงทุนคริปโตมีความเสี่ยง และผลตอบแทนไม่มีการรับประกัน แพลตฟอร์มของเรามีแหล่งข้อมูลการศึกษาเพื่อช่วยตัดสินใจ ไม่ใช่คำแนะนำทางการเงิน เราแนะนำให้ทำการวิจัยอย่างละเอียดก่อนเข้าสู่ตลาดคริปโต</p>
+                    <strong>หมายเหตุสำคัญ</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> ช่วยให้คุณสำรวจโลกที่น่าตื่นเต้นของคริปโตเคอเรนซี่ เช่น Bitcoin และ Ethereum ด้วยเครื่องมือขั้นสูงและโบรกเกอร์ที่เชื่อถือได้ การลงทุนคริปโตมีความเสี่ยง และผลตอบแทนไม่มีการรับประกัน แพลตฟอร์มของเรามีแหล่งข้อมูลการศึกษาเพื่อช่วยตัดสินใจ ไม่ใช่คำแนะนำทางการเงิน เราแนะนำให้ทำการวิจัยอย่างละเอียดก่อนเข้าสู่ตลาดคริปโต</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra ไม่ใช่ที่ปรึกษาทางการเงินและไม่ให้คำแนะนำการลงทุนส่วนบุคคล คุณต้องรับผิดชอบต่อการตัดสินใจลงทุนคริปโตของคุณและปฏิบัติตามกฎระเบียบทางการเงินในท้องถิ่น แพลตฟอร์มฟรีของเราได้รับการสนับสนุนจากพันธมิตรโบรกเกอร์ที่ได้รับการรับรองในประเทศไทย และเราอาจได้รับค่าคอมมิชชั่นจากการแนะนำ</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">เราเชื่อมต่อคุณกับโบรกเกอร์ที่ได้รับการรับรองในประเทศไทยเพื่อให้มั่นใจถึงประสบการณ์การลงทุนคริปโตที่ปลอดภัยและเชื่อถือได้ แม้ว่าจะมีข้อจำกัดด้านกฎระเบียบในบางพื้นที่ Floventra ออกแบบมาเพื่อช่วยคุณสำรวจตลาดคริปโตอย่างมั่นใจด้วยเงินฝากขั้นต่ำเพียง 8300 บาท</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         ทำไม Floventra ถึงเป็นแพลตฟอร์มลงทุนคริปโตที่ดีที่สุดของคุณ
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/th/"><strong>Floventra</strong></a> เป็นประตูสู่โบรกเกอร์ที่ได้รับการรับรองในประเทศไทย นำเสนอเครื่องมือล้ำสมัยเพื่อความเป็นเลิศในการลงทุนคริปโตเคอเรนซี่ ตั้งแต่ Bitcoin ไปจนถึงอัลท์คอยน์ เช่น Ethereum, Ripple และ Cardano ไม่ว่าคุณจะเป็นมือใหม่หรือนักลงทุนที่มีประสบการณ์ แพลตฟอร์มของเราจะช่วยป้องกันการหลอกลวงด้วยพันธมิตรที่ผ่านการตรวจสอบและข้อมูลเชิงลึกจาก AI</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> เป็นประตูสู่โบรกเกอร์ที่ได้รับการรับรองในประเทศไทย นำเสนอเครื่องมือล้ำสมัยเพื่อความเป็นเลิศในการลงทุนคริปโตเคอเรนซี่ ตั้งแต่ Bitcoin ไปจนถึงอัลท์คอยน์ เช่น Ethereum, Ripple และ Cardano ไม่ว่าคุณจะเป็นมือใหม่หรือนักลงทุนที่มีประสบการณ์ แพลตฟอร์มของเราจะช่วยป้องกันการหลอกลวงด้วยพันธมิตรที่ผ่านการตรวจสอบและข้อมูลเชิงลึกจาก AI</p>
                     <p>ตลาดคริปโตเคอเรนซี่มีมูลค่า 30 ล้านล้านถึง 33 ล้านล้านบาท อยู่ในช่วงที่มีเสถียรภาพ เป็นโอกาสที่ดีในการลงทุนในสินทรัพย์ดิจิทัล เช่น Bitcoin ซึ่งเป็นรากฐานของความมั่งคั่งจากคริปโต อย่ารอช้า—อุปสรรคในการเข้าสู่ตลาดต่ำในตอนนี้ แต่อาจปิดตัวลงในไม่ช้า</p>
                     <p>ในปี <script>document.write(new Date().getFullYear() - 5)</script> ตลาดคริปโตพุ่งสูงถึง 95 ล้านล้านบาท โดย Bitcoin สูงสุดที่ 2.2 ล้านบาท และอัลท์คอยน์ เช่น Ethereum สร้างผลตอบแทนมหาศาลให้กับนักลงทุนระยะแรก</p>
                     <p>ผู้เชี่ยวชазакзывает, что следующий всплеск криптовалютного рынка будет подпитываться глобальным принятием и развитием блокчейна. С опциональными инструментами ИИ Floventra с точностью 99,4% вы готовы к высоким доходам на этом быстро меняющемся рынке.',
@@ -5212,7 +5212,7 @@ return [
                 </h2>
                 <p>Floventra พัฒนาควบคู่ไปกับตลาดคริปโตเคอเรนซี่ นำเสนอเครื่องมือ AI ที่เป็นนวัตกรรมเพื่อลงทุนใน Bitcoin, Ethereum และอัลท์คอยน์ที่กำลังเติบโตด้วยความแม่นยำ</p>
                 <p>แพลตฟอร์มของเราช่วยให้นักลงทุนคริปโตทั่วโลกมีฟีเจอร์ที่ออกแบบมาเพื่อปลดล็อกศักยภาพเต็มที่ของสินทรัพย์ดิจิทัล</p>',
-        // About Page
+
         'about_title' => 'Floventra - แพลตฟอร์มลงทุนคริปโตชั้นนำของประเทศไทย',
         'about_desc_content' => 'ค้นพบ Floventra แพลตฟอร์มชั้นนำของประเทศไทยสำหรับการลงทุนคริปโต นำเสนอเครื่องมือที่ขับเคลื่อนด้วย AI สำหรับ Bitcoin, Ethereum และอัลท์คอยน์',
         'about_keywords' => 'การลงทุนคริปโต, การลงทุน Bitcoin, แพลตฟอร์มที่ขับเคลื่อนด้วย AI, Floventra, ประเทศไทย, Ethereum, อัลท์คอยน์, การลงทุนที่ปลอดภัย',
@@ -5243,7 +5243,7 @@ return [
                     <p>Floventra ไม่เกี่ยวข้องกับการหลอกลวง Dragons’ Den ซึ่งโปรโมตซอฟต์แวร์คริปโตปลอมอย่างไม่ถูกต้อง แพลตฟอร์มของเราไม่เคยได้รับการนำเสนอหรือรับรองโดยรายการนี้</p>
                     <p>หลีกเลี่ยงโฆษณาที่ทำให้เข้าใจผิดที่อ้างว่ามีความเกี่ยวข้องกับ Floventra—ความปลอดภัยในการลงทุนคริปโตของคุณคือสิ่งสำคัญอันดับแรกของเรา</p>',
         'about_opportunities' => 'คว้าโอกาสคริปโตกับ Floventra',
-        // Contact Page
+
         'contact_title' => 'ติดต่อ Floventra - การสนับสนุนการลงทุนคริปโตในประเทศไทย',
         'contact_desc_content' => 'ติดต่อทีมงาน Floventra เพื่อรับการสนับสนุนจากผู้เชี่ยวชาญด้านการลงทุนใน Bitcoin, Ethereum และอัลท์คอยน์ในประเทศไทย',
         'contact_keywords' => 'การสนับสนุนคริปโต, Floventra, ประเทศไทย, Bitcoin, Ethereum, อัลท์คอยน์, การลงทุนที่ขับเคลื่อนด้วย AI',
@@ -5256,14 +5256,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">แนวทางการติดต่อ Floventra</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>ตรวจสอบคำแนะนำเหล่านี้เพื่อส่งคำถามคริปโตของคุณไปยังทีมที่เหมาะสม</strong></p>
                 <p class="has-base-3-color has-text-color">สำหรับความช่วยเหลือเกี่ยวกับการสมัคร คำถามเกี่ยวกับการลงทุนคริปโต หรือปัญหาทางเทคนิค ใช้แบบฟอร์มด้านล่าง และทีมสนับสนุนของเราจะตอบกลับอย่างรวดเร็ว</p>',
-        // Privacy Page
+
         'privacy_title' => 'นโยบายความเป็นส่วนตัว Floventra - การปกป้องข้อมูลคริปโตในประเทศไทย',
         'privacy_desc_content' => 'เรียนรู้ว่า Floventra ปกป้องข้อมูลของคุณอย่างไรเพื่อการลงทุนคริปโตที่ปลอดภัยในประเทศไทย อัปเดตล่าสุด: 23 กุมภาพันธ์ <script>document.write(new Date().getFullYear() - 2)</script>',
         'privacy_keywords' => 'นโยบายความเป็นส่วนตัว, Floventra, ประเทศไทย, การปกป้องข้อมูลคริปโต, Bitcoin, Ethereum, การลงทุนที่ขับเคลื่อนด้วย AI',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>อัปเดตล่าสุด: 23 กุมภาพันธ์ <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">เราเป็นใคร</h2>
-                <p>เว็บไซต์ของเรา: <a href="/th/">https://floventra.org/th/</a>.</p>
+                <p>เว็บไซต์ของเรา: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">ความคิดเห็น</h2>
                 <p>เมื่อคุณแสดงความคิดเห็น เราเก็บข้อมูลจากแบบฟอร์ม ที่อยู่ IP และรายละเอียดเบราว์เซอร์เพื่อป้องกันสแปมในชุมชนคริปโตของเรา</p>
                 <p>แฮชอีเมลที่ไม่ระบุตัวตนอาจถูกส่งไปยัง Gravatar เพื่อตรวจสอบการใช้งาน นโยบายความเป็นส่วนตัวของพวกเขา: https://automattic.com/privacy/ ความคิดเห็นที่ได้รับการอนุมัติจะแสดงรูปโปรไฟล์ของคุณต่อสาธารณะ</p>
@@ -5286,7 +5286,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">ข้อมูลถูกส่งไปที่ไหน</h2>
                 <p>ความคิดเห็นอาจถูกตรวจสอบโดยการตรวจจับสแปมอัตโนมัติเพื่อปกป้องแพลตฟอร์มคริปโตของเรา</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'ข้อกำหนด Floventra - บริการลงทุนคริปโตในประเทศไทย',
         'terms_desc_content' => 'ตรวจสอบข้อกำหนดของ Floventra สำหรับการลงทุนคริปโตที่ปลอดภัยในประเทศไทย อัปเดตล่าสุด: 23 กุมภาพันธ์ <script>document.write(new Date().getFullYear() - 2)</script>',
         'terms_keywords' => 'ข้อกำหนดและเงื่อนไข, Floventra, ประเทศไทย, บริการลงทุนคริปโต, Bitcoin, Ethereum, การลงทุนที่ขับเคลื่อนด้วย AI',
@@ -5306,14 +5306,14 @@ return [
                 <p>บริการ: เว็บไซต์ของเราสำหรับการลงทุนคริปโต</p>
                 <p>ข้อกำหนดและเงื่อนไข: ข้อตกลงที่ควบคุมการใช้แพลตฟอร์มคริปโตของเรา</p>
                 <p>โซเชียลมีเดียของบุคคลที่สาม: เนื้อหาหรือบริการภายนอกในแพลตฟอร์มของเรา</p>
-                <p>เว็บไซต์: Floventra ที่ <a data-id="9" data-type="page" href="/th/">ที่อยู่นี้</a></p>
+                <p>เว็บไซต์: Floventra ที่ <a data-id="9" data-type="page" href="./">ที่อยู่นี้</a></p>
                 <p>คุณ: ผู้ใช้หรือหน่วยงานที่เข้าถึงบริการคริปโตของเรา</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>ข้อตกลง</strong></h2>
                 <p>ข้อกำหนดเหล่านี้ควบคุมการใช้แพลตฟอร์มคริปโตของเรา โดยระบุสิทธิและความรับผิดชอบของคุณสำหรับการลงทุนใน Bitcoin และอัลท์คอยน์</p>
                 <p>การเข้าถึงต้องยอมรับข้อกำหนดเหล่านี้ ซึ่งใช้กับผู้ใช้คริปโตทุกคน</p>
                 <p>หากคุณไม่เห็นด้วย อย่าใช้บริการคริปโตของเรา</p>
                 <p>คุณต้องมีอายุมากกว่า 18 ปีจึงจะใช้แพลตฟอร์มของเราสำหรับการลงทุนคริปโต</p>
-                <p><a href="/th/privacy">นโยบายความเป็นส่วนตัว</a> ของเราระบุรายละเอียดการเก็บและปกป้องข้อมูลสำหรับผู้ใช้คริปโต</p>
+                <p><a href="./privacy">นโยบายความเป็นส่วนตัว</a> ของเราระบุรายละเอียดการเก็บและปกป้องข้อมูลสำหรับผู้ใช้คริปโต</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>บัญชีคริปโตของคุณ</strong></h2>
                 <p>ให้ข้อมูลที่ถูกต้องและเป็นปัจจุบันเมื่อสมัครลงทุนคริปโต ข้อมูลที่ไม่ถูกต้องอาจนำไปสู่การยกเลิกบัญชี</p>
                 <p>รักษาความปลอดภัยรหัสผ่านของคุณและรายงานการใช้งานที่ไม่ได้รับอนุญาตทันทีเพื่อปกป้องการลงทุนคริปโตของคุณ</p>
@@ -5354,7 +5354,7 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>ติดต่อเรา</strong></h2>
                 <p>สำหรับคำถามเกี่ยวกับข้อกำหนดเหล่านี้ ติดต่อเรา:</p>
                 <p>ทางอีเมล: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>ผ่านหน้า <a data-id="42" data-type="page" href="/th/contact">ติดต่อเรา</a></p>
+                <p>ผ่านหน้า <a data-id="42" data-type="page" href="./contact">ติดต่อเรา</a></p>
             </div>'
     ],
     'sa' => [
@@ -5402,13 +5402,13 @@ return [
         'index_h1' => 'ابدأ رحلتك نحو الثراء في العملات المشفرة مع Floventra',
         'index_form' => 'انضم إلى Floventra مجانًا وابدأ الاستثمار في العملات المشفرة',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                        <strong>إشعار هام</strong>: <a data-id="9" data-type="page" href="/">Floventra</a> تمكنك من استكشاف عالم العملات المشفرة المثير مثل بيتكوين وإيثريوم بأدوات متقدمة ووسطاء موثوقين. استثمارات العملات المشفرة تنطوي على مخاطر ولا يتم ضمان العوائد. توفر منصتنا موارد تعليمية لتوجيه قراراتك، وليس نصائح مالية. نوصي بالبحث الدقيق قبل الغوص في أسواق العملات المشفرة.</p>
+                        <strong>إشعار هام</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> تمكنك من استكشاف عالم العملات المشفرة المثير مثل بيتكوين وإيثريوم بأدوات متقدمة ووسطاء موثوقين. استثمارات العملات المشفرة تنطوي على مخاطر ولا يتم ضمان العوائد. توفر منصتنا موارد تعليمية لتوجيه قراراتك، وليس نصائح مالية. نوصي بالبحث الدقيق قبل الغوص في أسواق العملات المشفرة.</p>
                     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra ليست مستشارًا ماليًا ولا تقدم إرشادات استثمارية شخصية. أنت مسؤول عن قرارات تداول العملات المشفرة الخاصة بك ويجب أن تلتزم باللوائح المالية المحلية. منصتنا المجانية، المدعومة بشراكات مع وسطاء متوافقين مع FCA، تربطك بفرص عملات مشفرة آمنة وقد نكسب عمولات من الإحالات.</p>
                     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">نربطك بوسطاء موثوقين ومتوافقين مع FCA لضمان تجربة استثمار في العملات المشفرة آمنة وموثوقة. بينما قد تنطبق بعض اللوائح الإقليمية، تم تصميم Floventra لمساعدتك على التنقل في سوق العملات المشفرة بثقة مع إيداع أدنى قدره 190 جنيه استرليني فقط.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                             لماذا Floventra هي منصتك النهائية للاستثمار في العملات المشفرة
                         </h2>
-                        <p><a data-id="9" data-type="page" href="/"><strong>Floventra</strong></a> هي بوابتك الموثوقة إلى وسطاء متوافقين مع FCA، تقدم أدوات متطورة للتميز في استثمارات العملات المشفرة، من بيتكوين إلى عملات بديلة مثل إيثريوم وريبل وكاردانو. سواء كنت جديدًا في العملات المشفرة أو تاجرًا مخضرمًا، تضمن منصتنا السلامة من الاحتيال مع شركاء موثقين ورؤى مدعومة بالذكاء الاصطناعي.</p>
+                        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> هي بوابتك الموثوقة إلى وسطاء متوافقين مع FCA، تقدم أدوات متطورة للتميز في استثمارات العملات المشفرة، من بيتكوين إلى عملات بديلة مثل إيثريوم وريبل وكاردانو. سواء كنت جديدًا في العملات المشفرة أو تاجرًا مخضرمًا، تضمن منصتنا السلامة من الاحتيال مع شركاء موثقين ورؤى مدعومة بالذكاء الاصطناعي.</p>
                         <p>سوق العملات المشفرة، الذي يبلغ قيمته 900 مليار إلى 1 تريليون جنيه استرليني، في مرحلة مستقرة، مما يوفر فرصة رئيسية للاستثمار في أصول رقمية مثل بيتكوين، حجر الأساس لثروة العملات المشفرة. لا تنتظر — الحواجز أمام الدخول منخفضة الآن، لكن هذه النافذة قد تغلق قريبًا.</p>
                         <p>في <script>document.write(new Date().getFullYear() - 5)</script>، ارتفع سوق العملات المشفرة إلى 2.9 تريليون جنيه استرليني، مع بيتكوين الذي بلغ ذروته عند 67,000 جنيه استرليني وعملات بديلة مثل إيثريوم التي حققت عوائد هائلة للمستثمرين الأوائل.</p>
                         <p>يتوقع الخبراء موجة أخرى من العملات المشفرة، مدفوعة بالتبني العالمي وتقدمات البلوكشين. مع أدوات الذكاء الاصطناعي الاختيارية في Floventra التي تتباهى بدقة 99.4%، أنت مجهز للاستفادة من عوائد عالية في هذا السوق السريع التغير.</p>',
@@ -5572,7 +5572,7 @@ return [
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                     <p>آخر تحديث: 23 فبراير <script>document.write(new Date().getFullYear() - 2)</script></p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">من نحن</h2>
-                    <p>موقعنا الإلكتروني: <a href="/">https://floventra.org/</a>.</p>
+                    <p>موقعنا الإلكتروني: <a href="./">https://floventra.org/</a>.</p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">التعليقات</h2>
                     <p>عندما تترك تعليقات، نجمع بيانات النموذج وعنوان IP الخاص بك وتفاصيل المتصفح لحماية من البريد المزعج في مجتمعنا للعملات المشفرة.</p>
                     <p>قد يُرسل هاش بريد إلكتروني مجهول إلى Gravatar للتحقق من الاستخدام. سياسة خصوصيتهم: https://automattic.com/privacy/. التعليقات المعتمدة تعرض صورة ملفك الشخصي علنًا.</p>
@@ -5614,14 +5614,14 @@ return [
                     <p>الخدمة: موقعنا الإلكتروني للاستثمار في العملات المشفرة.</p>
                     <p>الشروط والأحكام: الاتفاق الذي يحكم استخدامك لمنصة العملات المشفرة.</p>
                     <p>وسائل التواصل الاجتماعي للطرف الثالث: محتوى أو خدمات خارجية في منصتنا.</p>
-                    <p>الموقع الإلكتروني: Floventra في <a data-id="9" data-type="page" href="/">هذا العنوان</a>.</p>
+                    <p>الموقع الإلكتروني: Floventra في <a data-id="9" data-type="page" href="./">هذا العنوان</a>.</p>
                     <p>أنت: المستخدم أو الكيان الذي يصل إلى خدمات العملات المشفرة.</p>
                     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>الاتفاق</strong></h2>
                     <p>تحكم هذه الشروط استخدامك لمنصة العملات المشفرة، موضحة حقوقك ومسؤولياتك لتداول بيتكوين والعملات البديلة.</p>
                     <p>يتطلب الوصول الموافقة على هذه الشروط، وتنطبق على جميع مستخدمي العملات المشفرة.</p>
                     <p>إذا لم توافق، لا تستخدم خدمات العملات المشفرة.</p>
                     <p>يجب أن تكون فوق 18 عامًا لاستخدام منصتنا للاستثمار في العملات المشفرة.</p>
-                    <p>توضح <a href="/privacy">سياسة الخصوصية</a> الخاصة بنا جمع البيانات وحمايتها لمستخدمي العملات المشفرة.</p>
+                    <p>توضح <a href="./privacy">سياسة الخصوصية</a> الخاصة بنا جمع البيانات وحمايتها لمستخدمي العملات المشفرة.</p>
                     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>حسابك في العملات المشفرة</strong></h2>
                     <p>قدم معلومات دقيقة وحديثة عند التسجيل لتداول العملات المشفرة. قد تؤدي الغير دقيقة إلى إنهاء الحساب.</p>
                     <p>حافظ على أمان كلمة مرورك وأبلغ فورًا عن أي استخدام غير مصرح به لحماية استثماراتك في العملات المشفرة.</p>
@@ -5662,7 +5662,7 @@ return [
                     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>تواصل معنا</strong></h2>
                     <p>للأسئلة حول هذه الشروط، تواصل معنا:</p>
                     <p>عبر البريد الإلكتروني: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                    <p>عبر صفحتنا <a data-id="42" data-type="page" href="/contact">تواصل معنا</a>.</p>
+                    <p>عبر صفحتنا <a data-id="42" data-type="page" href="./contact">تواصل معنا</a>.</p>
                 </div>'
     ],
     'kw' => [
@@ -5687,11 +5687,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Your Premier Crypto Investment Platform in Kuwait | The Official Website',
         'meta_description' => 'Join Floventra to unlock the power of Bitcoin, Ethereum, and more with AI-driven tools. Start your crypto journey with trusted brokers for just 78 KWD!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, crypto investing, Bitcoin investing, AI-driven platform, Floventra, Kuwait, Ethereum, altcoins, secure investing',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra delivers a secure, AI-powered platform for Kuwaiti crypto investors, offering advanced tools and trusted brokers for Bitcoin and altcoins.',
         'jsonld_faq_1_question' => 'What is Floventra?',
         'jsonld_faq_1_answer' => 'Floventra is a leading Kuwaiti platform using optional AI to analyze crypto markets with 99.4% accuracy, helping you invest in Bitcoin, Ethereum, and more.',
@@ -5710,17 +5710,17 @@ return [
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
-        // Index
+
         'index_h1' => 'Launch Your Crypto Wealth Journey with Floventra',
         'index_form' => 'Join Floventra for Free and Start Crypto Investing',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="/kw/">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
+                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra is not a financial advisor and does not provide personalized investment guidance. You are responsible for your crypto investing decisions and must adhere to local financial regulations. Our free platform, supported by partnerships with trusted brokers, connects you to secure crypto opportunities, and we may earn commissions from referrals.</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">We connect you with trusted brokers to ensure a safe and reliable crypto investing experience. While some regional regulations may apply, Floventra is designed to help you navigate the crypto market confidently with a minimum deposit of just 78 KWD.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Why Floventra Is Your Ultimate Crypto Investment Platform
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/kw/"><strong>Floventra</strong></a> is your trusted gateway to trusted brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> is your trusted gateway to trusted brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
                     <p>The cryptocurrency market, valued at 300 billion to 350 billion KWD, is in a stable phase, offering a prime opportunity to invest in digital assets like Bitcoin, the cornerstone of crypto wealth. Don’t wait—entry barriers are low now, but this window may close soon.</p>
                     <p>In <script>document.write(new Date().getFullYear() - 5)</script>, the crypto market soared to 870 billion KWD, with Bitcoin peaking at 20,000 KWD and altcoins like Ethereum driving massive returns for early investors.</p>
                     <p>Experts predict another crypto surge, fueled by global adoption and blockchain advancements. With Floventra’s optional AI tools boasting 99.4% accuracy, you’re equipped to seize high returns in this fast-moving market.</p>',
@@ -5836,7 +5836,7 @@ return [
                 </h2>
                 <p>Floventra evolves with the cryptocurrency market, offering innovative AI tools to invest in Bitcoin, Ethereum, and emerging altcoins with precision.</p>
                 <p>Our platform empowers crypto investors worldwide with features designed to unlock the full potential of digital assets.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Kuwait’s Leading Crypto Investment Platform',
         'about_desc_content' => 'Discover Floventra, Kuwait’s premier platform for crypto investing, offering AI-driven tools for Bitcoin, Ethereum, and altcoins.',
         'about_keywords' => 'crypto investing, Bitcoin investing, AI-driven platform, Floventra, Kuwait, Ethereum, altcoins, secure investing',
@@ -5867,7 +5867,7 @@ return [
                     <p>Floventra is not linked to any scam, including those falsely promoting fake crypto software. Our platform was never featured or endorsed by such entities.</p>
                     <p>Avoid misleading ads claiming ties to Floventra—your crypto investment security is our top priority.</p>',
         'about_opportunities' => 'SEIZE CRYPTO OPPORTUNITIES WITH Floventra',
-        // Contact Page
+
         'contact_title' => 'Contact Floventra - Kuwait Crypto Investment Support',
         'contact_desc_content' => 'Reach out to Floventra’s team for expert support on Bitcoin, Ethereum, and altcoin investments in Kuwait.',
         'contact_keywords' => 'crypto support, Floventra, Kuwait, Bitcoin, Ethereum, altcoins, AI-driven investing',
@@ -5880,14 +5880,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra Contact Guidelines</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Review these instructions to direct your crypto inquiry to the right team.</strong></p>
                 <p class="has-base-3-color has-text-color">For help with registration, crypto investing questions, or technical issues, use the form below, and our support team will respond quickly.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Privacy Policy - Kuwait Crypto Data Protection',
         'privacy_desc_content' => 'Learn how Floventra protects your data for secure crypto investing in Kuwait. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'privacy policy, Floventra, Kuwait, crypto data protection, Bitcoin, Ethereum, AI-driven investing',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Who We Are</h2>
-                <p>Our website: <a href="/kw/">https://floventra.org/kw/</a>.</p>
+                <p>Our website: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comments</h2>
                 <p>When you leave comments, we collect form data, your IP address, and browser details to protect against spam in our crypto community.</p>
                 <p>An anonymized email hash may be sent to Gravatar to check usage. Their privacy policy: https://automattic.com/privacy/. Approved comments display your profile picture publicly.</p>
@@ -5910,7 +5910,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Where Data Goes</h2>
                 <p>Comments may be screened by automated spam detection to protect our crypto platform.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Terms - Kuwait Crypto Investment Services',
         'terms_desc_content' => 'Review Floventra’s terms for secure crypto investing in Kuwait. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'terms and conditions, Floventra, Kuwait, crypto investment services, Bitcoin, Ethereum, AI-driven investing',
@@ -5930,14 +5930,14 @@ return [
                 <p>Service: Our website for crypto investing.</p>
                 <p>Terms and Conditions: Agreement governing your use of our crypto platform.</p>
                 <p>Third-party Social Media: External content or services in our platform.</p>
-                <p>Website: Floventra at <a data-id="9" data-type="page" href="/kw/">this address</a>.</p>
+                <p>Website: Floventra at <a data-id="9" data-type="page" href="./">this address</a>.</p>
                 <p>You: The user or entity accessing our crypto services.</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Agreement</strong></h2>
                 <p>These terms govern your use of our crypto platform, outlining your rights and responsibilities for Bitcoin and altcoin investing.</p>
                 <p>Access requires agreeing to these terms, applicable to all crypto users.</p>
                 <p>If you disagree, do not use our crypto services.</p>
                 <p>You must be over 18 to use our platform for crypto investing.</p>
-                <p>Our <a href="/kw/privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
+                <p>Our <a href="./privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Your Crypto Account</strong></h2>
                 <p>Provide accurate, current information when signing up for crypto investing. Inaccuracies may lead to account termination.</p>
                 <p>Secure your password and report any unauthorized use immediately to protect your crypto investments.</p>
@@ -5978,7 +5978,7 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contact Us</strong></h2>
                 <p>For questions about these terms, contact us:</p>
                 <p>By email: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Via our <a data-id="42" data-type="page" href="/kw/contact">Contact Us</a> page.</p>
+                <p>Via our <a data-id="42" data-type="page" href="./contact">Contact Us</a> page.</p>
             </div>'
     ],
     'ae' => [
@@ -5998,16 +5998,16 @@ return [
         'jsonld_software_price' => '920',
         'jsonld_software_price_currency' => 'AED',
         'social_links' => [
-            'https://facebook.com/floventra/ae',
-            'https://twitter.com/floventra/ae',
-            'https://linkedin.com/company/floventra/ae',
-            'https://instagram.com/floventra/ae'
+            'https://facebook.com/floventra/',
+            'https://twitter.com/floventra/',
+            'https://linkedin.com/company/floventra/',
+            'https://instagram.com/floventra/'
         ],
-        // Main Page
+
         'title' => 'Floventra - Your Premier Crypto Investment Platform in the UAE | The Official Website',
         'meta_description' => 'Join Floventra to unlock the power of Bitcoin, Ethereum, and more with AI-driven tools. Start your crypto journey with trusted brokers for just 920 AED!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, crypto investing, Bitcoin investing, AI-driven platform, Floventra, UAE, Ethereum, altcoins, secure investing',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra delivers a secure, AI-powered platform for UAE crypto investors, offering advanced tools and trusted brokers for Bitcoin and altcoins.',
         'jsonld_faq_1_question' => 'What is Floventra?',
         'jsonld_faq_1_answer' => 'Floventra is a leading UAE platform using optional AI to analyze crypto markets with 99.4% accuracy, helping you invest in Bitcoin, Ethereum, and more.',
@@ -6026,17 +6026,17 @@ return [
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
-        // Index
+
         'index_h1' => 'Launch Your Crypto Wealth Journey with Floventra',
         'index_form' => 'Join Floventra for Free and Start Crypto Investing',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="/ae/">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
+                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra is not a financial advisor and does not provide personalized investment guidance. You are responsible for your crypto investing decisions and must adhere to local financial regulations. Our free platform, supported by partnerships with DFSA-compliant brokers, connects you to secure crypto opportunities, and we may earn commissions from referrals.</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">We connect you with trusted, DFSA-compliant brokers to ensure a safe and reliable crypto investing experience. While some regional regulations may apply, Floventra is designed to help you navigate the crypto market confidently with a minimum deposit of just 920 AED.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Why Floventra Is Your Ultimate Crypto Investment Platform
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/ae/"><strong>Floventra</strong></a> is your trusted gateway to DFSA-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> is your trusted gateway to DFSA-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
                     <p>The cryptocurrency market, valued at 3.3 trillion AED to 3.7 trillion AED, is in a stable phase, offering a prime opportunity to invest in digital assets like Bitcoin, the cornerstone of crypto wealth. Don’t wait—entry barriers are low now, but this window may close soon.</p>
                     <p>In <script>document.write(new Date().getFullYear() - 5)</script>, the crypto market soared to 10.7 trillion AED, with Bitcoin peaking at 246,000 AED and altcoins like Ethereum driving massive returns for early investors.</p>
                     <p>Experts predict another crypto surge, fueled by global adoption and blockchain advancements. With Floventra’s optional AI tools boasting 99.4% accuracy, you’re equipped to seize high returns in this fast-moving market.</p>',
@@ -6152,7 +6152,7 @@ return [
                 </h2>
                 <p>Floventra evolves with the cryptocurrency market, offering innovative AI tools to invest in Bitcoin, Ethereum, and emerging altcoins with precision.</p>
                 <p>Our platform empowers crypto investors worldwide with features designed to unlock the full potential of digital assets.</p>',
-        // About Page
+
         'about_title' => 'Floventra - UAE’s Leading Crypto Investment Platform',
         'about_desc_content' => 'Discover Floventra, the UAE’s premier platform for crypto investing, offering AI-driven tools for Bitcoin, Ethereum, and altcoins.',
         'about_keywords' => 'crypto investing, Bitcoin investing, AI-driven platform, Floventra, UAE, Ethereum, altcoins, secure investing',
@@ -6183,7 +6183,7 @@ return [
                     <p>Floventra is not linked to the Dragons’ Den scam, which falsely promotes fake crypto software. Our platform was never featured or endorsed by the show.</p>
                     <p>Avoid misleading ads claiming ties to Floventra—your crypto investment security is our top priority.</p>',
         'about_opportunities' => 'SEIZE CRYPTO OPPORTUNITIES WITH Floventra',
-        // Contact Page
+
         'contact_title' => 'Contact Floventra - UAE Crypto Investment Support',
         'contact_desc_content' => 'Reach out to Floventra’s team for expert support on Bitcoin, Ethereum, and altcoin investments in the UAE.',
         'contact_keywords' => 'crypto support, Floventra, UAE, Bitcoin, Ethereum, altcoins, AI-driven investing',
@@ -6196,14 +6196,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Floventra Contact Guidelines</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Review these instructions to direct your crypto inquiry to the right team.</strong></p>
                 <p class="has-base-3-color has-text-color">For help with registration, crypto investing questions, or technical issues, use the form below, and our support team will respond quickly.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Privacy Policy - UAE Crypto Data Protection',
         'privacy_desc_content' => 'Learn how Floventra protects your data for secure crypto investing in the UAE. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'privacy policy, Floventra, UAE, crypto data protection, Bitcoin, Ethereum, AI-driven investing',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Who We Are</h2>
-                <p>Our website: <a href="/ae/">https://floventra.org/ae/</a>.</p>
+                <p>Our website: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comments</h2>
                 <p>When you leave comments, we collect form data, your IP address, and browser details to protect against spam in our crypto community.</p>
                 <p>An anonymized email hash may be sent to Gravatar to check usage. Their privacy policy: https://automattic.com/privacy/. Approved comments display your profile picture publicly.</p>
@@ -6226,7 +6226,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Where Data Goes</h2>
                 <p>Comments may be screened by automated spam detection to protect our crypto platform.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Terms - UAE Crypto Investment Services',
         'terms_desc_content' => 'Review Floventra’s terms for secure crypto investing in the UAE. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'terms and conditions, Floventra, UAE, crypto investment services, Bitcoin, Ethereum, AI-driven investing',
@@ -6246,14 +6246,14 @@ return [
                 <p>Service: Our website for crypto investing.</p>
                 <p>Terms and Conditions: Agreement governing your use of our crypto platform.</p>
                 <p>Third-party Social Media: External content or services in our platform.</p>
-                <p>Website: Floventra at <a data-id="9" data-type="page" href="/ae/">this address</a>.</p>
+                <p>Website: Floventra at <a data-id="9" data-type="page" href="./">this address</a>.</p>
                 <p>You: The user or entity accessing our crypto services.</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Agreement</strong></h2>
                 <p>These terms govern your use of our crypto platform, outlining your rights and responsibilities for Bitcoin and altcoin investing.</p>
                 <p>Access requires agreeing to these terms, applicable to all crypto users.</p>
                 <p>If you disagree, do not use our crypto services.</p>
                 <p>You must be over 18 to use our platform for crypto investing.</p>
-                <p>Our <a href="/ae/privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
+                <p>Our <a href="./privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Your Crypto Account</strong></h2>
                 <p>Provide accurate, current information when signing up for crypto investing. Inaccuracies may lead to account termination.</p>
                 <p>Secure your password and report any unauthorized use immediately to protect your crypto investments.</p>
@@ -6294,7 +6294,7 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contact Us</strong></h2>
                 <p>For questions about these terms, contact us:</p>
                 <p>By email: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Via our <a data-id="42" data-type="page" href="/ae/contact">Contact Us</a> page.</p>
+                <p>Via our <a data-id="42" data-type="page" href="./contact">Contact Us</a> page.</p>
             </div>'
     ],
     'jo' => [
@@ -6342,13 +6342,13 @@ return [
         'index_h1' => 'ابدأ رحلتك نحو الثراء في العملات المشفرة مع Floventra',
         'index_form' => 'انضم إلى Floventra مجانًا وابدأ الاستثمار في العملات المشفرة',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                        <strong>إشعار هام</strong>: <a data-id="9" data-type="page" href="/">Floventra</a> تمكنك من استكشاف عالم العملات المشفرة المثير مثل بيتكوين وإيثريوم بأدوات متقدمة ووسطاء موثوقين. استثمارات العملات المشفرة تنطوي على مخاطر ولا يتم ضمان العوائد. توفر منصتنا موارد تعليمية لتوجيه قراراتك، وليس نصائح مالية. نوصي بالبحث الدقيق قبل الغوص في أسواق العملات المشفرة.</p>
+                        <strong>إشعار هام</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> تمكنك من استكشاف عالم العملات المشفرة المثير مثل بيتكوين وإيثريوم بأدوات متقدمة ووسطاء موثوقين. استثمارات العملات المشفرة تنطوي على مخاطر ولا يتم ضمان العوائد. توفر منصتنا موارد تعليمية لتوجيه قراراتك، وليس نصائح مالية. نوصي بالبحث الدقيق قبل الغوص في أسواق العملات المشفرة.</p>
                     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra ليست مستشارًا ماليًا ولا تقدم إرشادات استثمارية شخصية. أنت مسؤول عن قرارات تداول العملات المشفرة الخاصة بك ويجب أن تلتزم باللوائح المالية المحلية. منصتنا المجانية، المدعومة بشراكات مع وسطاء متوافقين مع FCA، تربطك بفرص عملات مشفرة آمنة وقد نكسب عمولات من الإحالات.</p>
                     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">نربطك بوسطاء موثوقين ومتوافقين مع FCA لضمان تجربة استثمار في العملات المشفرة آمنة وموثوقة. بينما قد تنطبق بعض اللوائح الإقليمية، تم تصميم Floventra لمساعدتك على التنقل في سوق العملات المشفرة بثقة مع إيداع أدنى قدره 190 جنيه استرليني فقط.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                             لماذا Floventra هي منصتك النهائية للاستثمار في العملات المشفرة
                         </h2>
-                        <p><a data-id="9" data-type="page" href="/"><strong>Floventra</strong></a> هي بوابتك الموثوقة إلى وسطاء متوافقين مع FCA، تقدم أدوات متطورة للتميز في استثمارات العملات المشفرة، من بيتكوين إلى عملات بديلة مثل إيثريوم وريبل وكاردانو. سواء كنت جديدًا في العملات المشفرة أو تاجرًا مخضرمًا، تضمن منصتنا السلامة من الاحتيال مع شركاء موثقين ورؤى مدعومة بالذكاء الاصطناعي.</p>
+                        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> هي بوابتك الموثوقة إلى وسطاء متوافقين مع FCA، تقدم أدوات متطورة للتميز في استثمارات العملات المشفرة، من بيتكوين إلى عملات بديلة مثل إيثريوم وريبل وكاردانو. سواء كنت جديدًا في العملات المشفرة أو تاجرًا مخضرمًا، تضمن منصتنا السلامة من الاحتيال مع شركاء موثقين ورؤى مدعومة بالذكاء الاصطناعي.</p>
                         <p>سوق العملات المشفرة، الذي يبلغ قيمته 900 مليار إلى 1 تريليون جنيه استرليني، في مرحلة مستقرة، مما يوفر فرصة رئيسية للاستثمار في أصول رقمية مثل بيتكوين، حجر الأساس لثروة العملات المشفرة. لا تنتظر — الحواجز أمام الدخول منخفضة الآن، لكن هذه النافذة قد تغلق قريبًا.</p>
                         <p>في <script>document.write(new Date().getFullYear() - 5)</script>، ارتفع سوق العملات المشفرة إلى 2.9 تريليون جنيه استرليني، مع بيتكوين الذي بلغ ذروته عند 67,000 جنيه استرليني وعملات بديلة مثل إيثريوم التي حققت عوائد هائلة للمستثمرين الأوائل.</p>
                         <p>يتوقع الخبراء موجة أخرى من العملات المشفرة، مدفوعة بالتبني العالمي وتقدمات البلوكشين. مع أدوات الذكاء الاصطناعي الاختيارية في Floventra التي تتباهى بدقة 99.4%، أنت مجهز للاستفادة من عوائد عالية في هذا السوق السريع التغير.</p>',
@@ -6512,7 +6512,7 @@ return [
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                     <p>آخر تحديث: 23 فبراير <script>document.write(new Date().getFullYear() - 2)</script></p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">من نحن</h2>
-                    <p>موقعنا الإلكتروني: <a href="/">https://floventra.org/</a>.</p>
+                    <p>موقعنا الإلكتروني: <a href="./">https://floventra.org/</a>.</p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">التعليقات</h2>
                     <p>عندما تترك تعليقات، نجمع بيانات النموذج وعنوان IP الخاص بك وتفاصيل المتصفح لحماية من البريد المزعج في مجتمعنا للعملات المشفرة.</p>
                     <p>قد يُرسل هاش بريد إلكتروني مجهول إلى Gravatar للتحقق من الاستخدام. سياسة خصوصيتهم: https://automattic.com/privacy/. التعليقات المعتمدة تعرض صورة ملفك الشخصي علنًا.</p>
@@ -6554,14 +6554,14 @@ return [
                     <p>الخدمة: موقعنا الإلكتروني للاستثمار في العملات المشفرة.</p>
                     <p>الشروط والأحكام: الاتفاق الذي يحكم استخدامك لمنصة العملات المشفرة.</p>
                     <p>وسائل التواصل الاجتماعي للطرف الثالث: محتوى أو خدمات خارجية في منصتنا.</p>
-                    <p>الموقع الإلكتروني: Floventra في <a data-id="9" data-type="page" href="/">هذا العنوان</a>.</p>
+                    <p>الموقع الإلكتروني: Floventra في <a data-id="9" data-type="page" href="./">هذا العنوان</a>.</p>
                     <p>أنت: المستخدم أو الكيان الذي يصل إلى خدمات العملات المشفرة.</p>
                     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>الاتفاق</strong></h2>
                     <p>تحكم هذه الشروط استخدامك لمنصة العملات المشفرة، موضحة حقوقك ومسؤولياتك لتداول بيتكوين والعملات البديلة.</p>
                     <p>يتطلب الوصول الموافقة على هذه الشروط، وتنطبق على جميع مستخدمي العملات المشفرة.</p>
                     <p>إذا لم توافق، لا تستخدم خدمات العملات المشفرة.</p>
                     <p>يجب أن تكون فوق 18 عامًا لاستخدام منصتنا للاستثمار في العملات المشفرة.</p>
-                    <p>توضح <a href="/privacy">سياسة الخصوصية</a> الخاصة بنا جمع البيانات وحمايتها لمستخدمي العملات المشفرة.</p>
+                    <p>توضح <a href="./privacy">سياسة الخصوصية</a> الخاصة بنا جمع البيانات وحمايتها لمستخدمي العملات المشفرة.</p>
                     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>حسابك في العملات المشفرة</strong></h2>
                     <p>قدم معلومات دقيقة وحديثة عند التسجيل لتداول العملات المشفرة. قد تؤدي الغير دقيقة إلى إنهاء الحساب.</p>
                     <p>حافظ على أمان كلمة مرورك وأبلغ فورًا عن أي استخدام غير مصرح به لحماية استثماراتك في العملات المشفرة.</p>
@@ -6602,7 +6602,7 @@ return [
                     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>تواصل معنا</strong></h2>
                     <p>للأسئلة حول هذه الشروط، تواصل معنا:</p>
                     <p>عبر البريد الإلكتروني: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                    <p>عبر صفحتنا <a data-id="42" data-type="page" href="/contact">تواصل معنا</a>.</p>
+                    <p>عبر صفحتنا <a data-id="42" data-type="page" href="./contact">تواصل معنا</a>.</p>
                 </div>'
     ],
     'au' => [
@@ -6627,11 +6627,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Your Premier Crypto Investment Platform in Australia | The Official Website',
         'meta_description' => 'Join Floventra to unlock the power of Bitcoin, Ethereum, and more with AI-driven tools. Start your crypto journey with trusted brokers for just A$375!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, crypto investing, Bitcoin investments, AI-driven platform, Floventra, Australia, Ethereum, altcoins, secure investments',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra delivers a secure, AI-powered platform for Australian crypto investors, offering advanced tools and trusted brokers for Bitcoin and altcoins.',
         'jsonld_faq_1_question' => 'What is Floventra?',
         'jsonld_faq_1_answer' => 'Floventra is a leading Australian platform using optional AI to analyze crypto markets with 99.4% accuracy, helping you invest in Bitcoin, Ethereum, and more.',
@@ -6650,17 +6650,17 @@ return [
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
-        // Index
+
         'index_h1' => 'Launch Your Crypto Wealth Journey with Floventra',
         'index_form' => 'Join Floventra for Free and Start Crypto Investing',
         'index_disclaimer' => '<p class="au-headline au-headline-25aef701 au-headline-text">
-                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="/au/">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
+                    <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
                 <p class="au-headline au-headline-289c9730 au-headline-text">Floventra is not a financial advisor and does not provide personalized investment guidance. You are responsible for your crypto investment decisions and must adhere to local financial regulations. Our free platform, supported by partnerships with ASIC-compliant brokers, connects you to secure crypto opportunities, and we may earn commissions from referrals.</p>
                 <p class="au-headline au-headline-f76cb6df au-headline-text">We connect you with trusted, ASIC-compliant brokers to ensure a safe and reliable crypto investing experience. While some regional regulations may apply, Floventra is designed to help you navigate the crypto market confidently with a minimum deposit of just A$375.</p>',
         'index_why_opt' => '<h2 class="au-headline au-headline-9be12089 au-headline-text">
                         Why Floventra Is Your Ultimate Crypto Investment Platform
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/au/"><strong>Floventra</strong></a> is your trusted gateway to ASIC-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> is your trusted gateway to ASIC-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned investor, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
                     <p>The cryptocurrency market, valued at A$1.35 trillion to A$1.5 trillion, is in a stable phase, offering a prime opportunity to invest in digital assets like Bitcoin, the cornerstone of crypto wealth. Don’t wait—entry barriers are low now, but this window may close soon.</p>
                     <p>In <script>document.write(new Date().getFullYear() - 5)</script>, the crypto market soared to A$4.35 trillion, with Bitcoin peaking at A$100,500 and altcoins like Ethereum driving massive returns for early investors.</p>
                     <p>Experts predict another crypto surge, fueled by global adoption and blockchain advancements. With Floventra’s optional AI tools boasting 99.4% accuracy, you’re equipped to seize high returns in this fast-moving market.</p>',
@@ -6776,7 +6776,7 @@ return [
                 </h2>
                 <p>Floventra evolves with the cryptocurrency market, offering innovative AI tools to invest in Bitcoin, Ethereum, and emerging altcoins with precision.</p>
                 <p>Our platform empowers crypto investors worldwide with features designed to unlock the full potential of digital assets.</p>',
-        // About Page
+
         'about_title' => 'Floventra - Australia’s Leading Crypto Investment Platform',
         'about_desc_content' => 'Discover Floventra, Australia’s premier platform for crypto investing, offering AI-driven tools for Bitcoin, Ethereum, and altcoins.',
         'about_keywords' => 'crypto investing, Bitcoin investments, AI-driven platform, Floventra, Australia, Ethereum, altcoins, secure investments',
@@ -6807,7 +6807,7 @@ return [
                     <p>Floventra is not linked to the Shark Tank scam, which falsely promotes fake crypto software. Our platform was never featured or endorsed by the show.</p>
                     <p>Avoid misleading ads claiming ties to Floventra—your crypto investment security is our top priority.</p>',
         'about_opportunities' => 'SEIZE CRYPTO OPPORTUNITIES WITH Floventra',
-        // Contact Page
+
         'contact_title' => 'Contact Floventra - Australian Crypto Investment Support',
         'contact_desc_content' => 'Reach out to Floventra’s team for expert support on Bitcoin, Ethereum, and altcoin investments in Australia.',
         'contact_keywords' => 'crypto support, Floventra, Australia, Bitcoin, Ethereum, altcoins, AI-driven investing',
@@ -6820,14 +6820,14 @@ return [
         'contact_guide' => '<h2 class="au-headline au-headline-cffb62a7 au-headline-text">Floventra Contact Guidelines</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Review these instructions to direct your crypto inquiry to the right team.</strong></p>
                 <p class="has-base-3-color has-text-color">For help with registration, crypto investment questions, or technical issues, use the form below, and our support team will respond quickly.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Floventra Privacy Policy - Australian Crypto Data Protection',
         'privacy_desc_content' => 'Learn how Floventra protects your data for secure crypto investing in Australia. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'privacy policy, Floventra, Australia, crypto data protection, Bitcoin, Ethereum, AI-driven investing',
         'privacy_content' => '<div class="au-container au-container-4160cb6f">
                 <p>Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Who We Are</h2>
-                <p>Our website: <a href="/au/">https://floventra.org/au/</a>.</p>
+                <p>Our website: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comments</h2>
                 <p>When you leave comments, we collect form data, your IP address, and browser details to protect against spam in our crypto community.</p>
                 <p>An anonymized email hash may be sent to Gravatar to check usage. Their privacy policy: https://automattic.com/privacy/. Approved comments display your profile picture publicly.</p>
@@ -6850,7 +6850,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Where Data Goes</h2>
                 <p>Comments may be screened by automated spam detection to protect our crypto platform.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Floventra Terms - Australian Crypto Investment Services',
         'terms_desc_content' => 'Review Floventra’s terms for secure crypto investing in Australia. Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'terms and conditions, Floventra, Australia, crypto investment services, Bitcoin, Ethereum, AI-driven investing',
@@ -6870,14 +6870,14 @@ return [
                 <p>Service: Our website for crypto investing.</p>
                 <p>Terms and Conditions: Agreement governing your use of our crypto platform.</p>
                 <p>Third-party Social Media: External content or services in our platform.</p>
-                <p>Website: Floventra at <a data-id="9" data-type="page" href="/au/">this address</a>.</p>
+                <p>Website: Floventra at <a data-id="9" data-type="page" href="./">this address</a>.</p>
                 <p>You: The user or entity accessing our crypto services.</p>
                 <h2 class="au-headline au-headline-a42ca7f0 au-headline-text"><strong>Agreement</strong></h2>
                 <p>These terms govern your use of our crypto platform, outlining your rights and responsibilities for Bitcoin and altcoin investing.</p>
                 <p>Access requires agreeing to these terms, applicable to all crypto users.</p>
                 <p>If you disagree, do not use our crypto services.</p>
                 <p>You must be over 18 to use our platform for crypto investing.</p>
-                <p>Our <a href="/au/privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
+                <p>Our <a href="./privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
                 <h2 class="au-headline au-headline-cd0291ec au-headline-text"><strong>Your Crypto Account</strong></h2>
                 <p>Provide accurate, current information when signing up for crypto investing. Inaccuracies may lead to account termination.</p>
                 <p>Secure your password and report any unauthorized use immediately to protect your crypto investments.</p>
@@ -6918,7 +6918,7 @@ return [
                 <h2 class="au-headline au-headline-5fe35776 au-headline-text"><strong>Contact Us</strong></h2>
                 <p>For questions about these terms, contact us:</p>
                 <p>By email: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Via our <a data-id="42" data-type="page" href="/au/contact">Contact Us</a> page.</p>
+                <p>Via our <a data-id="42" data-type="page" href="./contact">Contact Us</a> page.</p>
             </div>'
     ],
 
@@ -6944,11 +6944,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Main Page
+
         'title' => 'Floventra - Tu Plataforma Principal de Inversión en Criptomonedas en Panamá | El sitio web oficial',
         'meta_description' => 'Únete a Floventra para desbloquear el poder de Bitcoin, Ethereum y más con herramientas impulsadas por IA. ¡Comienza tu viaje en criptomonedas con corredores confiables por solo 251 PAB!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, inversión en criptomonedas, inversión en Bitcoin, plataforma impulsada por IA, Floventra, Panamá, Ethereum, altcoins, inversión segura',
-        // JSON-LD for Main Page
+
         'jsonld_organization_review_body' => 'Floventra ofrece una plataforma segura impulsada por IA para inversores en criptomonedas en Panamá, con herramientas avanzadas y corredores confiables para Bitcoin y altcoins.',
         'jsonld_faq_1_question' => '¿Qué es Floventra?',
         'jsonld_faq_1_answer' => 'Floventra es una plataforma líder en Panamá que utiliza IA opcional para analizar mercados de criptomonedas con un 99.4% de precisión, ayudándote a invertir en Bitcoin, Ethereum y más.',
@@ -6967,17 +6967,17 @@ return [
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
-        // Index
+
         'index_h1' => 'Lanza tu Viaje hacia la Riqueza en Criptomonedas con Floventra',
         'index_form' => 'Únete a Floventra Gratis y Comienza a Invertir en Criptomonedas',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                    <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="/pa/">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y corredores confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de sumergirte en los mercados de criptomonedas.</p>
+                    <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y corredores confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de sumergirte en los mercados de criptomonedas.</p>
                 <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra no es un asesor financiero y no proporciona orientación de inversión personalizada. Eres responsable de tus decisiones de inversión en criptomonedas y debes cumplir con las regulaciones financieras locales. Nuestra plataforma gratuita, respaldada por asociaciones con corredores regulados, te conecta con oportunidades seguras en criptomonedas, y podemos ganar comisiones por referidos.</p>
                 <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Te conectamos con corredores confiables y regulados para garantizar una experiencia de inversión en criptomonedas segura y confiable. Aunque algunas regulaciones regionales pueden aplicarse, Floventra está diseñado para ayudarte a navegar el mercado de criptomonedas con confianza con un depósito mínimo de solo 251 PAB.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Por Qué Floventra Es Tu Plataforma Definitiva para Inversión en Criptomonedas
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/pa/"><strong>Floventra</strong></a> es tu puerta confiable hacia corredores regulados, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> es tu puerta confiable hacia corredores regulados, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
                     <p>El mercado de criptomonedas, valorado entre 900 mil millones y 1 billón de PAB, está en una fase estable, ofreciendo una oportunidad ideal para invertir en activos digitales como Bitcoin, la piedra angular de la riqueza en criptomonedas. No esperes: las barreras de entrada son bajas ahora, pero esta ventana puede cerrarse pronto.</p>
                     <p>En <script>document.write(new Date().getFullYear() - 5)</script>, el mercado de criptomonedas alcanzó los 2.9 billones de PAB, con Bitcoin alcanzando un máximo de 67,000 PAB y altcoins como Ethereum generando retornos masivos para los primeros inversores.</p>
                     <p>Los expertos predicen otro auge de criptomonedas, impulsado por la adopción global y los avances en blockchain. Con las herramientas opcionales de IA de Floventra, que cuentan con un 99.4% de precisión, estás equipado para aprovechar altos retornos en este mercado dinámico.</p>',
@@ -7093,7 +7093,7 @@ return [
                 </h2>
                 <p>Floventra evoluciona con el mercado de criptomonedas, ofreciendo herramientas de IA innovadoras para invertir en Bitcoin, Ethereum y altcoins emergentes con precisión.</p>
                 <p>Nuestra plataforma empodera a los inversores en criptomonedas en todo el mundo con funciones diseñadas para desbloquear el potencial completo de los activos digitales.</p>',
-        // About Page
+
         'about_title' => 'Floventra - La Plataforma Líder de Inversión en Criptomonedas en Panamá',
         'about_desc_content' => 'Descubre Floventra, la principal plataforma de Panamá para la inversión en criptomonedas, ofreciendo herramientas impulsadas por IA para Bitcoin, Ethereum y altcoins.',
         'about_keywords' => 'inversión en criptomonedas, inversión en Bitcoin, plataforma impulsada por IA, Floventra, Panamá, Ethereum, altcoins, inversión segura',
@@ -7124,7 +7124,7 @@ return [
                     <p>Floventra no está vinculado a la estafa de Dragons’ Den, que promueve falsamente software de criptomonedas falso. Nuestra plataforma nunca fue presentada ni respaldada por el programa.</p>
                     <p>Evita anuncios engañosos que afirmen vínculos con Floventra: la seguridad de tu inversión en criptomonedas es nuestra máxima prioridad.</p>',
         'about_opportunities' => 'APROVECHA LAS OPORTUNIDADES EN CRIPTOMONEDAS CON Floventra',
-        // Contact Page
+
         'contact_title' => 'Contacta a Floventra - Soporte para Inversiones en Criptomonedas en Panamá',
         'contact_desc_content' => 'Contacta al equipo de Floventra para obtener soporte experto en inversiones en Bitcoin, Ethereum y altcoins en Panamá.',
         'contact_keywords' => 'soporte para criptomonedas, Floventra, Panamá, Bitcoin, Ethereum, altcoins, inversión impulsada por IA',
@@ -7137,14 +7137,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Guías de Contacto de Floventra</h2>
                 <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Revisa estas instrucciones para dirigir tu consulta sobre criptomonedas al equipo adecuado.</strong></p>
                 <p class="has-base-3-color has-text-color">Para ayuda con el registro, preguntas sobre inversión en criptomonedas o problemas técnicos, usa el formulario a continuación, y nuestro equipo de soporte responderá rápidamente.</p>',
-        // Privacy Page
+
         'privacy_title' => 'Política de Privacidad de Floventra - Protección de Datos para Criptomonedas en Panamá',
         'privacy_desc_content' => 'Aprende cómo Floventra protege tus datos para una inversión segura en criptomonedas en Panamá. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'política de privacidad, Floventra, Panamá, protección de datos para criptomonedas, Bitcoin, Ethereum, inversión impulsada por IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                 <p>Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script></p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quiénes Somos</h2>
-                <p>Nuestro sitio web: <a href="/pa/">https://floventra.org/pa/</a>.</p>
+                <p>Nuestro sitio web: <a href="./">https://floventra.org/</a>.</p>
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentarios</h2>
                 <p>Cuando dejas comentarios, recopilamos datos del formulario, tu dirección IP y detalles del navegador para proteger contra spam en nuestra comunidad de criptomonedas.</p>
                 <p>Un hash de correo electrónico anonimizado puede enviarse a Gravatar para verificar su uso. Su política de privacidad: https://automattic.com/privacy/. Los comentarios aprobados muestran tu foto de perfil públicamente.</p>
@@ -7167,7 +7167,7 @@ return [
                 <h2 class="wp-block-heading has-global-color-9-color has-text-color">A Dónde Van los Datos</h2>
                 <p>Los comentarios pueden ser filtrados por detección automática de spam para proteger nuestra plataforma de criptomonedas.</p>
             </div>',
-        // Terms Page
+
         'terms_title' => 'Términos de Floventra - Servicios de Inversión en Criptomonedas en Panamá',
         'terms_desc_content' => 'Revisa los términos de Floventra para una inversión segura en criptomonedas en Panamá. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'términos y condiciones, Floventra, Panamá, servicios de inversión en criptomonedas, Bitcoin, Ethereum, inversión impulsada por IA',
@@ -7187,14 +7187,14 @@ return [
                 <p>Servicio: Nuestro sitio web para inversión en criptomonedas.</p>
                 <p>Términos y Condiciones: Acuerdo que rige tu uso de nuestra plataforma de criptomonedas.</p>
                 <p>Redes Sociales de Terceros: Contenido o servicios externos en nuestra plataforma.</p>
-                <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="/pa/">esta dirección</a>.</p>
+                <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="./">esta dirección</a>.</p>
                 <p>Tú: El usuario o entidad que accede a nuestros servicios de criptomonedas.</p>
                 <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acuerdo</strong></h2>
                 <p>Estos términos rigen tu uso de nuestra plataforma de criptomonedas, detallando tus derechos y responsabilidades para la inversión en Bitcoin y altcoins.</p>
                 <p>El acceso requiere aceptar estos términos, aplicables a todos los usuarios de criptomonedas.</p>
                 <p>Si no estás de acuerdo, no uses nuestros servicios de criptomonedas.</p>
                 <p>Debes tener más de 18 años para usar nuestra plataforma para inversión en criptomonedas.</p>
-                <p>Nuestra <a href="/pa/privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
+                <p>Nuestra <a href="./privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
                 <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Tu Cuenta de Criptomonedas</strong></h2>
                 <p>Proporciona información precisa y actualizada al registrarte para invertir en criptomonedas. Las inexactitudes pueden llevar a la terminación de la cuenta.</p>
                 <p>Protege tu contraseña y reporta cualquier uso no autorizado de inmediato para proteger tus inversiones en criptomonedas.</p>
@@ -7235,25 +7235,25 @@ return [
                 <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contáctanos</strong></h2>
                 <p>Para preguntas sobre estos términos, contáctanos:</p>
                 <p>Por correo electrónico: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                <p>Vía nuestra página <a data-id="42" data-type="page" href="/pa/contact">Contáctanos</a>.</p>
+                <p>Vía nuestra página <a data-id="42" data-type="page" href="./contact">Contáctanos</a>.</p>
             </div>'
     ],
     'pe' => [
-        // Основные настройки
+
         'country_name' => 'Perú',
         'locale' => 'es_PE',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
         'locale_lang' => 'es-PE',
         'language_name' => 'Español',
-        'city' => 'Ciudad de Panamá', // Локация для Панамы
+        'city' => 'Ciudad de Panamá',
         'country_code' => 'PE',
-        'geo_position' => '8.982379, -79.519870', // Координаты Панамы
+        'geo_position' => '8.982379, -79.519870',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_software_categories' => 'Herramienta de Inversión en Criptomonedas',
-        'jsonld_software_price' => '950', // 250 USD = ~950 PEN
+        'jsonld_software_price' => '950',
         'jsonld_software_price_currency' => 'PEN',
         'social_links' => [
             'https://facebook.com/floventra',
@@ -7261,11 +7261,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Главная страница
+
         'title' => 'Floventra - Tu Plataforma Principal de Inversión en Criptomonedas en Perú | El sitio web oficial',
         'meta_description' => 'Únete a Floventra para desbloquear el poder de Bitcoin, Ethereum y más con herramientas impulsadas por IA. ¡Comienza tu viaje en criptomonedas con corredores confiables por solo 950 PEN!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, inversión en criptomonedas, inversión en Bitcoin, plataforma impulsada por IA, Floventra, Perú, Ethereum, altcoins, inversión segura',
-        // JSON-LD для главной страницы
+
         'jsonld_organization_review_body' => 'Floventra ofrece una plataforma segura impulsada por IA para inversores en criptomonedas en Perú, con herramientas avanzadas y corredores confiables para Bitcoin y altcoins.',
         'jsonld_faq_1_question' => '¿Qué es Floventra?',
         'jsonld_faq_1_answer' => 'Floventra es una plataforma líder en Perú que utiliza IA opcional para analizar mercados de criptomonedas con un 99.4% de precisión, ayudándote a invertir en Bitcoin, Ethereum y más.',
@@ -7284,17 +7284,17 @@ return [
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
-        // Главная страница (Index)
+
         'index_h1' => 'Lanza tu Viaje hacia la Riqueza en Criptomonedas con Floventra',
         'index_form' => 'Únete a Floventra Gratis y Comienza a Invertir en Criptomonedas',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="/pe/">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y corredores confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de sumergirte en los mercados de criptomonedas.</p>
+                <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y corredores confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de sumergirte en los mercados de criptomonedas.</p>
             <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra no es un asesor financiero y no proporciona orientación de inversión personalizada. Eres responsable de tus decisiones de inversión en criptomonedas y debes cumplir con las regulaciones financieras locales. Nuestra plataforma gratuita, respaldada por asociaciones con corredores regulados, te conecta con oportunidades seguras en criptomonedas, y podemos ganar comisiones por referidos.</p>
             <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Te conectamos con corredores confiables y regulados para garantizar una experiencia de inversión en criptomonedas segura y confiable. Aunque algunas regulaciones regionales pueden aplicarse, Floventra está diseñado para ayudarte a navegar el mercado de criptomonedas con confianza con un depósito mínimo de solo 950 PEN.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                     Por Qué Floventra Es Tu Plataforma Definitiva para Inversión en Criptomonedas
                 </h2>
-                <p><a data-id="9" data-type="page" href="/pe/"><strong>Floventra</strong></a> es tu puerta confiable hacia corredores regulados, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
+                <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> es tu puerta confiable hacia corredores regulados, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
                 <p>El mercado de criptomonedas, valorado entre 3.4 millones y 3.8 millones de PEN, está en una fase estable, ofreciendo una oportunidad ideal para invertir en activos digitales como Bitcoin, la piedra angular de la riqueza en criptomonedas. No esperes: las barreras de entrada son bajas ahora, pero esta ventana puede cerrarse pronto.</p>
                 <p>En <script>document.write(new Date().getFullYear() - 5)</script>, el mercado de criptomonedas alcanzó los 11 millones de PEN, con Bitcoin alcanzando un máximo de 252,000 PEN y altcoins como Ethereum generando retornos masivos para los primeros inversores.</p>
                 <p>Los expertos predicen otro auge de criptomonedas, impulsado por la adopción global y los avances en blockchain. Con las herramientas opcionales de IA de Floventra, que cuentan con un 99.4% de precisión, estás equipado para aprovechar altos retornos en este mercado dinámico.</p>',
@@ -7410,7 +7410,7 @@ return [
             </h2>
             <p>Floventra evoluciona con el mercado de criptomonedas, ofreciendo herramientas de IA innovadoras para invertir en Bitcoin, Ethereum y altcoins emergentes con precisión.</p>
             <p>Nuestra plataforma empodera a los inversores en criptomonedas en todo el mundo con funciones diseñadas para desbloquear el potencial completo de los activos digitales.</p>',
-        // Страница "О нас" (About)
+
         'about_title' => 'Floventra - La Plataforma Líder de Inversión en Criptomonedas en Perú',
         'about_desc_content' => 'Descubre Floventra, la principal plataforma de Perú para la inversión en criptomonedas, ofreciendo herramientas impulsadas por IA para Bitcoin, Ethereum y altcoins.',
         'about_keywords' => 'inversión en criptomonedas, inversión en Bitcoin, plataforma impulsada por IA, Floventra, Perú, Ethereum, altcoins, inversión segura',
@@ -7441,7 +7441,7 @@ return [
                 <p>Floventra no está vinculado a la estafa de Dragons’ Den, que promueve falsamente software de criptomonedas falso. Nuestra plataforma nunca fue presentada ni respaldada por el programa.</p>
                 <p>Evita anuncios engañosos que afirmen vínculos con Floventra: la seguridad de tu inversión en criptomonedas es nuestra máxima prioridad.</p>',
         'about_opportunities' => 'APROVECHA LAS OPORTUNIDADES EN CRIPTOMONEDAS CON Floventra',
-        // Страница "Контакты" (Contact)
+
         'contact_title' => 'Contacta a Floventra - Soporte para Inversiones en Criptomonedas en Perú',
         'contact_desc_content' => 'Contacta al equipo de Floventra para obtener soporte experto en inversiones en Bitcoin, Ethereum y altcoins en Perú.',
         'contact_keywords' => 'soporte para criptomonedas, Floventra, Perú, Bitcoin, Ethereum, altcoins, inversión impulsada por IA',
@@ -7454,14 +7454,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Guías de Contacto de Floventra</h2>
             <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Revisa estas instrucciones para dirigir tu consulta sobre criptomonedas al equipo adecuado.</strong></p>
             <p class="has-base-3-color has-text-color">Para ayuda con el registro, preguntas sobre inversión en criptomonedas o problemas técnicos, usa el formulario a continuación, y nuestro equipo de soporte responderá rápidamente.</p>',
-        // Страница "Политика конфиденциальности" (Privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Protección de Datos para Criptomonedas en Perú',
         'privacy_desc_content' => 'Aprende cómo Floventra protege tus datos para una inversión segura en criptomonedas en Perú. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'política de privacidad, Floventra, Perú, protección de datos para criptomonedas, Bitcoin, Ethereum, inversión impulsada por IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
             <p>Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script></p>
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quiénes Somos</h2>
-            <p>Nuestro sitio web: <a href="/pe/">https://floventra.org/pe/</a>.</p>
+            <p>Nuestro sitio web: <a href="./">https://floventra.org/</a>.</p>
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentarios</h2>
             <p>Cuando dejas comentarios, recopilamos datos del formulario, tu dirección IP y detalles del navegador para proteger contra spam en nuestra comunidad de criptomonedas.</p>
             <p>Un hash de correo electrónico anonimizado puede enviarse a Gravatar para verificar su uso. Su política de privacidad: https://automattic.com/privacy/. Los comentarios aprobados muestran tu foto de perfil públicamente.</p>
@@ -7484,7 +7484,7 @@ return [
             <h2 class="wp-block-heading has-global-color-9-color has-text-color">A Dónde Van los Datos</h2>
             <p>Los comentarios pueden ser filtrados por detección automática de spam para proteger nuestra plataforma de criptomonedas.</p>
         </div>',
-        // Страница "Условия использования" (Terms)
+
         'terms_title' => 'Términos de Floventra - Servicios de Inversión en Criptomonedas en Perú',
         'terms_desc_content' => 'Revisa los términos de Floventra para una inversión segura en criptomonedas en Perú. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'términos y condiciones, Floventra, Perú, servicios de inversión en criptomonedas, Bitcoin, Ethereum, inversión impulsada por IA',
@@ -7504,14 +7504,14 @@ return [
             <p>Servicio: Nuestro sitio web para inversión en criptomonedas.</p>
             <p>Términos y Condiciones: Acuerdo que rige tu uso de nuestra plataforma de criptomonedas.</p>
             <p>Redes Sociales de Terceros: Contenido o servicios externos en nuestra plataforma.</p>
-            <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="/pe/">esta dirección</a>.</p>
+            <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="./">esta dirección</a>.</p>
             <p>Tú: El usuario o entidad que accede a nuestros servicios de criptomonedas.</p>
             <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acuerdo</strong></h2>
             <p>Estos términos rigen tu uso de nuestra plataforma de criptomonedas, detallando tus derechos y responsabilidades para la inversión en Bitcoin y altcoins.</p>
             <p>El acceso requiere aceptar estos términos, aplicables a todos los usuarios de criptomonedas.</p>
             <p>Si no estás de acuerdo, no uses nuestros servicios de criptomonedas.</p>
             <p>Debes tener más de 18 años para usar nuestra plataforma para inversión en criptomonedas.</p>
-            <p>Nuestra <a href="/pe/privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
+            <p>Nuestra <a href="./privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
             <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Tu Cuenta de Criptomonedas</strong></h2>
             <p>Proporciona información precisa y actualizada al registrarte para invertir en criptomonedas. Las inexactitudes pueden llevar a la terminación de la cuenta.</p>
             <p>Protege tu contraseña y reporta cualquier uso no autorizado de inmediato para proteger tus inversiones en criptomonedas.</p>
@@ -7552,25 +7552,25 @@ return [
             <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contáctanos</strong></h2>
             <p>Para preguntas sobre estos términos, contáctanos:</p>
             <p>Por correo electrónico: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-            <p>Vía nuestra página <a data-id="42" data-type="page" href="/pe/contact">Contáctanos</a>.</p>
+            <p>Vía nuestra página <a data-id="42" data-type="page" href="./contact">Contáctanos</a>.</p>
         </div>'
     ],
     'br' => [
-        // Основные настройки
+
         'country_name' => 'Brasil',
         'locale' => 'pt_BR',
         'language_iso' => 'pt',
         'brand_name_api' => 'flovantreasure',
         'locale_lang' => 'pt-BR',
         'language_name' => 'Português',
-        'city' => 'São Paulo', // Локация для Бразилии
+        'city' => 'São Paulo',
         'country_code' => 'BR',
-        'geo_position' => '-23.550520, -46.633308', // Координаты Сан-Паулу
+        'geo_position' => '-23.550520, -46.633308',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
         'jsonld_organization_review_author' => 'Usuário da Floventra',
         'jsonld_software_categories' => 'Ferramenta de Investimento em Criptomoedas',
-        'jsonld_software_price' => '1400', // 250 USD = ~1400 BRL
+        'jsonld_software_price' => '1400',
         'jsonld_software_price_currency' => 'BRL',
         'social_links' => [
             'https://facebook.com/floventra',
@@ -7578,11 +7578,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Главная страница
+
         'title' => 'Floventra - Sua Principal Plataforma de Investimento em Criptomoedas no Brasil | O site oficial',
         'meta_description' => 'Junte-se à Floventra para desbloquear o poder do Bitcoin, Ethereum e mais com ferramentas movidas a IA. Comece sua jornada em criptomoedas com corretores confiáveis por apenas 1400 BRL!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investimento em criptomoedas, investimento em Bitcoin, plataforma movida a IA, Floventra, Brasil, Ethereum, altcoins, investimento seguro',
-        // JSON-LD для главной страницы
+
         'jsonld_organization_review_body' => 'Floventra oferece uma plataforma segura movida a IA para investidores em criptomoedas no Brasil, com ferramentas avançadas e corretores confiáveis para Bitcoin e altcoins.',
         'jsonld_faq_1_question' => 'O que é Floventra?',
         'jsonld_faq_1_answer' => 'Floventra é uma plataforma líder no Brasil que utiliza IA opcional para analisar mercados de criptomoedas com 99,4% de precisão, ajudando você a investir em Bitcoin, Ethereum e mais.',
@@ -7601,17 +7601,17 @@ return [
         'contact' => 'Contate-nos',
         'privacy' => 'Política de Privacidade',
         'terms' => 'Termos e Condições',
-        // Главная страница (Index)
+
         'index_h1' => 'Inicie Sua Jornada para a Riqueza em Criptomoedas com a Floventra',
         'index_form' => 'Junte-se à Floventra Grátis e Comece a Investir em Criptomoedas',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-            <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="/br/">Floventra</a> permite explorar o emocionante mundo das criptomoedas como Bitcoin e Ethereum com ferramentas avançadas e corretores confiáveis. Os investimentos em criptomoedas envolvem riscos e os retornos não são garantidos. Nossa plataforma oferece recursos educacionais para guiar suas decisões, não consultoria financeira. Recomendamos uma pesquisa minuciosa antes de mergulhar nos mercados de criptomoedas.</p>
+            <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> permite explorar o emocionante mundo das criptomoedas como Bitcoin e Ethereum com ferramentas avançadas e corretores confiáveis. Os investimentos em criptomoedas envolvem riscos e os retornos não são garantidos. Nossa plataforma oferece recursos educacionais para guiar suas decisões, não consultoria financeira. Recomendamos uma pesquisa minuciosa antes de mergulhar nos mercados de criptomoedas.</p>
         <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra não é um consultor financeiro e não fornece orientação de investimento personalizada. Você é responsável por suas decisões de investimento em criptomoedas e deve cumprir as regulamentações financeiras locais. Nossa plataforma gratuita, apoiada por parcerias com corretores regulados, conecta você a oportunidades seguras em criptomoedas, e podemos ganhar comissões por indicações.</p>
         <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Conectamos você a corretores confiáveis e regulados para garantir uma experiência de investimento em criptomoedas segura e confiável. Embora algumas regulamentações regionais possam se aplicar, a Floventra é projetada para ajudá-lo a navegar no mercado de criptomoedas com confiança com um depósito mínimo de apenas 1400 BRL.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                 Por que a Floventra é Sua Plataforma Definitiva para Investimento em Criptomoedas
             </h2>
-            <p><a data-id="9" data-type="page" href="/br/"><strong>Floventra</strong></a> é sua porta confiável para corretores regulados, oferecendo ferramentas de ponta para destacar-se no investimento em criptomoedas, desde Bitcoin até altcoins como Ethereum, Ripple e Cardano. Seja você novo em criptomoedas ou um investidor experiente, nossa plataforma garante segurança contra fraudes com parceiros verificados e informações movidas a IA.</p>
+            <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> é sua porta confiável para corretores regulados, oferecendo ferramentas de ponta para destacar-se no investimento em criptomoedas, desde Bitcoin até altcoins como Ethereum, Ripple e Cardano. Seja você novo em criptomoedas ou um investidor experiente, nossa plataforma garante segurança contra fraudes com parceiros verificados e informações movidas a IA.</p>
             <p>O mercado de criptomoedas, avaliado entre 19 milhões e 21 milhões de BRL, está em uma fase estável, oferecendo uma oportunidade ideal para investir em ativos digitais como Bitcoin, a pedra angular da riqueza em criptomoedas. Não espere: as barreiras de entrada estão baixas agora, mas essa janela pode se fechar em breve.</p>
             <p>Em <script>document.write(new Date().getFullYear() - 5)</script>, o mercado de criptomoedas atingiu 61 milhões de BRL, com o Bitcoin alcançando um pico de 380.000 BRL e altcoins como Ethereum gerando retornos massivos para os primeiros investidores.</p>
             <p>Especialistas preveem outro boom de criptomoedas, impulsionado pela adoção global e avanços em blockchain. Com as ferramentas opcionais de IA da Floventra, que possuem 99,4% de precisão, você está equipado para aproveitar altos retornos neste mercado dinâmico.</p>',
@@ -7727,7 +7727,7 @@ return [
         </h2>
         <p>A Floventra evolui com o mercado de criptomoedas, oferecendo ferramentas de IA inovadoras para investir em Bitcoin, Ethereum e altcoins emergentes com precisão.</p>
         <p>Nossa plataforma capacita investidores em criptomoedas em todo o mundo com recursos projetados para desbloquear o potencial total dos ativos digitais.</p>',
-        // Страница "О нас" (About)
+
         'about_title' => 'Floventra - A Plataforma Líder de Investimento em Criptomoedas no Brasil',
         'about_desc_content' => 'Descubra a Floventra, a principal plataforma do Brasil para investimento em criptomoedas, oferecendo ferramentas movidas a IA para Bitcoin, Ethereum e altcoins.',
         'about_keywords' => 'investimento em criptomoedas, investimento em Bitcoin, plataforma movida a IA, Floventra, Brasil, Ethereum, altcoins, investimento seguro',
@@ -7758,7 +7758,7 @@ return [
             <p>A Floventra não está vinculada à fraude do Dragons’ Den, que promove falsamente software de criptomoedas falso. Nossa plataforma nunca foi apresentada ou endossada pelo programa.</p>
             <p>Evite anúncios enganosos que alegam vínculos com a Floventra: a segurança de seu investimento em criptomoedas é nossa maior prioridade.</p>',
         'about_opportunities' => 'APROVEITE AS OPORTUNIDADES EM CRIPTOMOEDAS COM A Floventra',
-        // Страница "Контакты" (Contact)
+
         'contact_title' => 'Contate a Floventra - Suporte para Investimentos em Criptomoedas no Brasil',
         'contact_desc_content' => 'Contate a equipe da Floventra para suporte especializado em investimentos em Bitcoin, Ethereum e altcoins no Brasil.',
         'contact_keywords' => 'suporte para criptomoedas, Floventra, Brasil, Bitcoin, Ethereum, altcoins, investimento movido a IA',
@@ -7771,14 +7771,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Guias de Contato da Floventra</h2>
         <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Revise estas instruções para direcionar sua consulta sobre criptomoedas à equipe adequada.</strong></p>
         <p class="has-base-3-color has-text-color">Para ajuda com registro, perguntas sobre investimento em criptomoedas ou problemas técnicos, use o formulário abaixo, e nossa equipe de suporte responderá rapidamente.</p>',
-        // Страница "Политика конфиденциальности" (Privacy)
+
         'privacy_title' => 'Política de Privacidade da Floventra - Proteção de Dados para Criptomoedas no Brasil',
         'privacy_desc_content' => 'Saiba como a Floventra protege seus dados para um investimento seguro em criptomoedas no Brasil. Última atualização: 23 de fevereiro de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'política de privacidade, Floventra, Brasil, proteção de dados para criptomoedas, Bitcoin, Ethereum, investimento movido a IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
         <p>Última atualização: 23 de fevereiro de <script>document.write(new Date().getFullYear() - 2)</script></p>
         <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quem Somos</h2>
-        <p>Nosso site: <a href="/br/">https://floventra.org/br/</a>.</p>
+        <p>Nosso site: <a href="./">https://floventra.org/</a>.</p>
         <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentários</h2>
         <p>Quando você deixa comentários, coletamos dados do formulário, seu endereço IP e detalhes do navegador para proteger contra spam em nossa comunidade de criptomoedas.</p>
         <p>Um hash de e-mail anonimizado pode ser enviado ao Gravatar para verificar seu uso. Sua política de privacidade: https://automattic.com/privacy/. Os comentários aprovados mostram sua foto de perfil publicamente.</p>
@@ -7801,7 +7801,7 @@ return [
         <h2 class="wp-block-heading has-global-color-9-color has-text-color">Para Onde Vão os Dados</h2>
         <p>Os comentários podem ser filtrados por detecção automática de spam para proteger nossa plataforma de criptomoedas.</p>
     </div>',
-        // Страница "Условия использования" (Terms)
+
         'terms_title' => 'Termos da Floventra - Serviços de Investimento em Criptomoedas no Brasil',
         'terms_desc_content' => 'Revise os termos da Floventra para um investimento seguro em criptomoedas no Brasil. Última atualização: 23 de fevereiro de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'termos e condições, Floventra, Brasil, serviços de investimento em criptomoedas, Bitcoin, Ethereum, investimento movido a IA',
@@ -7821,14 +7821,14 @@ return [
         <p>Serviço: Nosso site para investimento em criptomoedas.</p>
         <p>Termos e Condições: Acordo que regula seu uso de nossa plataforma de criptomoedas.</p>
         <p>Redes Sociais de Terceiros: Conteúdo ou serviços externos em nossa plataforma.</p>
-        <p>Site: Floventra em <a data-id="9" data-type="page" href="/br/">este endereço</a>.</p>
+        <p>Site: Floventra em <a data-id="9" data-type="page" href="./">este endereço</a>.</p>
         <p>Você: O usuário ou entidade que acessa nossos serviços de criptomoedas.</p>
         <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acordo</strong></h2>
         <p>Estes termos regulam seu uso de nossa plataforma de criptomoedas, detalhando seus direitos e responsabilidades para o investimento em Bitcoin e altcoins.</p>
         <p>O acesso requer aceitar estes termos, aplicáveis a todos os usuários de criptomoedas.</p>
         <p>Se você não concorda, não use nossos serviços de criptomoedas.</p>
         <p>Você deve ter mais de 18 anos para usar nossa plataforma para investimento em criptomoedas.</p>
-        <p>Nossa <a href="/br/privacy">Política de Privacidade</a> detalha a coleta e proteção de dados para usuários de criptomoedas.</p>
+        <p>Nossa <a href="./privacy">Política de Privacidade</a> detalha a coleta e proteção de dados para usuários de criptomoedas.</p>
         <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Sua Conta de Criptomoedas</strong></h2>
         <p>Forneça informações precisas e atualizadas ao se registrar para investir em criptomoedas. Inexatidões podem levar à rescisão da conta.</p>
         <p>Proteja sua senha e relate qualquer uso não autorizado imediatamente para proteger seus investimentos em criptomoedas.</p>
@@ -7869,25 +7869,25 @@ return [
         <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contate-nos</strong></h2>
         <p>Para perguntas sobre estes termos, contate-nos:</p>
         <p>Por e-mail: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-        <p>Via nossa página <a data-id="42" data-type="page" href="/br/contact">Contate-nos</a>.</p>
+        <p>Via nossa página <a data-id="42" data-type="page" href="./contact">Contate-nos</a>.</p>
     </div>'
     ],
     'co' => [
-        // Основные настройки
+
         'country_name' => 'Colombia',
         'locale' => 'es_CO',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
         'locale_lang' => 'es-CO',
         'language_name' => 'Español',
-        'city' => 'Bogotá', // Локация изменена на столицу Колумбии
+        'city' => 'Bogotá',
         'country_code' => 'CO',
-        'geo_position' => '4.710989, -74.072092', // Координаты Боготы
+        'geo_position' => '4.710989, -74.072092',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_software_categories' => 'Herramienta de Inversión en Criptomonedas',
-        'jsonld_software_price' => '1050000', // 250 USD ≈ 1,050,000 COP
+        'jsonld_software_price' => '1050000',
         'jsonld_software_price_currency' => 'COP',
         'social_links' => [
             'https://facebook.com/floventra',
@@ -7895,11 +7895,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Главная страница
+
         'title' => 'Floventra - Tu Plataforma Principal de Inversión en Criptomonedas en Colombia | El sitio web oficial',
         'meta_description' => 'Únete a Floventra para desbloquear el poder de Bitcoin, Ethereum y más con herramientas impulsadas por IA. ¡Comienza tu viaje en criptomonedas con corredores confiables por solo 1,050,000 COP!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, inversión en criptomonedas, inversión en Bitcoin, plataforma impulsada por IA, Floventra, Colombia, Ethereum, altcoins, inversión segura',
-        // JSON-LD для главной страницы
+
         'jsonld_organization_review_body' => 'Floventra ofrece una plataforma segura impulsada por IA para inversores en criptomonedas en Colombia, con herramientas avanzadas y corredores confiables para Bitcoin y altcoins.',
         'jsonld_faq_1_question' => '¿Qué es Floventra?',
         'jsonld_faq_1_answer' => 'Floventra es una plataforma líder en Colombia que utiliza IA opcional para analizar mercados de criptomonedas con un 99.4% de precisión, ayudándote a invertir en Bitcoin, Ethereum y más.',
@@ -7918,17 +7918,17 @@ return [
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
-        // Главная страница (Index)
+
         'index_h1' => 'Lanza tu Viaje hacia la Riqueza en Criptomonedas con Floventra',
         'index_form' => 'Únete a Floventra Gratis y Comienza a Invertir en Criptomonedas',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-            <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="/co/">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y corredores confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de sumergirte en los mercados de criptomonedas.</p>
+            <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y corredores confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de sumergirte en los mercados de criptomonedas.</p>
         <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra no es un asesor financiero y no proporciona orientación de inversión personalizada. Eres responsable de tus decisiones de inversión en criptomonedas y debes cumplir con las regulaciones financieras locales. Nuestra plataforma gratuita, respaldada por asociaciones con corredores regulados, te conecta con oportunidades seguras en criptomonedas, y podemos ganar comisiones por referidos.</p>
         <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Te conectamos con corredores confiables y regulados para garantizar una experiencia de inversión en criptomonedas segura y confiable. Aunque algunas regulaciones regionales pueden aplicarse, Floventra está diseñado para ayudarte a navegar el mercado de criptomonedas con confianza con un depósito mínimo de solo 1,050,000 COP.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                 Por Qué Floventra Es Tu Plataforma Definitiva para Inversión en Criptomonedas
             </h2>
-            <p><a data-id="9" data-type="page" href="/co/"><strong>Floventra</strong></a> es tu puerta confiable hacia corredores regulados, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
+            <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> es tu puerta confiable hacia corredores regulados, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
             <p>El mercado de criptomonedas, valorado entre 14 billones y 16 billones de COP, está en una fase estable, ofreciendo una oportunidad ideal para invertir en activos digitales como Bitcoin, la piedra angular de la riqueza en criptomonedas. No esperes: las barreras de entrada son bajas ahora, pero esta ventana puede cerrarse pronto.</p>
             <p>En <script>document.write(new Date().getFullYear() - 5)</script>, el mercado de criptomonedas alcanzó los 46 billones de COP, con Bitcoin alcanzando un máximo de 1,050,000,000 COP y altcoins como Ethereum generando retornos masivos para los primeros inversores.</p>
             <p>Los expertos predicen otro auge de criptomonedas, impulsado por la adopción global y los avances en blockchain. Con las herramientas opcionales de IA de Floventra, que cuentan con un 99.4% de precisión, estás equipado para aprovechar altos retornos en este mercado dinámico.</p>',
@@ -8044,7 +8044,7 @@ return [
         </h2>
         <p>Floventra evoluciona con el mercado de criptomonedas, ofreciendo herramientas de IA innovadoras para invertir en Bitcoin, Ethereum y altcoins emergentes con precisión.</p>
         <p>Nuestra plataforma empodera a los inversores en criptomonedas en todo el mundo con funciones diseñadas para desbloquear el potencial completo de los activos digitales.</p>',
-        // Страница "О нас" (About)
+
         'about_title' => 'Floventra - La Plataforma Líder de Inversión en Criptomonedas en Colombia',
         'about_desc_content' => 'Descubre Floventra, la principal plataforma de Colombia para la inversión en criptomonedas, ofreciendo herramientas impulsadas por IA para Bitcoin, Ethereum y altcoins.',
         'about_keywords' => 'inversión en criptomonedas, inversión en Bitcoin, plataforma impulsada por IA, Floventra, Colombia, Ethereum, altcoins, inversión segura',
@@ -8075,7 +8075,7 @@ return [
             <p>Floventra no está vinculado a la estafa de Dragons’ Den, que promueve falsamente software de criptomonedas falso. Nuestra plataforma nunca fue presentada ni respaldada por el programa.</p>
             <p>Evita anuncios engañosos que afirmen vínculos con Floventra: la seguridad de tu inversión en criptomonedas es nuestra máxima prioridad.</p>',
         'about_opportunities' => 'APROVECHA LAS OPORTUNIDADES EN CRIPTOMONEDAS CON Floventra',
-        // Страница "Контакты" (Contact)
+
         'contact_title' => 'Contacta a Floventra - Soporte para Inversiones en Criptomonedas en Colombia',
         'contact_desc_content' => 'Contacta al equipo de Floventra para obtener soporte experto en inversiones en Bitcoin, Ethereum y altcoins en Colombia.',
         'contact_keywords' => 'soporte para criptomonedas, Floventra, Colombia, Bitcoin, Ethereum, altcoins, inversión impulsada por IA',
@@ -8088,14 +8088,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Guías de Contacto de Floventra</h2>
         <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Revisa estas instrucciones para dirigir tu consulta sobre criptomonedas al equipo adecuado.</strong></p>
         <p class="has-base-3-color has-text-color">Para ayuda con el registro, preguntas sobre inversión en criptomonedas o problemas técnicos, usa el formulario a continuación, y nuestro equipo de soporte responderá rápidamente.</p>',
-        // Страница "Политика конфиденциальности" (Privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Protección de Datos para Criptomonedas en Colombia',
         'privacy_desc_content' => 'Aprende cómo Floventra protege tus datos para una inversión segura en criptomonedas en Colombia. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'política de privacidad, Floventra, Colombia, protección de datos para criptomonedas, Bitcoin, Ethereum, inversión impulsada por IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
         <p>Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script></p>
         <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quiénes Somos</h2>
-        <p>Nuestro sitio web: <a href="/co/">https://floventra.org/co/</a>.</p>
+        <p>Nuestro sitio web: <a href="./">https://floventra.org/</a>.</p>
         <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentarios</h2>
         <p>Cuando dejas comentarios, recopilamos datos del formulario, tu dirección IP y detalles del navegador para proteger contra spam en nuestra comunidad de criptomonedas.</p>
         <p>Un hash de correo electrónico anonimizado puede enviarse a Gravatar para verificar su uso. Su política de privacidad: https://automattic.com/privacy/. Los comentarios aprobados muestran tu foto de perfil públicamente.</p>
@@ -8118,7 +8118,7 @@ return [
         <h2 class="wp-block-heading has-global-color-9-color has-text-color">A Dónde Van los Datos</h2>
         <p>Los comentarios pueden ser filtrados por detección automática de spam para proteger nuestra plataforma de criptomonedas.</p>
     </div>',
-        // Страница "Условия использования" (Terms)
+
         'terms_title' => 'Términos de Floventra - Servicios de Inversión en Criptomonedas en Colombia',
         'terms_desc_content' => 'Revisa los términos de Floventra para una inversión segura en criptomonedas en Colombia. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'términos y condiciones, Floventra, Colombia, servicios de inversión en criptomonedas, Bitcoin, Ethereum, inversión impulsada por IA',
@@ -8138,14 +8138,14 @@ return [
         <p>Servicio: Nuestro sitio web para inversión en criptomonedas.</p>
         <p>Términos y Condiciones: Acuerdo que rige tu uso de nuestra plataforma de criptomonedas.</p>
         <p>Redes Sociales de Terceros: Contenido o servicios externos en nuestra plataforma.</p>
-        <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="/co/">esta dirección</a>.</p>
+        <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="./">esta dirección</a>.</p>
         <p>Tú: El usuario o entidad que accede a nuestros servicios de criptomonedas.</p>
         <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acuerdo</strong></h2>
         <p>Estos términos rigen tu uso de nuestra plataforma de criptomonedas, detallando tus derechos y responsabilidades para la inversión en Bitcoin y altcoins.</p>
         <p>El acceso requiere aceptar estos términos, aplicables a todos los usuarios de criptomonedas.</p>
         <p>Si no estás de acuerdo, no uses nuestros servicios de criptomonedas.</p>
         <p>Debes tener más de 18 años para usar nuestra plataforma para inversión en criptomonedas.</p>
-        <p>Nuestra <a href="/co/privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
+        <p>Nuestra <a href="./privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
         <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Tu Cuenta de Criptomonedas</strong></h2>
         <p>Proporciona información precisa y actualizada al registrarte para invertir en criptomonedas. Las inexactitudes pueden llevar a la terminación de la cuenta.</p>
         <p>Protege tu contraseña y reporta cualquier uso no autorizado de inmediato para proteger tus inversiones en criptomonedas.</p>
@@ -8186,25 +8186,25 @@ return [
         <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contáctanos</strong></h2>
         <p>Para preguntas sobre estos términos, contáctanos:</p>
         <p>Por correo electrónico: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-        <p>Vía nuestra página <a data-id="42" data-type="page" href="/co/contact">Contáctanos</a>.</p>
+        <p>Vía nuestra página <a data-id="42" data-type="page" href="./contact">Contáctanos</a>.</p>
     </div>'
     ],
     'hn' => [
-        // Основные настройки
+
         'country_name' => 'Honduras',
         'locale' => 'es_HN',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
         'locale_lang' => 'es-HN',
         'language_name' => 'Español',
-        'city' => 'Tegucigalpa', // Локация изменена на столицу Гондураса
+        'city' => 'Tegucigalpa',
         'country_code' => 'HN',
-        'geo_position' => '14.081999, -87.206810', // Координаты Тегусигальпы
+        'geo_position' => '14.081999, -87.206810',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
-        'jsonld_organization_review_author' => 'Juan de Floventra', // Имя адаптировано под Гондурас
+        'jsonld_organization_review_author' => 'Juan de Floventra',
         'jsonld_software_categories' => 'Herramienta de Inversión en Criptomonedas',
-        'jsonld_software_price' => '6250', // 250 USD ≈ 6250 HNL
+        'jsonld_software_price' => '6250',
         'jsonld_software_price_currency' => 'HNL',
         'social_links' => [
             'https://facebook.com/floventra',
@@ -8212,11 +8212,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Главная страница
+
         'title' => 'Floventra - Tu Plataforma Principal de Inversión en Criptomonedas en Honduras | El sitio web oficial',
         'meta_description' => 'Únete a Floventra para desbloquear el poder de Bitcoin, Ethereum y más con herramientas impulsadas por IA. ¡Comienza tu viaje en criptomonedas con corredores confiables por solo 6250 HNL!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, inversión en criptomonedas, inversión en Bitcoin, plataforma impulsada por IA, Floventra, Honduras, Ethereum, altcoins, inversión segura',
-        // JSON-LD для главной страницы
+
         'jsonld_organization_review_body' => 'Floventra ofrece una plataforma segura impulsada por IA para inversores en criptomonedas en Honduras, con herramientas avanzadas y corredores confiables para Bitcoin y altcoins.',
         'jsonld_faq_1_question' => '¿Qué es Floventra?',
         'jsonld_faq_1_answer' => 'Floventra es una plataforma líder en Honduras que utiliza IA opcional para analizar mercados de criptomonedas con un 99.4% de precisión, ayudándote a invertir en Bitcoin, Ethereum y más.',
@@ -8235,17 +8235,17 @@ return [
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
-        // Главная страница (Index)
+
         'index_h1' => 'Lanza tu Viaje hacia la Riqueza en Criptomonedas con Floventra',
         'index_form' => 'Únete a Floventra Gratis y Comienza a Invertir en Criptomonedas',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="/hn/">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y corredores confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de sumergirte en los mercados de criptomonedas.</p>
+        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> te permite explorar el emocionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y corredores confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de sumergirte en los mercados de criptomonedas.</p>
     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra no es un asesor financiero y no proporciona orientación de inversión personalizada. Eres responsable de tus decisiones de inversión en criptomonedas y debes cumplir con las regulaciones financieras locales. Nuestra plataforma gratuita, respaldada por asociaciones con corredores regulados, te conecta con oportunidades seguras en criptomonedas, y podemos ganar comisiones por referidos.</p>
     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Te conectamos con corredores confiables y regulados para garantizar una experiencia de inversión en criptomonedas segura y confiable. Aunque algunas regulaciones regionales pueden aplicarse, Floventra está diseñado para ayudarte a navegar el mercado de criptomonedas con confianza con un depósito mínimo de solo 6250 HNL.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
             Por Qué Floventra Es Tu Plataforma Definitiva para Inversión en Criptomonedas
         </h2>
-        <p><a data-id="9" data-type="page" href="/hn/"><strong>Floventra</strong></a> es tu puerta confiable hacia corredores regulados, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
+        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> es tu puerta confiable hacia corredores regulados, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
         <p>El mercado de criptomonedas, valorado entre 350 billones y 400 billones de HNL, está en una fase estable, ofreciendo una oportunidad ideal para invertir en activos digitales como Bitcoin, la piedra angular de la riqueza en criptomonedas. No esperes: las barreras de entrada son bajas ahora, pero esta ventana puede cerrarse pronto.</p>
         <p>En <script>document.write(new Date().getFullYear() - 5)</script>, el mercado de criptomonedas alcanzó los 1150 billones de HNL, con Bitcoin alcanzando un máximo de 26,250,000 HNL y altcoins como Ethereum generando retornos masivos para los primeros inversores.</p>
         <p>Los expertos predicen otro auge de criptomonedas, impulsado por la adopción global y los avances en blockchain. Con las herramientas opcionales de IA de Floventra, que cuentan con un 99.4% de precisión, estás equipado para aprovechar altos retornos en este mercado dinámico.</p>',
@@ -8361,7 +8361,7 @@ return [
     </h2>
     <p>Floventra evoluciona con el mercado de criptomonedas, ofreciendo herramientas de IA innovadoras para invertir en Bitcoin, Ethereum y altcoins emergentes con precisión.</p>
     <p>Nuestra plataforma empodera a los inversores en criptomonedas en todo el mundo con funciones diseñadas para desbloquear el potencial completo de los activos digitales.</p>',
-        // Страница "О нас" (About)
+
         'about_title' => 'Floventra - La Plataforma Líder de Inversión en Criptomonedas en Honduras',
         'about_desc_content' => 'Descubre Floventra, la principal plataforma de Honduras para la inversión en criptomonedas, ofreciendo herramientas impulsadas por IA para Bitcoin, Ethereum y altcoins.',
         'about_keywords' => 'inversión en criptomonedas, inversión en Bitcoin, plataforma impulsada por IA, Floventra, Honduras, Ethereum, altcoins, inversión segura',
@@ -8392,7 +8392,7 @@ return [
         <p>Floventra no está vinculado a la estafa de Dragons’ Den, que promueve falsamente software de criptomonedas falso. Nuestra plataforma nunca fue presentada ni respaldada por el programa.</p>
         <p>Evita anuncios engañosos que afirmen vínculos con Floventra: la seguridad de tu inversión en criptomonedas es nuestra máxima prioridad.</p>',
         'about_opportunities' => 'APROVECHA LAS OPORTUNIDADES EN CRIPTOMONEDAS CON Floventra',
-        // Страница "Контакты" (Contact)
+
         'contact_title' => 'Contacta a Floventra - Soporte para Inversiones en Criptomonedas en Honduras',
         'contact_desc_content' => 'Contacta al equipo de Floventra para obtener soporte experto en inversiones en Bitcoin, Ethereum y altcoins en Honduras.',
         'contact_keywords' => 'soporte para criptomonedas, Floventra, Honduras, Bitcoin, Ethereum, altcoins, inversión impulsada por IA',
@@ -8405,14 +8405,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Guías de Contacto de Floventra</h2>
     <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Revisa estas instrucciones para dirigir tu consulta sobre criptomonedas al equipo adecuado.</strong></p>
     <p class="has-base-3-color has-text-color">Para ayuda con el registro, preguntas sobre inversión en criptomonedas o problemas técnicos, usa el formulario a continuación, y nuestro equipo de soporte responderá rápidamente.</p>',
-        // Страница "Политика конфиденциальности" (Privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Protección de Datos para Criptomonedas en Honduras',
         'privacy_desc_content' => 'Aprende cómo Floventra protege tus datos para una inversión segura en criptomonedas en Honduras. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'política de privacidad, Floventra, Honduras, protección de datos para criptomonedas, Bitcoin, Ethereum, inversión impulsada por IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
     <p>Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script></p>
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quiénes Somos</h2>
-    <p>Nuestro sitio web: <a href="/hn/">https://floventra.org/hn/</a>.</p>
+    <p>Nuestro sitio web: <a href="./">https://floventra.org/</a>.</p>
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentarios</h2>
     <p>Cuando dejas comentarios, recopilamos datos del formulario, tu dirección IP y detalles del navegador para proteger contra spam en nuestra comunidad de criptomonedas.</p>
     <p>Un hash de correo electrónico anonimizado puede enviarse a Gravatar para verificar su uso. Su política de privacidad: https://automattic.com/privacy/. Los comentarios aprobados muestran tu foto de perfil públicamente.</p>
@@ -8435,7 +8435,7 @@ return [
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">A Dónde Van los Datos</h2>
     <p>Los comentarios pueden ser filtrados por detección automática de spam para proteger nuestra plataforma de criptomonedas.</p>
 </div>',
-        // Страница "Условия использования" (Terms)
+
         'terms_title' => 'Términos de Floventra - Servicios de Inversión en Criptomonedas en Honduras',
         'terms_desc_content' => 'Revisa los términos de Floventra para una inversión segura en criptomonedas en Honduras. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'términos y condiciones, Floventra, Honduras, servicios de inversión en criptomonedas, Bitcoin, Ethereum, inversión impulsada por IA',
@@ -8455,14 +8455,14 @@ return [
     <p>Servicio: Nuestro sitio web para inversión en criptomonedas.</p>
     <p>Términos y Condiciones: Acuerdo que rige tu uso de nuestra plataforma de criptomonedas.</p>
     <p>Redes Sociales de Terceros: Contenido o servicios externos en nuestra plataforma.</p>
-    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="/hn/">esta dirección</a>.</p>
+    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="./">esta dirección</a>.</p>
     <p>Tú: El usuario o entidad que accede a nuestros servicios de criptomonedas.</p>
     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acuerdo</strong></h2>
     <p>Estos términos rigen tu uso de nuestra plataforma de criptomonedas, detallando tus derechos y responsabilidades para la inversión en Bitcoin y altcoins.</p>
     <p>El acceso requiere aceptar estos términos, aplicables a todos los usuarios de criptomonedas.</p>
     <p>Si no estás de acuerdo, no uses nuestros servicios de criptomonedas.</p>
     <p>Debes tener más de 18 años para usar nuestra plataforma para inversión en criptomonedas.</p>
-    <p>Nuestra <a href="/hn/privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
+    <p>Nuestra <a href="./privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Tu Cuenta de Criptomonedas</strong></h2>
     <p>Proporciona información precisa y actualizada al registrarte para invertir en criptomonedas. Las inexactitudes pueden llevar a la terminación de la cuenta.</p>
     <p>Protege tu contraseña y reporta cualquier uso no autorizado de inmediato para proteger tus inversiones en criptomonedas.</p>
@@ -8503,25 +8503,25 @@ return [
     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contáctanos</strong></h2>
     <p>Para preguntas sobre estos términos, contáctanos:</p>
     <p>Por correo electrónico: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-    <p>Vía nuestra página <a data-id="42" data-type="page" href="/hn/contact">Contáctanos</a>.</p>
+    <p>Vía nuestra página <a data-id="42" data-type="page" href="./contact">Contáctanos</a>.</p>
 </div>'
     ],
     'ar' => [
-        // Основные настройки
+
         'country_name' => 'Argentina',
         'locale' => 'es_AR',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
         'locale_lang' => 'es-AR',
         'language_name' => 'Español',
-        'city' => 'Buenos Aires', // Локация изменена на столицу Аргентины
+        'city' => 'Buenos Aires',
         'country_code' => 'AR',
-        'geo_position' => '-34.603722, -58.381592', // Координаты Буэнос-Айреса
+        'geo_position' => '-34.603722, -58.381592',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
-        'jsonld_organization_review_author' => 'Juan Pérez de Floventra', // Имя адаптировано под Аргентину
+        'jsonld_organization_review_author' => 'Juan Pérez de Floventra',
         'jsonld_software_categories' => 'Herramienta de Inversión en Criptomonedas',
-        'jsonld_software_price' => '250000', // 250 USD ≈ 250,000 ARS (округлено вверх)
+        'jsonld_software_price' => '250000',
         'jsonld_software_price_currency' => 'ARS',
         'social_links' => [
             'https://facebook.com/floventra',
@@ -8529,11 +8529,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Главная страница
+
         'title' => 'Floventra - Tu Plataforma Líder de Inversión en Criptomonedas en Argentina | El sitio web oficial',
         'meta_description' => 'Unite a Floventra para aprovechar el potencial de Bitcoin, Ethereum y más con herramientas impulsadas por IA. ¡Empezá tu aventura en criptomonedas con brokers confiables por solo 250.000 ARS!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, inversión en criptomonedas, inversión en Bitcoin, plataforma con IA, Floventra, Argentina, Ethereum, altcoins, inversión segura',
-        // JSON-LD для главной страницы
+
         'jsonld_organization_review_body' => 'Floventra ofrece una plataforma segura con IA para inversores en criptomonedas en Argentina, con herramientas avanzadas y brokers confiables para Bitcoin y altcoins.',
         'jsonld_faq_1_question' => '¿Qué es Floventra?',
         'jsonld_faq_1_answer' => 'Floventra es una plataforma líder en Argentina que utiliza IA opcional para analizar mercados de criptomonedas con un 99.4% de precisión, ayudándote a invertir en Bitcoin, Ethereum y más.',
@@ -8552,17 +8552,17 @@ return [
         'contact' => 'Contactanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
-        // Главная страница (Index)
+
         'index_h1' => 'Lanzá tu Camino hacia la Riqueza en Criptomonedas con Floventra',
         'index_form' => 'Unite a Floventra Gratis y Empezá a Invertir en Criptomonedas',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="/ar/">Floventra</a> te permite explorar el fascinante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos investigar a fondo antes de sumergirte en los mercados de criptomonedas.</p>
+        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> te permite explorar el fascinante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos investigar a fondo antes de sumergirte en los mercados de criptomonedas.</p>
     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra no es un asesor financiero y no proporciona orientación de inversión personalizada. Sos responsable de tus decisiones de inversión en criptomonedas y debes cumplir con las regulaciones financieras locales. Nuestra plataforma gratuita, respaldada por asociaciones con brokers regulados, te conecta con oportunidades seguras en criptomonedas, y podemos ganar comisiones por referidos.</p>
     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Te conectamos con brokers confiables y regulados para garantizar una experiencia de inversión en criptomonedas segura y confiable. Aunque algunas regulaciones regionales pueden aplicarse, Floventra está diseñado para ayudarte a navegar el mercado de criptomonedas con confianza con un depósito mínimo de solo 250.000 ARS.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
             Por Qué Floventra Es Tu Plataforma Definitiva para Inversión en Criptomonedas
         </h2>
-        <p><a data-id="9" data-type="page" href="/ar/"><strong>Floventra</strong></a> es tu puerta confiable hacia brokers regulados, ofreciendo herramientas de última generación para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
+        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> es tu puerta confiable hacia brokers regulados, ofreciendo herramientas de última generación para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
         <p>El mercado de criptomonedas, valuado entre 350 mil millones y 400 mil millones de ARS, está en una fase estable, ofreciendo una oportunidad ideal para invertir en activos digitales como Bitcoin, la base de la riqueza en criptomonedas. No esperes: las barreras de entrada son bajas ahora, pero esta ventana puede cerrarse pronto.</p>
         <p>En <script>document.write(new Date().getFullYear() - 5)</script>, el mercado de criptomonedas alcanzó los 1150 mil millones de ARS, con Bitcoin tocando un máximo de 26.250.000 ARS y altcoins como Ethereum generando retornos masivos para los primeros inversores.</p>
         <p>Los expertos predicen otro boom de criptomonedas, impulsado por la adopción global y avances en blockchain. Con las herramientas opcionales de IA de Floventra, que cuentan con un 99.4% de precisión, estás equipado para aprovechar altos retornos en este mercado dinámico.</p>',
@@ -8678,7 +8678,7 @@ return [
     </h2>
     <p>Floventra evoluciona con el mercado de criptomonedas, ofreciendo herramientas de IA innovadoras para invertir en Bitcoin, Ethereum y altcoins emergentes con precisión.</p>
     <p>Nuestra plataforma empodera a los inversores en criptomonedas en todo el mundo con funciones diseñadas para desbloquear el potencial completo de los activos digitales.</p>',
-        // Страница "О нас" (About)
+
         'about_title' => 'Floventra - La Plataforma Líder de Inversión en Criptomonedas en Argentina',
         'about_desc_content' => 'Descubrí Floventra, la principal plataforma de Argentina para la inversión en criptomonedas, ofreciendo herramientas impulsadas por IA para Bitcoin, Ethereum y altcoins.',
         'about_keywords' => 'inversión en criptomonedas, inversión en Bitcoin, plataforma con IA, Floventra, Argentina, Ethereum, altcoins, inversión segura',
@@ -8709,7 +8709,7 @@ return [
         <p>Floventra no está vinculado a la estafa de Dragons’ Den, que promueve falsamente software de criptomonedas falso. Nuestra plataforma nunca fue presentada ni respaldada por el programa.</p>
         <p>Evitá anuncios engañosos que afirmen vínculos con Floventra: la seguridad de tu inversión en criptomonedas es nuestra máxima prioridad.</p>',
         'about_opportunities' => 'APROVECHÁ LAS OPORTUNIDADES EN CRIPTOMONEDAS CON Floventra',
-        // Страница "Контакты" (Contact)
+
         'contact_title' => 'Contactá a Floventra - Soporte para Inversiones en Criptomonedas en Argentina',
         'contact_desc_content' => 'Contactá al equipo de Floventra para obtener soporte experto en inversiones en Bitcoin, Ethereum y altcoins en Argentina.',
         'contact_keywords' => 'soporte para criptomonedas, Floventra, Argentina, Bitcoin, Ethereum, altcoins, inversión con IA',
@@ -8722,14 +8722,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Guías de Contacto de Floventra</h2>
     <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Revisá estas instrucciones para dirigir tu consulta sobre criptomonedas al equipo adecuado.</strong></p>
     <p class="has-base-3-color has-text-color">Para ayuda con el registro, preguntas sobre inversión en criptomonedas o problemas técnicos, usa el formulario a continuación, y nuestro equipo de soporte responderá rápidamente.</p>',
-        // Страница "Политика конфиденциальности" (Privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Protección de Datos para Criptomonedas en Argentina',
         'privacy_desc_content' => 'Conocé cómo Floventra protege tus datos para una inversión segura en criptomonedas en Argentina. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'política de privacidad, Floventra, Argentina, protección de datos para criptomonedas, Bitcoin, Ethereum, inversión con IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
     <p>Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script></p>
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quiénes Somos</h2>
-    <p>Nuestro sitio web: <a href="/ar/">https://floventra.org/ar/</a>.</p>
+    <p>Nuestro sitio web: <a href="./">https://floventra.org/</a>.</p>
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentarios</h2>
     <p>Cuando dejás comentarios, recopilamos datos del formulario, tu dirección IP y detalles del navegador para proteger contra spam en nuestra comunidad de criptomonedas.</p>
     <p>Un hash de correo electrónico anonimizado puede enviarse a Gravatar para verificar su uso. Su política de privacidad: https://automattic.com/privacy/. Los comentarios aprobados muestran tu foto de perfil públicamente.</p>
@@ -8752,7 +8752,7 @@ return [
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">A Dónde Van los Datos</h2>
     <p>Los comentarios pueden ser filtrados por detección automática de spam para proteger nuestra plataforma de criptomonedas.</p>
 </div>',
-        // Страница "Условия использования" (Terms)
+
         'terms_title' => 'Términos de Floventra - Servicios de Inversión en Criptomonedas en Argentina',
         'terms_desc_content' => 'Revisá los términos de Floventra para una inversión segura en criptomonedas en Argentina. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'términos y condiciones, Floventra, Argentina, servicios de inversión en criptomonedas, Bitcoin, Ethereum, inversión con IA',
@@ -8772,14 +8772,14 @@ return [
     <p>Servicio: Nuestro sitio web para inversión en criptomonedas.</p>
     <p>Términos y Condiciones: Acuerdo que rige tu uso de nuestra plataforma de criptomonedas.</p>
     <p>Redes Sociales de Terceros: Contenido o servicios externos en nuestra plataforma.</p>
-    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="/ar/">esta dirección</a>.</p>
+    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="./">esta dirección</a>.</p>
     <p>Vos: El usuario o entidad que accede a nuestros servicios de criptomonedas.</p>
     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acuerdo</strong></h2>
     <p>Estos términos rigen tu uso de nuestra plataforma de criptomonedas, detallando tus derechos y responsabilidades para la inversión en Bitcoin y altcoins.</p>
     <p>El acceso requiere aceptar estos términos, aplicables a todos los usuarios de criptomonedas.</p>
     <p>Si no estás de acuerdo, no uses nuestros servicios de criptomonedas.</p>
     <p>Debes tener más de 18 años para usar nuestra plataforma para inversión en criptomonedas.</p>
-    <p>Nuestra <a href="/ar/privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
+    <p>Nuestra <a href="./privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Tu Cuenta de Criptomonedas</strong></h2>
     <p>Proporcioná información precisa y actualizada al registrarte para invertir en criptomonedas. Las inexactitudes pueden llevar a la terminación de la cuenta.</p>
     <p>Protegé tu contraseña y reportá cualquier uso no autorizado de inmediato para proteger tus inversiones en criptomonedas.</p>
@@ -8820,25 +8820,25 @@ return [
     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contactanos</strong></h2>
     <p>Para preguntas sobre estos términos, contactanos:</p>
     <p>Por correo electrónico: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-    <p>Vía nuestra página <a data-id="42" data-type="page" href="/ar/contact">Contactanos</a>.</p>
+    <p>Vía nuestra página <a data-id="42" data-type="page" href="./contact">Contactanos</a>.</p>
 </div>'
     ],
     'cr' => [
-        // Основные настройки
+
         'country_name' => 'Costa Rica',
         'locale' => 'es_CR',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
         'locale_lang' => 'es-CR',
         'language_name' => 'Español',
-        'city' => 'San José', // Локация изменена на столицу Коста-Рики
+        'city' => 'San José',
         'country_code' => 'CR',
-        'geo_position' => '9.9333, -84.0833', // Координаты Сан-Хосе
+        'geo_position' => '9.9333, -84.0833',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
-        'jsonld_organization_review_author' => 'Carlos Vargas de Floventra', // Имя адаптировано под Коста-Рику
+        'jsonld_organization_review_author' => 'Carlos Vargas de Floventra',
         'jsonld_software_categories' => 'Herramienta de Inversiones en Criptomonedas',
-        'jsonld_software_price' => '130000', // 250 USD ≈ 130,000 CRC (округлено вверх, курс ~520 CRC за 1 USD)
+        'jsonld_software_price' => '130000',
         'jsonld_software_price_currency' => 'CRC',
         'social_links' => [
             'https://facebook.com/floventra',
@@ -8846,11 +8846,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Главная страница
+
         'title' => 'Floventra - Tu Plataforma Líder de Inversiones en Criptomonedas en Costa Rica | El sitio web oficial',
         'meta_description' => 'Unite a Floventra para aprovechar el potencial de Bitcoin, Ethereum y más con herramientas impulsadas por IA. ¡Empezá tu aventura en criptomonedas con brokers confiables por solo 130.000 CRC!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, inversiones en criptomonedas, inversiones en Bitcoin, plataforma con IA, Floventra, Costa Rica, Ethereum, altcoins, inversión segura',
-        // JSON-LD для главной страницы
+
         'jsonld_organization_review_body' => 'Floventra ofrece una plataforma segura con IA para inversores en criptomonedas en Costa Rica, con herramientas avanzadas y brokers confiables para Bitcoin y altcoins.',
         'jsonld_faq_1_question' => '¿Qué es Floventra?',
         'jsonld_faq_1_answer' => 'Floventra es una plataforma líder en Costa Rica que utiliza IA opcional para analizar mercados de criptomonedas con un 99.4% de precisión, ayudándote a invertir en Bitcoin, Ethereum y más.',
@@ -8869,17 +8869,17 @@ return [
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
-        // Главная страница (Index)
+
         'index_h1' => 'Lanzá tu Camino hacia la Riqueza en Criptomonedas con Floventra',
         'index_form' => 'Unite a Floventra Gratis y Empezá a Invertir en Criptomonedas',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="/cr/">Floventra</a> te permite explorar el fascinante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos investigar a fondo antes de sumergirte en los mercados de criptomonedas.</p>
+        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> te permite explorar el fascinante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos investigar a fondo antes de sumergirte en los mercados de criptomonedas.</p>
     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra no es un asesor financiero y no proporciona orientación de inversión personalizada. Sos responsable de tus decisiones de inversión en criptomonedas y debes cumplir con las regulaciones financieras locales. Nuestra plataforma gratuita, respaldada por asociaciones con brokers regulados, te conecta con oportunidades seguras en criptomonedas, y podemos ganar comisiones por referidos.</p>
     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Te conectamos con brokers confiables y regulados para garantizar una experiencia de inversión en criptomonedas segura y confiable. Aunque algunas regulaciones regionales pueden aplicarse, Floventra está diseñado para ayudarte a navegar el mercado de criptomonedas con confianza con un depósito mínimo de solo 130.000 CRC.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
             Por Qué Floventra Es Tu Plataforma Definitiva para Inversiones en Criptomonedas
         </h2>
-        <p><a data-id="9" data-type="page" href="/cr/"><strong>Floventra</strong></a> es tu puerta confiable hacia brokers regulados, ofreciendo herramientas de última generación para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
+        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> es tu puerta confiable hacia brokers regulados, ofreciendo herramientas de última generación para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
         <p>El mercado de criptomonedas, valuado entre 182 mil millones y 208 mil millones de CRC, está en una fase estable, ofreciendo una oportunidad ideal para invertir en activos digitales como Bitcoin, la base de la riqueza en criptomonedas. No esperes: las barreras de entrada son bajas ahora, pero esta ventana puede cerrarse pronto.</p>
         <p>En <script>document.write(new Date().getFullYear() - 5)</script>, el mercado de criptomonedas alcanzó los 598 mil millones de CRC, con Bitcoin tocando un máximo de 13.650.000 CRC y altcoins como Ethereum generando retornos masivos para los primeros inversores.</p>
         <p>Los expertos predicen otro boom de criptomonedas, impulsado por la adopción global y avances en blockchain. Con las herramientas opcionales de IA de Floventra, que cuentan con un 99.4% de precisión, estás equipado para aprovechar altos retornos en este mercado dinámico.</p>',
@@ -8995,7 +8995,7 @@ return [
     </h2>
     <p>Floventra evoluciona con el mercado de criptomonedas, ofreciendo herramientas de IA innovadoras para invertir en Bitcoin, Ethereum y altcoins emergentes con precisión.</p>
     <p>Nuestra plataforma empodera a los inversores en criptomonedas en todo el mundo con funciones diseñadas para desbloquear el potencial completo de los activos digitales.</p>',
-        // Страница "О нас" (About)
+
         'about_title' => 'Floventra - La Plataforma Líder de Inversiones en Criptomonedas en Costa Rica | El sitio web oficial',
         'about_desc_content' => 'Descubrí Floventra, la principal plataforma de Costa Rica para las inversiones en criptomonedas, ofreciendo herramientas impulsadas por IA para Bitcoin, Ethereum y altcoins.',
         'about_keywords' => 'inversiones en criptomonedas, inversiones en Bitcoin, plataforma con IA, Floventra, Costa Rica, Ethereum, altcoins, inversión segura',
@@ -9026,7 +9026,7 @@ return [
         <p>Floventra no está vinculado a la estafa de Dragons’ Den, que promueve falsamente software de criptomonedas falso. Nuestra plataforma nunca fue presentada ni respaldada por el programa.</p>
         <p>Evitá anuncios engañosos que afirmen vínculos con Floventra: la seguridad de tu inversión en criptomonedas es nuestra máxima prioridad.</p>',
         'about_opportunities' => 'APROVECHÁ LAS OPORTUNIDADES EN CRIPTOMONEDAS CON Floventra',
-        // Страница "Контакты" (Contact)
+
         'contact_title' => 'Contácta a Floventra - Soporte para Inversiones en Criptomonedas en Costa Rica',
         'contact_desc_content' => 'Contácta al equipo de Floventra para obtener soporte experto en inversiones en Bitcoin, Ethereum y altcoins en Costa Rica.',
         'contact_keywords' => 'soporte para criptomonedas, Floventra, Costa Rica, Bitcoin, Ethereum, altcoins, inversión con IA',
@@ -9039,14 +9039,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Guías de Contacto de Floventra</h2>
     <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Revisá estas instrucciones para dirigir tu consulta sobre criptomonedas al equipo adecuado.</strong></p>
     <p class="has-base-3-color has-text-color">Para ayuda con el registro, preguntas sobre inversión en criptomonedas o problemas técnicos, usa el formulario a continuación, y nuestro equipo de soporte responderá rápidamente.</p>',
-        // Страница "Политика конфиденциальности" (Privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Protección de Datos para Criptomonedas en Costa Rica',
         'privacy_desc_content' => 'Conocé cómo Floventra protege tus datos para una inversión segura en criptomonedas en Costa Rica. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'política de privacidad, Floventra, Costa Rica, protección de datos para criptomonedas, Bitcoin, Ethereum, inversión con IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
     <p>Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script></p>
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quiénes Somos</h2>
-    <p>Nuestro sitio web: <a href="/cr/">https://floventra.org/cr/</a>.</p>
+    <p>Nuestro sitio web: <a href="./">https://floventra.org/</a>.</p>
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentarios</h2>
     <p>Cuando dejás comentarios, recopilamos datos del formulario, tu dirección IP y detalles del navegador para proteger contra spam en nuestra comunidad de criptomonedas.</p>
     <p>Un hash de correo electrónico anonimizado puede enviarse a Gravatar para verificar su uso. Su política de privacidad: https://automattic.com/privacy/. Los comentarios aprobados muestran tu foto de perfil públicamente.</p>
@@ -9069,7 +9069,7 @@ return [
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">A Dónde Van los Datos</h2>
     <p>Los comentarios pueden ser filtrados por detección automática de spam para proteger nuestra plataforma de criptomonedas.</p>
 </div>',
-        // Страница "Условия использования" (Terms)
+
         'terms_title' => 'Términos de Floventra - Servicios de Inversiones en Criptomonedas en Costa Rica',
         'terms_desc_content' => 'Revisá los términos de Floventra para una inversión segura en criptomonedas en Costa Rica. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'términos y condiciones, Floventra, Costa Rica, servicios de inversiones en criptomonedas, Bitcoin, Ethereum, inversión con IA',
@@ -9089,14 +9089,14 @@ return [
     <p>Servicio: Nuestro sitio web para inversiones en criptomonedas.</p>
     <p>Términos y Condiciones: Acuerdo que rige tu uso de nuestra plataforma de criptomonedas.</p>
     <p>Redes Sociales de Terceros: Contenido o servicios externos en nuestra plataforma.</p>
-    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="/cr/">esta dirección</a>.</p>
+    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="./">esta dirección</a>.</p>
     <p>Vos: El usuario o entidad que accede a nuestros servicios de criptomonedas.</p>
     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acuerdo</strong></h2>
     <p>Estos términos rigen tu uso de nuestra plataforma de criptomonedas, detallando tus derechos y responsabilidades para las inversiones en Bitcoin y altcoins.</p>
     <p>El acceso requiere aceptar estos términos, aplicables a todos los usuarios de criptomonedas.</p>
     <p>Si no estás de acuerdo, no uses nuestros servicios de criptomonedas.</p>
     <p>Debes tener más de 18 años para usar nuestra plataforma para inversiones en criptomonedas.</p>
-    <p>Nuestra <a href="/cr/privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
+    <p>Nuestra <a href="./privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Tu Cuenta de Criptomonedas</strong></h2>
     <p>Proporcioná información precisa y actualizada al registrarte para invertir en criptomonedas. Las inexactitudes pueden llevar a la terminación de la cuenta.</p>
     <p>Protegé tu contraseña y reportá cualquier uso no autorizado de inmediato para proteger tus inversiones en criptomonedas.</p>
@@ -9137,25 +9137,25 @@ return [
     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contáctanos</strong></h2>
     <p>Para preguntas sobre estos términos, contáctanos:</p>
     <p>Por correo electrónico: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-    <p>Vía nuestra página <a data-id="42" data-type="page" href="/cr/contact">Contáctanos</a>.</p>
+    <p>Vía nuestra página <a data-id="42" data-type="page" href="./contact">Contáctanos</a>.</p>
 </div>'
     ],
     'mx' => [
-        // Основные настройки
+
         'country_name' => 'México',
         'locale' => 'es_MX',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
         'locale_lang' => 'es-MX',
         'language_name' => 'Español',
-        'city' => 'Ciudad de México', // Локация изменена на столицу Мексики
+        'city' => 'Ciudad de México',
         'country_code' => 'MX',
-        'geo_position' => '19.4326, -99.1332', // Координаты Мехико
+        'geo_position' => '19.4326, -99.1332',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
-        'jsonld_organization_review_author' => 'Juan Pérez de Floventra', // Имя адаптировано под Мексику
+        'jsonld_organization_review_author' => 'Juan Pérez de Floventra',
         'jsonld_software_categories' => 'Herramienta de Inversiones en Criptomonedas',
-        'jsonld_software_price' => '5000', // 250 USD ≈ 5000 MXN (округлено вверх, курс ~20 MXN за 1 USD)
+        'jsonld_software_price' => '5000',
         'jsonld_software_price_currency' => 'MXN',
         'social_links' => [
             'https://facebook.com/floventra',
@@ -9163,11 +9163,11 @@ return [
             'https://linkedin.com/company/floventra',
             'https://instagram.com/floventra'
         ],
-        // Главная страница
+
         'title' => 'Floventra - Tu Plataforma Líder de Inversiones en Criptomonedas en México | El sitio web oficial',
         'meta_description' => 'Únete a Floventra para aprovechar el potencial de Bitcoin, Ethereum y más con herramientas impulsadas por IA. ¡Empieza tu aventura en criptomonedas con brokers confiables por solo 5,000 MXN!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, inversiones en criptomonedas, inversiones en Bitcoin, plataforma con IA, Floventra, México, Ethereum, altcoins, inversión segura',
-        // JSON-LD для главной страницы
+
         'jsonld_organization_review_body' => 'Floventra ofrece una plataforma segura con IA para inversores en criptomonedas en México, con herramientas avanzadas y brokers confiables para Bitcoin y altcoins.',
         'jsonld_faq_1_question' => '¿Qué es Floventra?',
         'jsonld_faq_1_answer' => 'Floventra es una plataforma líder en México que utiliza IA opcional para analizar mercados de criptomonedas con un 99.4% de precisión, ayudándote a invertir en Bitcoin, Ethereum y más.',
@@ -9186,17 +9186,17 @@ return [
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
-        // Главная страница (Index)
+
         'index_h1' => 'Lanza tu Camino hacia la Riqueza en Criptomonedas con Floventra',
         'index_form' => 'Únete a Floventra Gratis y Empieza a Invertir en Criptomonedas',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="/mx/">Floventra</a> te permite explorar el fascinante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos investigar a fondo antes de sumergirte en los mercados de criptomonedas.</p>
+        <strong>Aviso Importante</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> te permite explorar el fascinante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones en criptomonedas conllevan riesgos y los retornos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos investigar a fondo antes de sumergirte en los mercados de criptomonedas.</p>
     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra no es un asesor financiero y no proporciona orientación de inversión personalizada. Eres responsable de tus decisiones de inversión en criptomonedas y debes cumplir con las regulaciones financieras locales. Nuestra plataforma gratuita, respaldada por asociaciones con brokers regulados, te conecta con oportunidades seguras en criptomonedas, y podemos ganar comisiones por referidos.</p>
     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Te conectamos con brokers confiables y regulados para garantizar una experiencia de inversión en criptomonedas segura y confiable. Aunque algunas regulaciones regionales pueden aplicarse, Floventra está diseñado para ayudarte a navegar el mercado de criptomonedas con confianza con un depósito mínimo de solo 5,000 MXN.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
             Por Qué Floventra Es Tu Plataforma Definitiva para Inversiones en Criptomonedas
         </h2>
-        <p><a data-id="9" data-type="page" href="/mx/"><strong>Floventra</strong></a> es tu puerta confiable hacia brokers regulados, ofreciendo herramientas de última generación para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
+        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> es tu puerta confiable hacia brokers regulados, ofreciendo herramientas de última generación para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Ya seas nuevo en criptomonedas o un inversor experimentado, nuestra plataforma garantiza seguridad contra estafas con socios verificados e información impulsada por IA.</p>
         <p>El mercado de criptomonedas, valuado entre 3,640 millones y 4,160 millones de MXN, está en una fase estable, ofreciendo una oportunidad ideal para invertir en activos digitales como Bitcoin, la base de la riqueza en criptomonedas. No esperes: las barreras de entrada son bajas ahora, pero esta ventana puede cerrarse pronto.</p>
         <p>En <script>document.write(new Date().getFullYear() - 5)</script>, el mercado de criptomonedas alcanzó los 11,960 millones de MXN, con Bitcoin tocando un máximo de 273,000 MXN y altcoins como Ethereum generando retornos masivos para los primeros inversores.</p>
         <p>Los expertos predicen otro boom de criptomonedas, impulsado por la adopción global y avances en blockchain. Con las herramientas opcionales de IA de Floventra, que cuentan con un 99.4% de precisión, estás equipado para aprovechar altos retornos en este mercado dinámico.</p>',
@@ -9312,7 +9312,7 @@ return [
     </h2>
     <p>Floventra evoluciona con el mercado de criptomonedas, ofreciendo herramientas de IA innovadoras para invertir en Bitcoin, Ethereum y altcoins emergentes con precisión.</p>
     <p>Nuestra plataforma empodera a los inversores en criptomonedas en todo el mundo con funciones diseñadas para desbloquear el potencial completo de los activos digitales.</p>',
-        // Страница "О нас" (About)
+
         'about_title' => 'Floventra - La Plataforma Líder de Inversiones en Criptomonedas en México | El sitio web oficial',
         'about_desc_content' => 'Descubre Floventra, la principal plataforma de México para las inversiones en criptomonedas, ofreciendo herramientas impulsadas por IA para Bitcoin, Ethereum y altcoins.',
         'about_keywords' => 'inversiones en criptomonedas, inversiones en Bitcoin, plataforma con IA, Floventra, México, Ethereum, altcoins, inversión segura',
@@ -9343,7 +9343,7 @@ return [
         <p>Floventra no está vinculado a la estafa de Dragons’ Den, que promueve falsamente software de criptomonedas falso. Nuestra plataforma nunca fue presentada ni respaldada por el programa.</p>
         <p>Evita anuncios engañosos que afirmen vínculos con Floventra: la seguridad de tu inversión en criptomonedas es nuestra máxima prioridad.</p>',
         'about_opportunities' => 'APROVECHA LAS OPORTUNIDADES EN CRIPTOMONEDAS CON Floventra',
-        // Страница "Контакты" (Contact)
+
         'contact_title' => 'Contacta a Floventra - Soporte para Inversiones en Criptomonedas en México',
         'contact_desc_content' => 'Contacta al equipo de Floventra para obtener soporte experto en inversiones en Bitcoin, Ethereum y altcoins en México.',
         'contact_keywords' => 'soporte para criptomonedas, Floventra, México, Bitcoin, Ethereum, altcoins, inversión con IA',
@@ -9356,14 +9356,14 @@ return [
         'contact_guide' => '<h2 class="gb-headline gb-headline-cffb62a7 gb-headline-text">Guías de Contacto de Floventra</h2>
     <p class="has-global-color-9-color has-text-color has-medium-font-size"><strong>Revisa estas instrucciones para dirigir tu consulta sobre criptomonedas al equipo adecuado.</strong></p>
     <p class="has-base-3-color has-text-color">Para ayuda con el registro, preguntas sobre inversión en criptomonedas o problemas técnicos, usa el formulario a continuación, y nuestro equipo de soporte responderá rápidamente.</p>',
-        // Страница "Политика конфиденциальности" (Privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Protección de Datos para Criptomonedas en México',
         'privacy_desc_content' => 'Conoce cómo Floventra protege tus datos para una inversión segura en criptomonedas en México. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'privacy_keywords' => 'política de privacidad, Floventra, México, protección de datos para criptomonedas, Bitcoin, Ethereum, inversión con IA',
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
     <p>Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script></p>
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quiénes Somos</h2>
-    <p>Nuestro sitio web: <a href="/mx/">https://floventra.org/mx/</a>.</p>
+    <p>Nuestro sitio web: <a href="./">https://floventra.org/</a>.</p>
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentarios</h2>
     <p>Cuando dejas comentarios, recopilamos datos del formulario, tu dirección IP y detalles del navegador para proteger contra spam en nuestra comunidad de criptomonedas.</p>
     <p>Un hash de correo electrónico anonimizado puede enviarse a Gravatar para verificar su uso. Su política de privacidad: https://automattic.com/privacy/. Los comentarios aprobados muestran tu foto de perfil públicamente.</p>
@@ -9386,7 +9386,7 @@ return [
     <h2 class="wp-block-heading has-global-color-9-color has-text-color">A Dónde Van los Datos</h2>
     <p>Los comentarios pueden ser filtrados por detección automática de spam para proteger nuestra plataforma de criptomonedas.</p>
 </div>',
-        // Страница "Условия использования" (Terms)
+
         'terms_title' => 'Términos de Floventra - Servicios de Inversiones en Criptomonedas en México',
         'terms_desc_content' => 'Revisa los términos de Floventra para una inversión segura en criptomonedas en México. Última actualización: 23 de febrero de <script>document.write(new Date().getFullYear() - 2)</script>.',
         'terms_keywords' => 'términos y condiciones, Floventra, México, servicios de inversiones en criptomonedas, Bitcoin, Ethereum, inversión con IA',
@@ -9406,14 +9406,14 @@ return [
     <p>Servicio: Nuestro sitio web para inversiones en criptomonedas.</p>
     <p>Términos y Condiciones: Acuerdo que rige tu uso de nuestra plataforma de criptomonedas.</p>
     <p>Redes Sociales de Terceros: Contenido o servicios externos en nuestra plataforma.</p>
-    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="/mx/">esta dirección</a>.</p>
+    <p>Sitio Web: Floventra en <a data-id="9" data-type="page" href="./">esta dirección</a>.</p>
     <p>Tú: El usuario o entidad que accede a nuestros servicios de criptomonedas.</p>
     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acuerdo</strong></h2>
     <p>Estos términos rigen tu uso de nuestra plataforma de criptomonedas, detallando tus derechos y responsabilidades para las inversiones en Bitcoin y altcoins.</p>
     <p>El acceso requiere aceptar estos términos, aplicables a todos los usuarios de criptomonedas.</p>
     <p>Si no estás de acuerdo, no uses nuestros servicios de criptomonedas.</p>
     <p>Debes tener más de 18 años para usar nuestra plataforma para inversiones en criptomonedas.</p>
-    <p>Nuestra <a href="/mx/privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
+    <p>Nuestra <a href="./privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios de criptomonedas.</p>
     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Tu Cuenta de Criptomonedas</strong></h2>
     <p>Proporciona información precisa y actualizada al registrarte para invertir en criptomonedas. Las inexactitudes pueden llevar a la terminación de la cuenta.</p>
     <p>Protege tu contraseña y reporta cualquier uso no autorizado de inmediato para proteger tus inversiones en criptomonedas.</p>
@@ -9454,7 +9454,7 @@ return [
     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contáctanos</strong></h2>
     <p>Para preguntas sobre estos términos, contáctanos:</p>
     <p>Por correo electrónico: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-    <p>Vía nuestra página <a data-id="42" data-type="page" href="/mx/contact">Contáctanos</a>.</p>
+    <p>Vía nuestra página <a data-id="42" data-type="page" href="./contact">Contáctanos</a>.</p>
 </div>'
     ],
     'my' => [
@@ -9502,13 +9502,13 @@ return [
         'index_h1' => 'Launch Your Crypto Wealth Journey with Floventra',
         'index_form' => 'Join Floventra for Free and Start Crypto Investing',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                        <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="/">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
+                        <strong>Important Notice</strong>: <a data-id="9" data-type="page" href="./">Floventra</a> empowers you to explore the exciting world of cryptocurrencies like Bitcoin and Ethereum with advanced tools and trusted brokers. Crypto investments involve risks, and returns are not guaranteed. Our platform offers educational resources to guide your decisions, not financial advice. We recommend thorough research before diving into crypto markets.</p>
                     <p class="gb-headline gb-headline-289c9730 gb-headline-text">Floventra is not a financial advisor and does not provide personalized investment guidance. You are responsible for your crypto trading decisions and must adhere to local financial regulations. Our free platform, supported by partnerships with FCA-compliant brokers, connects you to secure crypto opportunities, and we may earn commissions from referrals.</p>
                     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">We connect you with trusted, FCA-compliant brokers to ensure a safe and reliable crypto investing experience. While some regional regulations may apply, Floventra is designed to help you navigate the crypto market confidently with a minimum deposit of just £190.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                             Why Floventra Is Your Ultimate Crypto Investment Platform
                         </h2>
-                        <p><a data-id="9" data-type="page" href="/"><strong>Floventra</strong></a> is your trusted gateway to FCA-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned trader, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
+                        <p><a data-id="9" data-type="page" href="./"><strong>Floventra</strong></a> is your trusted gateway to FCA-compliant brokers, offering cutting-edge tools to excel in cryptocurrency investing, from Bitcoin to altcoins like Ethereum, Ripple, and Cardano. Whether you’re new to crypto or a seasoned trader, our platform ensures safety from scams with vetted partners and AI-driven insights.</p>
                         <p>The cryptocurrency market, valued at £900 billion to £1 trillion, is in a stable phase, offering a prime opportunity to invest in digital assets like Bitcoin, the cornerstone of crypto wealth. Don’t wait—entry barriers are low now, but this window may close soon.</p>
                         <p>In <script>document.write(new Date().getFullYear() - 5)</script>, the crypto market soared to £2.9 trillion, with Bitcoin peaking at £67,000 and altcoins like Ethereum driving massive returns for early investors.</p>
                         <p>Experts predict another crypto surge, fueled by global adoption and blockchain advancements. With Floventra’s optional AI tools boasting 99.4% accuracy, you’re equipped to seize high returns in this fast-moving market.</p>',
@@ -9672,7 +9672,7 @@ return [
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                     <p>Last updated: February 23, <script>document.write(new Date().getFullYear() - 2)</script></p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Who We Are</h2>
-                    <p>Our website: <a href="/">https://floventra.org/</a>.</p>
+                    <p>Our website: <a href="./">https://floventra.org/</a>.</p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comments</h2>
                     <p>When you leave comments, we collect form data, your IP address, and browser details to protect against spam in our crypto community.</p>
                     <p>An anonymized email hash may be sent to Gravatar to check usage. Their privacy policy: https://automattic.com/privacy/. Approved comments display your profile picture publicly.</p>
@@ -9714,14 +9714,14 @@ return [
                     <p>Service: Our website for crypto investing.</p>
                     <p>Terms and Conditions: Agreement governing your use of our crypto platform.</p>
                     <p>Third-party Social Media: External content or services in our platform.</p>
-                    <p>Website: Floventra at <a data-id="9" data-type="page" href="/">this address</a>.</p>
+                    <p>Website: Floventra at <a data-id="9" data-type="page" href="./">this address</a>.</p>
                     <p>You: The user or entity accessing our crypto services.</p>
                     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Agreement</strong></h2>
                     <p>These terms govern your use of our crypto platform, outlining your rights and responsibilities for Bitcoin and altcoin trading.</p>
                     <p>Access requires agreeing to these terms, applicable to all crypto users.</p>
                     <p>If you disagree, do not use our crypto services.</p>
                     <p>You must be over 18 to use our platform for crypto investing.</p>
-                    <p>Our <a href="/privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
+                    <p>Our <a href="./privacy">Privacy Policy</a> details data collection and protection for crypto users.</p>
                     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Your Crypto Account</strong></h2>
                     <p>Provide accurate, current information when signing up for crypto trading. Inaccuracies may lead to account termination.</p>
                     <p>Secure your password and report any unauthorized use immediately to protect your crypto investments.</p>
@@ -9762,7 +9762,7 @@ return [
                     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contact Us</strong></h2>
                     <p>For questions about these terms, contact us:</p>
                     <p>By email: <a href="mailto:info@floventra.org">info@floventra.org</a></p>
-                    <p>Via our <a data-id="42" data-type="page" href="/contact">Contact Us</a> page.</p>
+                    <p>Via our <a data-id="42" data-type="page" href="./contact">Contact Us</a> page.</p>
                 </div>'
     ],
 ];
